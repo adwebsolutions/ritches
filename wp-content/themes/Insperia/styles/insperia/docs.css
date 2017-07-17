@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* this css file is only for THEME DEMO. don't use this css file in your website. Use only "theme.css" */
+
+.btn-group, .input-group{margin-bottom:10px;}
+.btn-group-vertical .btn-group{margin-bottom:0;}
+.spacer{height:60px;}
+.spacer.mini{height:20px;}

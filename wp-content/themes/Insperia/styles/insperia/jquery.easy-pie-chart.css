@@ -1,0 +1,10 @@
+/* PiE Charts */
+.easyPieChart { position: relative; text-align: center; }
+.easyPieChart canvas { position: absolute; top: 0; left: 0; }
+.chart-wrap { text-align:center; }
+.chart { display:inline-block; margin:0;}
+div.chart:last-child { margin-right:0; }
+.easyPieChart { position: relative; text-align: center; font-size:16px; }
+.easyPieChart canvas { position: absolute; top: 0; left: 0; }
+.chart .chart-label { text-align:center; padding:10px 0; }
+.contact-form .col-sm-6, .contact-form .col-sm-12 { padding-bottom:0; }
