@@ -1,0 +1,2911 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insperia\n"
+"POT-Creation-Date: 2017-07-28 10:01-0400\n"
+"PO-Revision-Date: 2017-07-28 10:05-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Tax-meta-class/Tax-meta-class.php:379 Tax-meta-class/Tax-meta-class.php:426
+#: meta-box-class/my-meta-box-class.php:420
+#: meta-box-class/my-meta-box-class.php:459
+msgid "Remove"
+msgstr "Eliminar"
+
+#: Tax-meta-class/Tax-meta-class.php:392
+#: meta-box-class/my-meta-box-class.php:432
+msgid "Add"
+msgstr "Aregar"
+
+#: Tax-meta-class/Tax-meta-class.php:725
+msgid "Remove Image"
+msgstr ""
+
+#: Tax-meta-class/Tax-meta-class.php:727 functions.php:93 functions.php:111
+msgid "Upload Image"
+msgstr ""
+
+#: admin/options-framework.php:167 admin/options-framework.php:399
+msgid "Insperia"
+msgstr ""
+
+#: admin/options-framework.php:201
+msgid "Clear"
+msgstr "Limpiar"
+
+#: admin/options-framework.php:202
+msgid "Default"
+msgstr "Defecto"
+
+#: admin/options-framework.php:203
+msgid "Select Color"
+msgstr ""
+
+#: admin/options-framework.php:252 admin/options-framework.php:256
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:289
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:346
+msgid "Options saved."
+msgstr ""
+
+#: footer.php:21
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:25
+msgid "LinkedIn"
+msgstr ""
+
+#: footer.php:29
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:33
+msgid "Dribbble"
+msgstr ""
+
+#: footer.php:37
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:41
+msgid "Deviantart"
+msgstr ""
+
+#: footer.php:45
+msgid "Skype"
+msgstr ""
+
+#: footer.php:49
+msgid "RSS"
+msgstr ""
+
+#: footer.php:53
+msgid "Google+"
+msgstr ""
+
+#: footer.php:57
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:61
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:23 functions.php:24
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: functions.php:25
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: functions.php:26
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: functions.php:27
+msgid "Add New Testimonial"
+msgstr "Agregar nuevo Testimonio"
+
+#: functions.php:28
+msgid "Edit Testimonials"
+msgstr "Editar Testimonios"
+
+#: functions.php:29
+msgid "New Testimonials"
+msgstr "Nuevo Testimonios"
+
+#: functions.php:30
+msgid "View Testimonials"
+msgstr "Ver Testimonios"
+
+#: functions.php:31
+msgid "All Testimonials"
+msgstr ""
+
+#: functions.php:32
+msgid "Search Testimonials"
+msgstr ""
+
+#: functions.php:33
+#, fuzzy
+#| msgid "Nothing Found"
+msgid "No Testimonials Found"
+msgstr "No hay resultados"
+
+#: functions.php:34
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: functions.php:56
+msgid "testimonial-cat"
+msgstr ""
+
+#: functions.php:57
+msgid "testimonial"
+msgstr ""
+
+#: functions.php:60
+msgid "Categories"
+msgstr ""
+
+#: functions.php:61
+msgid "Category"
+msgstr ""
+
+#: functions.php:93
+msgid "Image before treatment"
+msgstr ""
+
+#: functions.php:111
+msgid "Image after treatment"
+msgstr ""
+
+#: functions.php:290 woocommerce/cart/mini-cart.php:62
+msgid "Sub Total"
+msgstr ""
+
+#: functions.php:294 woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr "Ir al Carrito"
+
+#: functions.php:295 woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr "Ir a Pedido"
+
+#: functions.php:299 woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr "No hay productos."
+
+#: header.php:61
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: header.php:175
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: meta-box-class/my-meta-box-class.php:789
+msgid "Select a color"
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:877
+msgid "Select ..."
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:1824
+#: meta-box-class/my-meta-box-class.php:1832
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: options.php:22
+msgid "Fade Up"
+msgstr ""
+
+#: options.php:22
+msgid "Fade Down"
+msgstr ""
+
+#: options.php:22
+msgid "Fade Left"
+msgstr ""
+
+#: options.php:22
+msgid "Fade Right"
+msgstr ""
+
+#: options.php:22
+msgid "None"
+msgstr ""
+
+#: options.php:25
+msgid "Abeezee"
+msgstr ""
+
+#: options.php:26
+msgid "Abel"
+msgstr ""
+
+#: options.php:27
+msgid "Abril Fatface"
+msgstr ""
+
+#: options.php:28
+msgid "Aclonica"
+msgstr ""
+
+#: options.php:29
+msgid "Actor"
+msgstr ""
+
+#: options.php:30
+msgid "Adamina"
+msgstr ""
+
+#: options.php:31
+msgid "Aguafina Script"
+msgstr ""
+
+#: options.php:32
+msgid "Aladin"
+msgstr ""
+
+#: options.php:33
+msgid "Aldrich"
+msgstr ""
+
+#: options.php:34
+msgid "Alice"
+msgstr ""
+
+#: options.php:35
+msgid "Alike Angular"
+msgstr ""
+
+#: options.php:36
+msgid "Alike"
+msgstr ""
+
+#: options.php:37
+msgid "Allan"
+msgstr ""
+
+#: options.php:38
+msgid "Allerta Stencil"
+msgstr ""
+
+#: options.php:39
+msgid "Allerta"
+msgstr ""
+
+#: options.php:40
+msgid "Amaranth"
+msgstr ""
+
+#: options.php:41
+msgid "Amatic SC"
+msgstr ""
+
+#: options.php:42
+msgid "Andada"
+msgstr ""
+
+#: options.php:43
+msgid "Andika"
+msgstr ""
+
+#: options.php:44
+msgid "Annie Use Your Telescope"
+msgstr ""
+
+#: options.php:45
+msgid "Anonymous Pro"
+msgstr ""
+
+#: options.php:46
+msgid "Antic"
+msgstr ""
+
+#: options.php:47
+msgid "Anton"
+msgstr ""
+
+#: options.php:48
+msgid "Arapey"
+msgstr ""
+
+#: options.php:49
+msgid "Architects Daughter"
+msgstr ""
+
+#: options.php:50
+msgid "Arimo"
+msgstr ""
+
+#: options.php:51
+msgid "Artifika"
+msgstr ""
+
+#: options.php:52
+msgid "Arvo"
+msgstr ""
+
+#: options.php:53
+msgid "Asset"
+msgstr ""
+
+#: options.php:54
+msgid "Astloch"
+msgstr ""
+
+#: options.php:55
+msgid "Atomic Age"
+msgstr ""
+
+#: options.php:56
+msgid "Aubrey"
+msgstr ""
+
+#: options.php:57
+msgid "Bangers"
+msgstr ""
+
+#: options.php:58
+msgid "Bentham"
+msgstr ""
+
+#: options.php:59
+msgid "Bevan"
+msgstr ""
+
+#: options.php:60
+msgid "Bigshot One"
+msgstr ""
+
+#: options.php:61
+msgid "Bitter"
+msgstr ""
+
+#: options.php:62
+msgid "Black Ops One"
+msgstr ""
+
+#: options.php:63
+msgid "Bowlby One SC"
+msgstr ""
+
+#: options.php:64
+msgid "Bowlby One"
+msgstr ""
+
+#: options.php:65
+msgid "Brawler"
+msgstr ""
+
+#: options.php:66
+msgid "Bubblegum Sans"
+msgstr ""
+
+#: options.php:67
+msgid "Buda"
+msgstr ""
+
+#: options.php:68
+msgid "Butcherman Caps"
+msgstr ""
+
+#: options.php:69
+msgid "Cabin Condensed"
+msgstr ""
+
+#: options.php:70
+msgid "Cabin Sketch"
+msgstr ""
+
+#: options.php:71
+msgid "Cabin"
+msgstr ""
+
+#: options.php:72
+msgid "Cagliostro"
+msgstr ""
+
+#: options.php:73
+msgid "Calligraffitti"
+msgstr ""
+
+#: options.php:74
+msgid "Candal"
+msgstr ""
+
+#: options.php:75
+msgid "Cantarell"
+msgstr ""
+
+#: options.php:76
+msgid "Cardo"
+msgstr ""
+
+#: options.php:77
+msgid "Carme"
+msgstr ""
+
+#: options.php:78
+msgid "Carter One"
+msgstr ""
+
+#: options.php:79
+msgid "Caudex"
+msgstr ""
+
+#: options.php:80
+msgid "Cedarville Cursive"
+msgstr ""
+
+#: options.php:81
+msgid "Changa One"
+msgstr ""
+
+#: options.php:82
+msgid "Cherry Cream Soda"
+msgstr ""
+
+#: options.php:83
+msgid "Chewy"
+msgstr ""
+
+#: options.php:84
+msgid "Chicle"
+msgstr ""
+
+#: options.php:85
+msgid "Chivo"
+msgstr ""
+
+#: options.php:86
+msgid "Coda Caption"
+msgstr ""
+
+#: options.php:87
+msgid "Coda"
+msgstr ""
+
+#: options.php:88
+msgid "Comfortaa"
+msgstr ""
+
+#: options.php:89
+msgid "Coming Soon"
+msgstr ""
+
+#: options.php:90
+msgid "Contrail One"
+msgstr ""
+
+#: options.php:91
+msgid "Convergence"
+msgstr ""
+
+#: options.php:92
+msgid "Cookie"
+msgstr ""
+
+#: options.php:93
+msgid "Copse"
+msgstr ""
+
+#: options.php:94
+msgid "Corben"
+msgstr ""
+
+#: options.php:95
+msgid "Cousine"
+msgstr ""
+
+#: options.php:96
+msgid "Coustard"
+msgstr ""
+
+#: options.php:97
+msgid "Covered By Your Grace"
+msgstr ""
+
+#: options.php:98
+msgid "Crafty Girls"
+msgstr ""
+
+#: options.php:99
+msgid "Creepster Caps"
+msgstr ""
+
+#: options.php:100
+msgid "Crimson Text"
+msgstr ""
+
+#: options.php:101
+msgid "Crushed"
+msgstr ""
+
+#: options.php:102
+msgid "Cuprum"
+msgstr ""
+
+#: options.php:103
+msgid "Damion"
+msgstr ""
+
+#: options.php:104
+msgid "Dancing Script"
+msgstr ""
+
+#: options.php:105
+msgid "Dawning of a New Day"
+msgstr ""
+
+#: options.php:106
+msgid "Days One"
+msgstr ""
+
+#: options.php:107
+msgid "Delius Swash Caps"
+msgstr ""
+
+#: options.php:108
+msgid "Delius Unicase"
+msgstr ""
+
+#: options.php:109
+msgid "Delius"
+msgstr ""
+
+#: options.php:110
+msgid "Devonshire"
+msgstr ""
+
+#: options.php:111
+msgid "Didact Gothic"
+msgstr ""
+
+#: options.php:112
+msgid "Dorsa"
+msgstr ""
+
+#: options.php:113
+msgid "Dr Sugiyama"
+msgstr ""
+
+#: options.php:114
+msgid "Droid Sans Mono"
+msgstr ""
+
+#: options.php:115
+msgid "Droid Sans"
+msgstr ""
+
+#: options.php:116
+msgid "Droid Serif"
+msgstr ""
+
+#: options.php:117
+msgid "EB Garamond"
+msgstr ""
+
+#: options.php:118
+msgid "Eater Caps"
+msgstr ""
+
+#: options.php:119
+msgid "Expletus Sans"
+msgstr ""
+
+#: options.php:120
+msgid "Fanwood Text"
+msgstr ""
+
+#: options.php:121
+msgid "Federant"
+msgstr ""
+
+#: options.php:122
+msgid "Federo"
+msgstr ""
+
+#: options.php:123
+msgid "Fjord One"
+msgstr ""
+
+#: options.php:124
+msgid "Fondamento"
+msgstr ""
+
+#: options.php:125
+msgid "Fontdiner Swanky"
+msgstr ""
+
+#: options.php:126
+msgid "Forum"
+msgstr ""
+
+#: options.php:127
+msgid "Francois One"
+msgstr ""
+
+#: options.php:128
+msgid "Gentium Basic"
+msgstr ""
+
+#: options.php:129
+msgid "Gentium Book Basic"
+msgstr ""
+
+#: options.php:130
+msgid "Geo"
+msgstr ""
+
+#: options.php:131
+msgid "Geostar Fill"
+msgstr ""
+
+#: options.php:132
+msgid "Geostar"
+msgstr ""
+
+#: options.php:133
+msgid "Give You Glory"
+msgstr ""
+
+#: options.php:134
+msgid "Gloria Hallelujah"
+msgstr ""
+
+#: options.php:135
+msgid "Goblin One"
+msgstr ""
+
+#: options.php:136
+msgid "Gochi Hand"
+msgstr ""
+
+#: options.php:137
+msgid "Goudy Bookletter 1911"
+msgstr ""
+
+#: options.php:138
+msgid "Gravitas One"
+msgstr ""
+
+#: options.php:139
+msgid "Gruppo"
+msgstr ""
+
+#: options.php:140
+msgid "Hammersmith One"
+msgstr ""
+
+#: options.php:141
+msgid "Herr Von Muellerhoff"
+msgstr ""
+
+#: options.php:142
+msgid "Holtwood One SC"
+msgstr ""
+
+#: options.php:143
+msgid "Homemade Apple"
+msgstr ""
+
+#: options.php:144
+msgid "IM Fell DW Pica SC"
+msgstr ""
+
+#: options.php:145
+msgid "IM Fell DW Pica"
+msgstr ""
+
+#: options.php:146
+msgid "IM Fell Double Pica SC"
+msgstr ""
+
+#: options.php:147
+msgid "IM Fell Double Pica"
+msgstr ""
+
+#: options.php:148
+msgid "IM Fell English SC"
+msgstr ""
+
+#: options.php:149
+msgid "IM Fell English"
+msgstr ""
+
+#: options.php:150
+msgid "IM Fell French Canon SC"
+msgstr ""
+
+#: options.php:151
+msgid "IM Fell French Canon"
+msgstr ""
+
+#: options.php:152
+msgid "IM Fell Great Primer SC"
+msgstr ""
+
+#: options.php:153
+msgid "IM Fell Great Primer"
+msgstr ""
+
+#: options.php:154
+msgid "Iceland"
+msgstr ""
+
+#: options.php:155
+msgid "Inconsolata"
+msgstr ""
+
+#: options.php:156
+msgid "Indie Flower"
+msgstr ""
+
+#: options.php:157
+msgid "Irish Grover"
+msgstr ""
+
+#: options.php:158
+msgid "Istok Web"
+msgstr ""
+
+#: options.php:159
+msgid "Jockey One"
+msgstr ""
+
+#: options.php:160
+msgid "Josefin Sans"
+msgstr ""
+
+#: options.php:161
+msgid "Josefin Slab"
+msgstr ""
+
+#: options.php:162
+msgid "Judson"
+msgstr ""
+
+#: options.php:163
+msgid "Julee"
+msgstr ""
+
+#: options.php:164
+msgid "Jura"
+msgstr ""
+
+#: options.php:165
+msgid "Just Another Hand"
+msgstr ""
+
+#: options.php:166
+msgid "Just Me Again Down Here"
+msgstr ""
+
+#: options.php:167
+msgid "Kameron"
+msgstr ""
+
+#: options.php:168
+msgid "Kelly Slab"
+msgstr ""
+
+#: options.php:169
+msgid "Kenia"
+msgstr ""
+
+#: options.php:170
+msgid "Knewave"
+msgstr ""
+
+#: options.php:171
+msgid "Kranky"
+msgstr ""
+
+#: options.php:172
+msgid "Kreon"
+msgstr ""
+
+#: options.php:173
+msgid "Kristi"
+msgstr ""
+
+#: options.php:174
+msgid "La Belle Aurore"
+msgstr ""
+
+#: options.php:175
+msgid "Lancelot"
+msgstr ""
+
+#: options.php:176
+msgid "Lato"
+msgstr ""
+
+#: options.php:177
+msgid "League Script"
+msgstr ""
+
+#: options.php:178
+msgid "Leckerli One"
+msgstr ""
+
+#: options.php:179
+msgid "Lekton"
+msgstr ""
+
+#: options.php:180
+msgid "Lemon"
+msgstr ""
+
+#: options.php:181
+msgid "Limelight"
+msgstr ""
+
+#: options.php:182
+msgid "Linden Hill"
+msgstr ""
+
+#: options.php:183
+msgid "Lobster Two"
+msgstr ""
+
+#: options.php:184
+msgid "Lobster"
+msgstr ""
+
+#: options.php:185
+msgid "Lora"
+msgstr ""
+
+#: options.php:186
+msgid "Love Ya Like A Sister"
+msgstr ""
+
+#: options.php:187
+msgid "Loved by the King"
+msgstr ""
+
+#: options.php:188
+msgid "Luckiest Guy"
+msgstr ""
+
+#: options.php:189
+msgid "Maiden Orange"
+msgstr ""
+
+#: options.php:190
+msgid "Mako"
+msgstr ""
+
+#: options.php:191
+msgid "Marck Script"
+msgstr ""
+
+#: options.php:192
+msgid "Marvel"
+msgstr ""
+
+#: options.php:193
+msgid "Mate SC"
+msgstr ""
+
+#: options.php:194
+msgid "Mate"
+msgstr ""
+
+#: options.php:195
+msgid "Maven Pro"
+msgstr ""
+
+#: options.php:196
+msgid "Meddon"
+msgstr ""
+
+#: options.php:197
+msgid "MedievalSharp"
+msgstr ""
+
+#: options.php:198
+msgid "Megrim"
+msgstr ""
+
+#: options.php:199
+msgid "Merienda One"
+msgstr ""
+
+#: options.php:200
+msgid "Merriweather"
+msgstr ""
+
+#: options.php:201
+msgid "Merriweather Sans"
+msgstr ""
+
+#: options.php:202
+msgid "Metrophobic"
+msgstr ""
+
+#: options.php:203
+msgid "Michroma"
+msgstr ""
+
+#: options.php:204
+msgid "Miltonian Tattoo"
+msgstr ""
+
+#: options.php:205
+msgid "Miltonian"
+msgstr ""
+
+#: options.php:206
+msgid "Miss Fajardose"
+msgstr ""
+
+#: options.php:207
+msgid "Miss Saint Delafield"
+msgstr ""
+
+#: options.php:208
+msgid "Modern Antiqua"
+msgstr ""
+
+#: options.php:209
+msgid "Molengo"
+msgstr ""
+
+#: options.php:210
+msgid "Monofett"
+msgstr ""
+
+#: options.php:211
+msgid "Monoton"
+msgstr ""
+
+#: options.php:212
+msgid "Monsieur La Doulaise"
+msgstr ""
+
+#: options.php:213
+msgid "Montez"
+msgstr ""
+
+#: options.php:214
+msgid "Mountains of Christmas"
+msgstr ""
+
+#: options.php:215
+msgid "Mr Bedford"
+msgstr ""
+
+#: options.php:216
+msgid "Mr Dafoe"
+msgstr ""
+
+#: options.php:217
+msgid "Mr De Haviland"
+msgstr ""
+
+#: options.php:218
+msgid "Mrs Sheppards"
+msgstr ""
+
+#: options.php:219
+msgid "Muli"
+msgstr ""
+
+#: options.php:220
+msgid "Neucha"
+msgstr ""
+
+#: options.php:221
+msgid "Neuton"
+msgstr ""
+
+#: options.php:222
+msgid "News Cycle"
+msgstr ""
+
+#: options.php:223
+msgid "Niconne"
+msgstr ""
+
+#: options.php:224
+msgid "Nixie One"
+msgstr ""
+
+#: options.php:225
+msgid "Nobile"
+msgstr ""
+
+#: options.php:226
+msgid "Nosifer Caps"
+msgstr ""
+
+#: options.php:227
+msgid "Nothing You Could Do"
+msgstr ""
+
+#: options.php:228
+msgid "Nova Cut"
+msgstr ""
+
+#: options.php:229
+msgid "Nova Flat"
+msgstr ""
+
+#: options.php:230
+msgid "Nova Mono"
+msgstr ""
+
+#: options.php:231
+msgid "Nova Oval"
+msgstr ""
+
+#: options.php:232
+msgid "Nova Round"
+msgstr ""
+
+#: options.php:233
+msgid "Nova Script"
+msgstr ""
+
+#: options.php:234
+msgid "Nova Slim"
+msgstr ""
+
+#: options.php:235
+msgid "Nova Square"
+msgstr ""
+
+#: options.php:236
+msgid "Numans"
+msgstr ""
+
+#: options.php:237
+msgid "Nunito"
+msgstr ""
+
+#: options.php:238
+msgid "Old Standard TT"
+msgstr ""
+
+#: options.php:239
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: options.php:240
+msgid "Open Sans"
+msgstr ""
+
+#: options.php:241
+msgid "Orbitron"
+msgstr ""
+
+#: options.php:242
+msgid "Oswald"
+msgstr ""
+
+#: options.php:243
+msgid "Over the Rainbow"
+msgstr ""
+
+#: options.php:244
+msgid "Ovo"
+msgstr ""
+
+#: options.php:245
+msgid "PT Sans Caption"
+msgstr ""
+
+#: options.php:246
+msgid "PT Sans+Narrow"
+msgstr ""
+
+#: options.php:247
+msgid "PT Sans"
+msgstr ""
+
+#: options.php:248
+msgid "PT Serif Caption"
+msgstr ""
+
+#: options.php:249
+msgid "PT Serif"
+msgstr ""
+
+#: options.php:250
+msgid "Pacifico"
+msgstr ""
+
+#: options.php:251
+msgid "Passero One"
+msgstr ""
+
+#: options.php:252
+msgid "Patrick Hand"
+msgstr ""
+
+#: options.php:253
+msgid "Paytone One"
+msgstr ""
+
+#: options.php:254
+msgid "Permanent Marker"
+msgstr ""
+
+#: options.php:255
+msgid "Petrona"
+msgstr ""
+
+#: options.php:256
+msgid "Philosopher"
+msgstr ""
+
+#: options.php:257
+msgid "Piedra"
+msgstr ""
+
+#: options.php:258
+msgid "Pinyon Script"
+msgstr ""
+
+#: options.php:259
+msgid "Play"
+msgstr ""
+
+#: options.php:260
+msgid "Playfair Display"
+msgstr ""
+
+#: options.php:261
+msgid "Podkova"
+msgstr ""
+
+#: options.php:262
+msgid "Poller One"
+msgstr ""
+
+#: options.php:263
+msgid "Poly"
+msgstr ""
+
+#: options.php:264
+msgid "Pompiere"
+msgstr ""
+
+#: options.php:265
+msgid "Prata"
+msgstr ""
+
+#: options.php:266
+msgid "Prociono"
+msgstr ""
+
+#: options.php:267
+msgid "Puritan"
+msgstr ""
+
+#: options.php:268
+msgid "Quattrocento Sans"
+msgstr ""
+
+#: options.php:269
+msgid "Quattrocento"
+msgstr ""
+
+#: options.php:270
+msgid "Questrial"
+msgstr ""
+
+#: options.php:271
+msgid "Quicksand"
+msgstr ""
+
+#: options.php:272
+msgid "Radley"
+msgstr ""
+
+#: options.php:273
+msgid "Raleway"
+msgstr ""
+
+#: options.php:274
+msgid "Rammetto One"
+msgstr ""
+
+#: options.php:275
+msgid "Rancho"
+msgstr ""
+
+#: options.php:276
+msgid "Rationale"
+msgstr ""
+
+#: options.php:277
+msgid "Redressed"
+msgstr ""
+
+#: options.php:278
+msgid "Reenie Beanie"
+msgstr ""
+
+#: options.php:279
+msgid "Ribeye Marrow"
+msgstr ""
+
+#: options.php:280
+msgid "Ribeye"
+msgstr ""
+
+#: options.php:281
+msgid "Righteous"
+msgstr ""
+
+#: options.php:282
+msgid "Rochester"
+msgstr ""
+
+#: options.php:283
+msgid "Rock Salt"
+msgstr ""
+
+#: options.php:284
+msgid "Rokkitt"
+msgstr ""
+
+#: options.php:285
+msgid "Rosario"
+msgstr ""
+
+#: options.php:286
+msgid "Ruslan Display"
+msgstr ""
+
+#: options.php:287
+msgid "Salsa"
+msgstr ""
+
+#: options.php:288
+msgid "Sancreek"
+msgstr ""
+
+#: options.php:289
+msgid "sans-serif"
+msgstr ""
+
+#: options.php:290
+msgid "Sansita One"
+msgstr ""
+
+#: options.php:291
+msgid "Satisfy"
+msgstr ""
+
+#: options.php:292
+msgid "Schoolbell"
+msgstr ""
+
+#: options.php:293
+msgid "serif"
+msgstr ""
+
+#: options.php:294
+msgid "Shadows Into Light"
+msgstr ""
+
+#: options.php:295
+msgid "Shanti"
+msgstr ""
+
+#: options.php:296
+msgid "Short Stack"
+msgstr ""
+
+#: options.php:297
+msgid "Sigmar One"
+msgstr ""
+
+#: options.php:298
+msgid "Signika Negative"
+msgstr ""
+
+#: options.php:299
+msgid "Signika"
+msgstr ""
+
+#: options.php:300
+msgid "Six Caps"
+msgstr ""
+
+#: options.php:301
+msgid "Slackey"
+msgstr ""
+
+#: options.php:302
+msgid "Smokum"
+msgstr ""
+
+#: options.php:303
+msgid "Smythe"
+msgstr ""
+
+#: options.php:304
+msgid "Sniglet"
+msgstr ""
+
+#: options.php:305
+msgid "Snippet"
+msgstr ""
+
+#: options.php:306
+msgid "Source Sans Pro"
+msgstr ""
+
+#: options.php:307
+msgid "Sorts Mill Goudy"
+msgstr ""
+
+#: options.php:308
+msgid "Special Elite"
+msgstr ""
+
+#: options.php:309
+msgid "Spinnaker"
+msgstr ""
+
+#: options.php:310
+msgid "Spirax"
+msgstr ""
+
+#: options.php:311
+msgid "Stardos Stencil"
+msgstr ""
+
+#: options.php:312
+msgid "Sue Ellen Francisco"
+msgstr ""
+
+#: options.php:313
+msgid "Sunshiney"
+msgstr ""
+
+#: options.php:314
+msgid "Supermercado One"
+msgstr ""
+
+#: options.php:315
+msgid "Swanky and Moo Moo"
+msgstr ""
+
+#: options.php:316
+msgid "Syncopate"
+msgstr ""
+
+#: options.php:317
+msgid "Tangerine"
+msgstr ""
+
+#: options.php:318
+msgid "Tenor Sans"
+msgstr ""
+
+#: options.php:319
+msgid "Terminal Dosis"
+msgstr ""
+
+#: options.php:320
+msgid "The Girl Next Door"
+msgstr ""
+
+#: options.php:321
+msgid "Tienne"
+msgstr ""
+
+#: options.php:322
+msgid "Tinos"
+msgstr ""
+
+#: options.php:323
+msgid "Tulpen One"
+msgstr ""
+
+#: options.php:324
+msgid "Ubuntu Condensed"
+msgstr ""
+
+#: options.php:325
+msgid "Ubuntu Mono"
+msgstr ""
+
+#: options.php:326
+msgid "Ubuntu"
+msgstr ""
+
+#: options.php:327
+msgid "Ultra"
+msgstr ""
+
+#: options.php:328
+msgid "UnifrakturCook"
+msgstr ""
+
+#: options.php:329
+msgid "UnifrakturMaguntia"
+msgstr ""
+
+#: options.php:330
+msgid "Unkempt"
+msgstr ""
+
+#: options.php:331
+msgid "Unlock"
+msgstr ""
+
+#: options.php:332
+msgid "Unna"
+msgstr ""
+
+#: options.php:333
+msgid "VT323"
+msgstr ""
+
+#: options.php:334
+msgid "Varela Round"
+msgstr ""
+
+#: options.php:335
+msgid "Varela"
+msgstr ""
+
+#: options.php:336
+msgid "Vast Shadow"
+msgstr ""
+
+#: options.php:337
+msgid "Vibur"
+msgstr ""
+
+#: options.php:338
+msgid "Vidaloka"
+msgstr ""
+
+#: options.php:339
+msgid "Volkhov"
+msgstr ""
+
+#: options.php:340
+msgid "Vollkorn"
+msgstr ""
+
+#: options.php:341
+msgid "Voltaire"
+msgstr ""
+
+#: options.php:342
+msgid "Waiting for the Sunrise"
+msgstr ""
+
+#: options.php:343
+msgid "Wallpoet"
+msgstr ""
+
+#: options.php:344
+msgid "Walter Turncoat"
+msgstr ""
+
+#: options.php:345
+msgid "Wire One"
+msgstr ""
+
+#: options.php:346
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: options.php:347
+msgid "Yellowtail"
+msgstr ""
+
+#: options.php:348
+msgid "Yeseva One"
+msgstr ""
+
+#: options.php:349
+msgid "Zeyada"
+msgstr ""
+
+#: options.php:359
+msgid "On"
+msgstr ""
+
+#: options.php:360
+msgid "Off"
+msgstr ""
+
+#: options.php:367
+msgid "Wide"
+msgstr ""
+
+#: options.php:368
+msgid "Boxed"
+msgstr ""
+
+#: options.php:376
+msgid "Opened"
+msgstr ""
+
+#: options.php:377
+msgid "Closed"
+msgstr ""
+
+#: options.php:385 vc-elements/wc_blog_box.php:36
+#: wc-brand/includes/wc-brand-admin.php:200
+msgid "Image"
+msgstr ""
+
+#: options.php:386
+msgid "Video"
+msgstr ""
+
+#: options.php:393
+msgid "Slider First"
+msgstr ""
+
+#: options.php:394
+msgid "Menu First"
+msgstr ""
+
+#: options.php:395
+msgid "Menu shown while scrolling"
+msgstr ""
+
+#: options.php:404
+msgid "Full"
+msgstr ""
+
+#: options.php:405
+msgid "With Sidebar"
+msgstr ""
+
+#: options.php:467
+msgid "Site Options"
+msgstr ""
+
+#: options.php:471
+msgid "Header Style"
+msgstr ""
+
+#: options.php:472
+msgid "Choose a Header Style"
+msgstr ""
+
+#: options.php:479
+msgid "Please choose Site Font"
+msgstr ""
+
+#: options.php:480
+msgid "The font that will be displayed for the whole site."
+msgstr ""
+
+#: options.php:487
+msgid "Please choose a color for the Site"
+msgstr ""
+
+#: options.php:488
+msgid "This color will be your site color (Links, borders, ...etc)"
+msgstr ""
+
+#: options.php:494
+msgid "Display Back to Top link?"
+msgstr ""
+
+#: options.php:495
+msgid "On/Off Back to Top link"
+msgstr ""
+
+#: options.php:502
+msgid "Enable/Disable Ajax Loading while the site is loading?"
+msgstr ""
+
+#: options.php:503
+msgid "On/Off Ajax Loading"
+msgstr ""
+
+#: options.php:510
+msgid "Display Shopping Cart?"
+msgstr ""
+
+#: options.php:511
+msgid ""
+"On/Off Shopping Cart. If Off then it will be hidden even if the WooCommerce "
+"plugin is enabled"
+msgstr ""
+
+#: options.php:518
+msgid "Display Search Option in the Header?"
+msgstr ""
+
+#: options.php:519
+msgid "On/Off Header Search Option"
+msgstr ""
+
+#: options.php:526
+msgid "Please choose a background image for Page Title section"
+msgstr ""
+
+#: options.php:527
+msgid "Upload your own image here"
+msgstr ""
+
+#: options.php:544
+msgid "Homepage Slider Options"
+msgstr ""
+
+#: options.php:549
+msgid "Enable/Disable Slider in the Homepage Header"
+msgstr ""
+
+#: options.php:550
+msgid ""
+"If Enabled (On) then slider will be shown, else (Off) a static header will "
+"be shown"
+msgstr ""
+
+#: options.php:557
+msgid "Please enter Rev Slider ShortCode"
+msgstr ""
+
+#: options.php:558
+msgid "This will be used if the Slider option above is enabled"
+msgstr ""
+
+#: options.php:565
+msgid "Please Choose Static Header Background Option"
+msgstr ""
+
+#: options.php:566
+msgid ""
+"Image/Video Background Option which will be used with Static header if the "
+"Slider option above is disabled"
+msgstr ""
+
+#: options.php:574
+msgid "Please choose a Background image for the Static Header Option"
+msgstr ""
+
+#: options.php:575
+msgid ""
+"Upload your own Background Image here which will be used with Static header "
+"if the Slider option above is disabled"
+msgstr ""
+
+#: options.php:581
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option (MP4 "
+"format)"
+msgstr ""
+
+#: options.php:582
+msgid ""
+"Video URL (MP4 format) for iOS which will be used as background if the "
+"Slider option above is enabled"
+msgstr ""
+
+#: options.php:589
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option "
+"(webm format)"
+msgstr ""
+
+#: options.php:590
+msgid ""
+"Video URL (webm format) for Firefox 4 and Opera which will be used as "
+"background if the Slider option above is enabled"
+msgstr ""
+
+#: options.php:597
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option (ogv "
+"format)"
+msgstr ""
+
+#: options.php:598
+msgid ""
+"Video URL (ogv format) for Firefox 3 which will be used as background if the "
+"Slider option above is enabled"
+msgstr ""
+
+#: options.php:605
+msgid "Please choose a Logo image for the Static Header Option"
+msgstr ""
+
+#: options.php:606
+msgid ""
+"Upload your own logo here which will be used with Static header if the "
+"Slider option above is disabled"
+msgstr ""
+
+#: options.php:612
+msgid "Please enter a Main Sentence for the Static Header Option"
+msgstr ""
+
+#: options.php:613 options.php:621
+msgid "This will be used if the Slider option above is disabled"
+msgstr ""
+
+#: options.php:620
+msgid ""
+"Please enter a Description Sentences for the Static Header Option, separated "
+"by coma"
+msgstr ""
+
+#: options.php:627
+msgid "Enable/Disable Static Header down arrow"
+msgstr ""
+
+#: options.php:628
+msgid ""
+"If Enabled (On) then down arrow will be shown, else (Off) the down arrow "
+"will be disabled"
+msgstr ""
+
+#: options.php:646
+msgid "Headings Options"
+msgstr ""
+
+#: options.php:650
+msgid "Please choose a font family for your H1 Headings"
+msgstr ""
+
+#: options.php:651
+msgid "This font family will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:658
+msgid "Please choose a color for your H1 Headings"
+msgstr ""
+
+#: options.php:659
+msgid "This color will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:665
+msgid "Please choose a font size for your H1 Headings"
+msgstr ""
+
+#: options.php:666
+msgid "This font size will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:673
+msgid "Please choose a line height for your H1 Headings"
+msgstr ""
+
+#: options.php:674
+msgid "This line height will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:682
+msgid "Please choose a font family for your H2 Headings"
+msgstr ""
+
+#: options.php:683
+msgid "This font family will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:690
+msgid "Please choose a color for your H2 Headings"
+msgstr ""
+
+#: options.php:691
+msgid "This color will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:697
+msgid "Please choose a font size for your H2 Headings"
+msgstr ""
+
+#: options.php:698
+msgid "This font size will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:705
+msgid "Please choose a line height for your H2 Headings"
+msgstr ""
+
+#: options.php:706
+msgid "This line height will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:716
+msgid "Please choose a font family for your H3 Headings"
+msgstr ""
+
+#: options.php:717
+msgid "This font family will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:724
+msgid "Please choose a color for your H3 Headings"
+msgstr ""
+
+#: options.php:725
+msgid "This color will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:731
+msgid "Please choose a font size for your H3 Headings"
+msgstr ""
+
+#: options.php:732
+msgid "This font size will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:739
+msgid "Please choose a line height for your H3 Headings"
+msgstr ""
+
+#: options.php:740
+msgid "This line height will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:750
+msgid "Please choose a font family for your H4 Headings"
+msgstr ""
+
+#: options.php:751
+msgid "This font family will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:758
+msgid "Please choose a color for your H4 Headings"
+msgstr ""
+
+#: options.php:759
+msgid "This color will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:765
+msgid "Please choose a font size for your H4 Headings"
+msgstr ""
+
+#: options.php:766
+msgid "This font size will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:773
+msgid "Please choose a line height for your H4 Headings"
+msgstr ""
+
+#: options.php:774
+msgid "This line height will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:782
+msgid "Please choose a font family for your H5 Headings"
+msgstr ""
+
+#: options.php:783
+msgid "This font family will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:790
+msgid "Please choose a color for your H5 Headings"
+msgstr ""
+
+#: options.php:791
+msgid "This color will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:797
+msgid "Please choose a font size for your H5 Headings"
+msgstr ""
+
+#: options.php:798
+msgid "This font size will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:805
+msgid "Please choose a line height for your H5 Headings"
+msgstr ""
+
+#: options.php:806
+msgid "This line height will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:814
+msgid "Please choose a font family for your H6 Headings"
+msgstr ""
+
+#: options.php:815
+msgid "This font family will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:823
+msgid "Please choose a color for your H6 Headings"
+msgstr ""
+
+#: options.php:824
+msgid "This color will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:830
+msgid "Please choose a font size for your H6 Headings"
+msgstr ""
+
+#: options.php:831
+msgid "This font size will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:838
+msgid "Please choose a line height for your H6 Headings"
+msgstr ""
+
+#: options.php:839
+msgid "This line height will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:854
+msgid "Logo & Favicon Options"
+msgstr ""
+
+#: options.php:858
+msgid "Do you want to display a Logo on your site?"
+msgstr ""
+
+#: options.php:859
+msgid "On/Off your Site Logo"
+msgstr ""
+
+#: options.php:867
+msgid "Please choose a logo for your Site"
+msgstr ""
+
+#: options.php:868
+msgid "Upload your own logo here (Suggest: 115 X 43 pixel)"
+msgstr ""
+
+#: options.php:874
+msgid "Please enter the padding top value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:875
+msgid ""
+"This is the Space between the logo container and the top of the container"
+msgstr ""
+
+#: options.php:882
+msgid "Please enter the padding bottom value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:883
+msgid ""
+"This is the Space between the logo container and the bottom of the container"
+msgstr ""
+
+#: options.php:890
+msgid "Please enter the padding left value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:891
+msgid ""
+"This is the Space between the logo container and the left of the container"
+msgstr ""
+
+#: options.php:898
+msgid "Please enter the padding right value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:899
+msgid ""
+"This is the Space between the logo container and the right of the container"
+msgstr ""
+
+#: options.php:906
+msgid ""
+"Please enter a text to display instead of the logo if you chosen not to "
+"display logo from the above options"
+msgstr ""
+
+#: options.php:907
+msgid ""
+"This text will be shown instead of logo there is no logo uploaded to the "
+"site or if you chosen not to display the logo from the above options."
+msgstr ""
+
+#: options.php:914
+msgid "Please enter your (16 X 16) Favicon"
+msgstr ""
+
+#: options.php:915
+msgid "This Favicon will be displayed within your browser"
+msgstr ""
+
+#: options.php:929
+msgid "Contact Information"
+msgstr ""
+
+#: options.php:933
+msgid "Please enter your Company name"
+msgstr ""
+
+#: options.php:934
+msgid "This will be shown in your contact widget as your Contact/Business name"
+msgstr ""
+
+#: options.php:941
+msgid "Please enter your Company Address Line 1"
+msgstr ""
+
+#: options.php:942
+msgid ""
+"This will be shown in your contact widget as your Company/Business Address "
+"Line 1"
+msgstr ""
+
+#: options.php:949
+msgid "Please enter your Company Address Line 2"
+msgstr ""
+
+#: options.php:950
+msgid ""
+"This will be shown in your contact widget as your Company/Business Address "
+"Line 2"
+msgstr ""
+
+#: options.php:957
+msgid "Please enter your company phone No.#"
+msgstr ""
+
+#: options.php:958
+msgid ""
+"This will be shown in your contact widget as your Contact/Business phone No.#"
+msgstr ""
+
+#: options.php:965
+msgid "Please enter your company mail 1"
+msgstr ""
+
+#: options.php:966
+msgid ""
+"This will be shown in your contact widget as your Contact/Business mail 1"
+msgstr ""
+
+#: options.php:973
+msgid "Please enter your company mail 2"
+msgstr ""
+
+#: options.php:974
+msgid ""
+"This will be shown in your contact widget as your Contact/Business mail 2"
+msgstr ""
+
+#: options.php:981
+msgid "Please enter your company site URL"
+msgstr ""
+
+#: options.php:982
+msgid "This will be shown in your contact widget as your Contact/Business URL"
+msgstr ""
+
+#: options.php:998
+msgid "Shop Page"
+msgstr ""
+
+#: options.php:1003
+msgid "Choose the layout of your Shop page"
+msgstr ""
+
+#: options.php:1004
+msgid "Full/Sidebar Layout"
+msgstr ""
+
+#: options.php:1020
+msgid "Site Social Media"
+msgstr ""
+
+#: options.php:1024
+msgid "Please choose background for your Site Social Section"
+msgstr ""
+
+#: options.php:1025
+msgid ""
+"Upload your own background image/pattern here= and it will be displayed as a "
+"background of your social section"
+msgstr ""
+
+#: options.php:1031
+msgid "Enable Aniamtion for Social section?"
+msgstr ""
+
+#: options.php:1032
+msgid "Enable/Disable Social section animation"
+msgstr ""
+
+#: options.php:1039
+msgid "Please enter your FaceBook page URL"
+msgstr ""
+
+#: options.php:1040
+msgid ""
+"This link will be used by your users to navigate to your Facebook page from "
+"your site header."
+msgstr ""
+
+#: options.php:1047
+msgid "Please enter your Twitter page URL"
+msgstr ""
+
+#: options.php:1048
+msgid ""
+"This link will be used by your users to navigate to your Twitter page from "
+"your site header."
+msgstr ""
+
+#: options.php:1055
+msgid "Please enter your Dribbble page URL"
+msgstr ""
+
+#: options.php:1056
+msgid ""
+"This link will be used by your users to navigate to your Dribbble page from "
+"your site header."
+msgstr ""
+
+#: options.php:1063
+msgid "Please enter your Pinterest page URL"
+msgstr ""
+
+#: options.php:1064
+msgid ""
+"This link will be used by your users to navigate to your Pinterest page from "
+"your site header."
+msgstr ""
+
+#: options.php:1072
+msgid "Please enter your LinkedIn page URL"
+msgstr ""
+
+#: options.php:1073
+msgid ""
+"This link will be used by your users to navigate to your LinkedIn page from "
+"your site header."
+msgstr ""
+
+#: options.php:1080
+msgid "Please enter your RSS page URL"
+msgstr ""
+
+#: options.php:1081
+msgid ""
+"This link will be used by your users to navigate to your RSS page from your "
+"site header."
+msgstr ""
+
+#: options.php:1088
+msgid "Please enter your Skype ID"
+msgstr ""
+
+#: options.php:1089
+msgid "This link will be used by your users to know your Skype ID."
+msgstr ""
+
+#: options.php:1096
+msgid "Please enter your Google+ page URL"
+msgstr ""
+
+#: options.php:1097
+msgid ""
+"This link will be used by your users to navigate to your Google+ page from "
+"your site header."
+msgstr ""
+
+#: options.php:1104
+msgid "Please enter your Deviantart page URL"
+msgstr ""
+
+#: options.php:1105
+msgid ""
+"This link will be used by your users to navigate to your Deviantart page "
+"from your site header."
+msgstr ""
+
+#: options.php:1112
+msgid "Please enter your Instagram page URL"
+msgstr ""
+
+#: options.php:1113
+msgid ""
+"This link will be used by your users to navigate to your Instagram page from "
+"your site header."
+msgstr ""
+
+#: options.php:1120
+msgid "Please enter your YouTube page URL"
+msgstr ""
+
+#: options.php:1121
+msgid ""
+"This link will be used by your users to navigate to your YouTube page from "
+"your site header."
+msgstr ""
+
+#: options.php:1136
+msgid "Footer Options"
+msgstr ""
+
+#: options.php:1140
+msgid "Please choose a color for your Footer section"
+msgstr ""
+
+#: options.php:1141
+msgid "This color will be used as a background color on your footer section"
+msgstr ""
+
+#: options.php:1147
+msgid "Do you want to display the Copyrights Section in the footer?"
+msgstr ""
+
+#: options.php:1148
+msgid "On/Off Copyrights Section"
+msgstr ""
+
+#: options.php:1156
+msgid "Please enter your Copyrights Text"
+msgstr ""
+
+#: options.php:1157
+msgid "This text will be shown as a Copyrights text in your footer section."
+msgstr ""
+
+#: options.php:1163
+msgid "Do you want to display a Menu in your Footer?"
+msgstr ""
+
+#: options.php:1164
+msgid "On/Off Menu in Footer Section"
+msgstr ""
+
+#: options.php:1171
+msgid "Footer Menu replacement text"
+msgstr ""
+
+#: options.php:1172
+msgid ""
+"This text will be displayed in your footer if you disabled the menu in the "
+"above option."
+msgstr ""
+
+#: options.php:1189
+msgid "Portfolio Settings - Options"
+msgstr ""
+
+#: options.php:1193
+msgid "Please enter your Portfolio Page URL"
+msgstr ""
+
+#: options.php:1194
+msgid ""
+"This URL will be used in your Portfolio single page, and keep it empty to "
+"hide it"
+msgstr ""
+
+#: options.php:1209
+msgid "Blog - Options"
+msgstr ""
+
+#: options.php:1213
+msgid "Do you want to show (About Author) section in the Single Post Page?"
+msgstr ""
+
+#: options.php:1214
+msgid "On/Off (About Author) Section"
+msgstr ""
+
+#: options.php:1228
+msgid "Index Page - Options"
+msgstr ""
+
+#: options.php:1232
+msgid "Please enter Index page Title"
+msgstr ""
+
+#: options.php:1233
+msgid "This title will be used for your index page"
+msgstr ""
+
+#: options.php:1240
+msgid "Please enter Index page Sub Title"
+msgstr ""
+
+#: options.php:1241
+msgid "This Sub Title will be used for your index page"
+msgstr ""
+
+#: options.php:1255
+msgid "WooCommerce - Options"
+msgstr ""
+
+#: options.php:1259
+msgid "Please a color to merge it with theme color for WooCommerce elements"
+msgstr ""
+
+#: options.php:1260
+msgid "This color will be used as a merged color for some WooCommerce elements"
+msgstr ""
+
+#: options.php:1276
+msgid "Coming Soon - Options"
+msgstr ""
+
+#: options.php:1280
+msgid "Please enter the end day in DD format"
+msgstr ""
+
+#: options.php:1281
+msgid "This day will be the day of end date for the count down"
+msgstr ""
+
+#: options.php:1288
+msgid "Please enter the end month in MM format"
+msgstr ""
+
+#: options.php:1289
+msgid "This Month will be the month of end date for the count down"
+msgstr ""
+
+#: options.php:1297
+msgid "Please enter the end year in YYYY format"
+msgstr ""
+
+#: options.php:1298
+msgid "This Year will be the year of end date for the count down"
+msgstr ""
+
+#: options.php:1313
+msgid "404 Page - Options"
+msgstr ""
+
+#: options.php:1317
+msgid "Please enter a page title for your 404"
+msgstr ""
+
+#: options.php:1318
+msgid "This Title will be displayed for any 404/incorrect page."
+msgstr ""
+
+#: options.php:1325
+msgid "Please enter a brief description for your customers"
+msgstr ""
+
+#: options.php:1326
+msgid "This description will be displayed at the middle of the page."
+msgstr ""
+
+#: options.php:1341
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:1345
+msgid "Please feel free to add any custom CSS code for your site"
+msgstr ""
+
+#: options.php:1346
+msgid ""
+"Here you can enter any type of a valid CSS code in order to manage your site "
+"style."
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:26
+msgid "Blog Box"
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:28 vc-elements/wc_testimonial_box.php:28
+msgid "Content"
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:31
+msgid "Show Blog Box"
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:39
+msgid "Choose an image from library."
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:44 vc-elements/wc_testimonial_box.php:36
+#, fuzzy
+#| msgid "Title:"
+msgid "Title"
+msgstr "Título:"
+
+#: vc-elements/wc_blog_box.php:47
+msgid "Enter text which will be used as title."
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:52
+msgid "Description"
+msgstr ""
+
+#: vc-elements/wc_blog_box.php:57 vc-elements/wc_testimonial_box.php:78
+msgid "URL (Link)"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:26
+msgid "Testimonial Box"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:31
+msgid "Show Testimonial Box."
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:39
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:44
+msgid "Title Color"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:46
+msgid "Title color."
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:50
+msgid "Testimonial Per Page"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:57
+msgid "Columns"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:65
+msgid "Show Filters"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:67 vc-elements/wc_testimonial_box.php:73
+msgid "Yes,please"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:71
+msgid "Show see more Button"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:80
+msgid "Button link."
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:85
+msgid "Button Color"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:87
+msgid "Button color."
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:92
+msgid "Button Text"
+msgstr ""
+
+#: vc-elements/wc_testimonial_box.php:142
+msgid "All"
+msgstr "Todos"
+
+#: wc-brand/includes/wc-brand-admin.php:17
+msgid ""
+"Product brands for your store can be managed here. To change the order of "
+"brands on the front-end you can drag and drop to sort them. To see more "
+"brands listed click the \"screen options\" link at the top of the page."
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:29
+#: wc-brand/includes/wc-brand-admin.php:105
+msgid "Thumbnail"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:35
+#: wc-brand/includes/wc-brand-admin.php:110
+msgid "Upload/Add image"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:36
+#: wc-brand/includes/wc-brand-admin.php:111
+#, fuzzy
+#| msgid "Remove this item"
+msgid "Remove image"
+msgstr "Eliminar este elemento"
+
+#: wc-brand/includes/wc-brand-admin.php:59
+#: wc-brand/includes/wc-brand-admin.php:136
+msgid "Choose an image"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:61
+#: wc-brand/includes/wc-brand-admin.php:138
+msgid "Use image"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:255
+msgid "Brands Options"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:259
+msgid "Show description"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:260
+msgid "Show/hide the product brand description on the archive page."
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:297
+msgid "Product brand base"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-admin.php:335 wc-brand/wc-brand.php:43
+#, fuzzy
+#| msgid "Product"
+msgctxt "slug"
+msgid "product-brand"
+msgstr "Producto"
+
+#: wc-brand/includes/wc-brand-admin.php:355
+#: wc-brand/includes/wc-brand-functions.php:155
+#: wc-brand/includes/wc-widget-layered-nav.php:288
+#: wc-brand/includes/wc-widget-slider-brands.php:33
+msgid "Brands"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-functions.php:107
+msgid "Select a brand"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-functions.php:110
+msgid "Uncategorized"
+msgstr ""
+
+#: wc-brand/includes/wc-brand-functions.php:147
+msgid "No brands"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:11
+msgid "A list or dropdown of product brands."
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:13
+msgid "DHWOO Product Brands"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:23
+#, fuzzy
+#| msgid "Product"
+msgid "Product brands"
+msgstr "Producto"
+
+#: wc-brand/includes/wc-widget-brands.php:161
+#, fuzzy
+#| msgid "No products in the cart."
+msgid "No product brands exist."
+msgstr "No hay productos."
+
+#: wc-brand/includes/wc-widget-brands.php:190
+#: wc-brand/includes/wc-widget-layered-nav.php:306
+#: wc-brand/includes/wc-widget-slider-brands.php:107
+msgid "Title:"
+msgstr "Título:"
+
+#: wc-brand/includes/wc-widget-brands.php:193
+#: wc-brand/includes/wc-widget-slider-brands.php:112
+msgid "Order by:"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:195
+#: wc-brand/includes/wc-widget-slider-brands.php:114
+msgid "Order"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:196
+#: wc-brand/includes/wc-widget-slider-brands.php:115
+msgid "Name"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:201
+msgid "Show as dropdown"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:204
+msgid "Show post counts"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:207
+msgid "Show hierarchy"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:210
+msgid "Only show children for the current brand"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-brands.php:213
+msgid "Hide Empty Brands"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:11
+msgid ""
+"Shows product brands in a widget which lets you narrow down the list of "
+"products when viewing product categories"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:13
+msgid "Product Brand Layered Nav"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:124
+msgid "Any brand"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:309
+msgid "Display Type:"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:311
+msgid "List"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-layered-nav.php:312
+msgid "Dropdown"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-slider-brands.php:10
+msgid "Shows product brans with slider"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-slider-brands.php:12
+msgid "DHWOO Product Brand Slider"
+msgstr ""
+
+#: wc-brand/includes/wc-widget-slider-brands.php:120
+msgid "Hide empty brands"
+msgstr ""
+
+#: wc-brand/wc-brand.php:50 wc-brand/wc-brand.php:52
+#, fuzzy
+#| msgid "Product"
+msgid "Product Brands"
+msgstr "Producto"
+
+#: wc-brand/wc-brand.php:53
+#, fuzzy
+#| msgid "Product"
+msgid "Product Brand"
+msgstr "Producto"
+
+#: wc-brand/wc-brand.php:54
+msgctxt "Admin menu name"
+msgid "Brands"
+msgstr ""
+
+#: wc-brand/wc-brand.php:55
+msgid "Search Product Brands"
+msgstr ""
+
+#: wc-brand/wc-brand.php:56
+msgid "All Product Brands"
+msgstr ""
+
+#: wc-brand/wc-brand.php:57
+msgid "Parent Product Brand"
+msgstr ""
+
+#: wc-brand/wc-brand.php:58
+msgid "Parent Product Brand:"
+msgstr ""
+
+#: wc-brand/wc-brand.php:59
+msgid "Edit Product Brand"
+msgstr ""
+
+#: wc-brand/wc-brand.php:60
+msgid "Update Product Brand"
+msgstr ""
+
+#: wc-brand/wc-brand.php:61
+msgid "Add New Product Brand"
+msgstr ""
+
+#: wc-brand/wc-brand.php:62
+msgid "New Product Brand Name"
+msgstr ""
+
+#: wc-brand/wc-brand.php:221
+msgid "Brand:"
+msgstr "Línea:"
+
+#: woocommerce/archive-product.php:131
+msgid "Page"
+msgstr "Página"
+
+#: woocommerce/archive-product.php:132
+msgid "of"
+msgstr "de"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:119
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+#, fuzzy
+#| msgid "Coupon"
+msgid "Coupon:"
+msgstr "Cupón"
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon code"
+msgstr "Código"
+
+#: woocommerce/cart/cart.php:137
+#, fuzzy
+#| msgid "Apply Coupon"
+msgid "Apply coupon"
+msgstr "Aplicar Cupón"
+
+#: woocommerce/cart/cart.php:142
+#, fuzzy
+#| msgid "Update Cart"
+msgid "Update cart"
+msgstr "Actualizar Carrito"
+
+#: woocommerce/single-product.php:29
+msgid "You are here:  "
+msgstr "Estas aquí:  "
+
+#: woocommerce/single-product.php:68
+#, fuzzy
+#| msgid "Product"
+msgid "Related Products"
+msgstr "Producto"
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Ficha Técnica"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Insperia Child"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://example.com/twenty-fourteen-child/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the "
+"Insperia Wordpress Theme. If you plan to do a lot of file modifications we "
+"recommend to use this Theme instead of the original Theme. Updating will be "
+"much easier then."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProfTeam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.profteamsolutions.com"
+msgstr ""
+
+#~ msgid "Posted by "
+#~ msgstr "Entrado por "
+
+#~ msgid " on "
+#~ msgstr " en "
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "something different."
+#~ msgstr "Lo sentimos, pero nada coincide con el criterio que entró."
+
+#~ msgid "Read more"
+#~ msgstr "Leer más"
+
+#~ msgid "Number of Views"
+#~ msgstr "Número de Visitas"
+
+#~ msgid "Read More"
+#~ msgstr "Leer más"
+
+#~ msgid "Your Cart"
+#~ msgstr "Tu Carrito"
+
+#~ msgid "My Account"
+#~ msgstr "Mi Cuenta"
+
+#~ msgid " Comments"
+#~ msgstr " Comentarios"
+
+#~ msgid " Comment"
+#~ msgstr " Comentario"
+
+#~ msgid "Search for "
+#~ msgstr "Buscar "
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "some different keywords."
+#~ msgstr "Lo sentimos, no hay resultados."
+
+#~ msgid "Currently Viewing: "
+#~ msgstr "Vistos: "
+
+#~ msgid "Pages: "
+#~ msgstr "Páginas: "
+
+#~ msgid "Proceed to Checkout"
+#~ msgstr "Ia r Pedido"
+
+#~ msgid "Sale!"
+#~ msgstr "Venta!"
+
+#~ msgid "Add to cart"
+#~ msgstr "Añadir al carrito"
+
+#~ msgid "From: "
+#~ msgstr "Desde: "

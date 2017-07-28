@@ -1,0 +1,6680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insperia\n"
+"POT-Creation-Date: 2017-07-28 08:51-0400\n"
+"PO-Revision-Date: 2017-07-28 08:54-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:10
+msgid "4 "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: admin/options-framework.php:167 admin/options-framework.php:399
+msgid "Insperia"
+msgstr ""
+
+#: admin/options-framework.php:201
+msgid "Clear"
+msgstr "Limpiar"
+
+#: admin/options-framework.php:202 functions.php:507
+msgid "Default"
+msgstr "Defecto"
+
+#: admin/options-framework.php:203
+msgid "Select Color"
+msgstr ""
+
+#: admin/options-framework.php:252 admin/options-framework.php:256
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:289
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:346
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:107 functions.php:965
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:130
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:278
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:278
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: admin/options-sanitize.php:345 functions.php:697
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:346 functions.php:551
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334 functions.php:185
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335 functions.php:186
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:337 functions.php:187
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340 functions.php:188
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:343 functions.php:189
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:349 functions.php:190
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:355 functions.php:195
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:367 functions.php:192
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:373 functions.php:193
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:378 functions.php:197
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392 functions.php:199
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#: admin/tgm/class-tgm-plugin-activation.php:912
+#: admin/tgm/class-tgm-plugin-activation.php:2618
+#: admin/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3244 functions.php:200
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+#: admin/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1206
+#: admin/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: admin/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: admin/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: admin/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: archive-product.php:109
+msgid "Page"
+msgstr "Página"
+
+#: archive-product.php:110
+msgid "of"
+msgstr "de"
+
+#: archive.php:54 search.php:78
+msgid "Posted by "
+msgstr "Entrado por "
+
+#: archive.php:54 search.php:78
+msgid " on "
+msgstr " en "
+
+#: archive.php:75 blog-masonry.php:231 blog-sidebar.php:242 index.php:230
+#: portfolio-four-columns.php:146 portfolio-three-columns.php:147
+#: portfolio-two-columns.php:148 search.php:98
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr ""
+
+#: archive.php:76 blog-masonry.php:232 blog-sidebar.php:243 index.php:231
+#: portfolio-four-columns.php:147 portfolio-three-columns.php:148
+#: portfolio-two-columns.php:149 search.php:99
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: archive.php:85 search.php:108
+msgid "Nothing Found"
+msgstr "No hay resultados"
+
+#: archive.php:87
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with "
+"something different."
+msgstr "Lo sentimos, pero nada coincide con el criterio que entró."
+
+#: blog-masonry.php:48 blog-sidebar.php:59 index.php:46
+msgid "Read more"
+msgstr "Leer más"
+
+#: blog-masonry.php:52 blog-sidebar.php:63 blog-timeline.php:51 index.php:50
+msgid "Number of Views"
+msgstr "Número de Visitas"
+
+#: blog-masonry.php:53 blog-sidebar.php:64 blog-timeline.php:50 index.php:51
+msgid "Post Comments"
+msgstr ""
+
+#: blog-masonry.php:54 blog-sidebar.php:65 index.php:52
+msgid "Post Date"
+msgstr ""
+
+#: blog-masonry.php:55 blog-sidebar.php:66 blog-timeline.php:52 index.php:53
+msgid "in"
+msgstr ""
+
+#: blog-timeline.php:83 blog-timeline.php:143 blog-timeline.php:176
+#: blog-timeline.php:207 blog-timeline.php:332 blog-timeline.php:357
+msgid "Read More"
+msgstr "Leer más"
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+msgid "No Comments Yet"
+msgstr ""
+
+#: comments.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:30
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:64
+msgid "You must be"
+msgstr ""
+
+#: comments.php:64
+msgid "logged in"
+msgstr ""
+
+#: comments.php:64
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:68
+msgid "Post your comment"
+msgstr ""
+
+#: comments.php:73
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:79
+msgid "Email address"
+msgstr ""
+
+#: comments.php:85
+msgid "Subject"
+msgstr ""
+
+#: comments.php:91
+msgid "Message"
+msgstr ""
+
+#: comments.php:96
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:22 functions.php:657
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:26
+msgid "LinkedIn"
+msgstr ""
+
+#: footer.php:30 functions.php:940
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:34 functions.php:623
+msgid "Dribbble"
+msgstr ""
+
+#: footer.php:38 functions.php:825
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:42 functions.php:619
+msgid "Deviantart"
+msgstr ""
+
+#: footer.php:46 functions.php:916
+msgid "Skype"
+msgstr ""
+
+#: footer.php:50
+msgid "RSS"
+msgstr ""
+
+#: footer.php:54
+msgid "Google+"
+msgstr ""
+
+#: footer.php:58 functions.php:704
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:62
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:191
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:194
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:196
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:198
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:201
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:504
+msgid "Yes"
+msgstr ""
+
+#: functions.php:504
+msgid "No"
+msgstr ""
+
+#: functions.php:505 functions.php:511
+msgid "Align Left"
+msgstr ""
+
+#: functions.php:505 functions.php:513
+msgid "Align Right"
+msgstr ""
+
+#: functions.php:505 functions.php:512
+msgid "Align Center"
+msgstr ""
+
+#: functions.php:506 options.php:22
+msgid "Fade Up"
+msgstr ""
+
+#: functions.php:506 options.php:22
+msgid "Fade Down"
+msgstr ""
+
+#: functions.php:506 options.php:22
+msgid "Fade Left"
+msgstr ""
+
+#: functions.php:506 options.php:22
+msgid "Fade Right"
+msgstr ""
+
+#: functions.php:506 options.php:22
+msgid "None"
+msgstr ""
+
+#: functions.php:507
+msgid "X Large"
+msgstr ""
+
+#: functions.php:507
+msgid "Large"
+msgstr ""
+
+#: functions.php:508
+msgid "Style One"
+msgstr ""
+
+#: functions.php:508
+msgid "Style Two"
+msgstr ""
+
+#: functions.php:508
+msgid "Style Three"
+msgstr ""
+
+#: functions.php:508
+msgid "Style Four"
+msgstr ""
+
+#: functions.php:509
+msgid "Top"
+msgstr ""
+
+#: functions.php:509
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:509
+msgid "Left"
+msgstr ""
+
+#: functions.php:509
+msgid "Right"
+msgstr ""
+
+#: functions.php:514
+msgid "Align Justify"
+msgstr ""
+
+#: functions.php:515
+msgid "Arrows"
+msgstr ""
+
+#: functions.php:516
+msgid "Arrow Left"
+msgstr ""
+
+#: functions.php:517
+msgid "Arrow Right"
+msgstr ""
+
+#: functions.php:518
+msgid "Arrow Up"
+msgstr ""
+
+#: functions.php:519
+msgid "Arrow Down"
+msgstr ""
+
+#: functions.php:520
+msgid "Asterisk"
+msgstr ""
+
+#: functions.php:521
+msgid "Arrows V"
+msgstr ""
+
+#: functions.php:522
+msgid "Arrows H"
+msgstr ""
+
+#: functions.php:523
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: functions.php:524
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: functions.php:525
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: functions.php:526
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: functions.php:527
+msgid "Arrows Alt"
+msgstr ""
+
+#: functions.php:528
+msgid "Ambulance"
+msgstr ""
+
+#: functions.php:529
+msgid "Adn"
+msgstr ""
+
+#: functions.php:530
+msgid "Angle Double Left"
+msgstr ""
+
+#: functions.php:531
+msgid "Angle Double Right"
+msgstr ""
+
+#: functions.php:532
+msgid "Angle Double Up"
+msgstr ""
+
+#: functions.php:533
+msgid "Angle Double Down"
+msgstr ""
+
+#: functions.php:534
+msgid "Angle Left"
+msgstr ""
+
+#: functions.php:535
+msgid "Angle Right"
+msgstr ""
+
+#: functions.php:536
+msgid "Angle Up"
+msgstr ""
+
+#: functions.php:537
+msgid "Angle Down"
+msgstr ""
+
+#: functions.php:538
+msgid "Anchor"
+msgstr ""
+
+#: functions.php:539
+msgid "Android"
+msgstr ""
+
+#: functions.php:540
+msgid "Apple"
+msgstr ""
+
+#: functions.php:541 functions.php:3575
+msgid "Archive"
+msgstr ""
+
+#: functions.php:542
+msgid "Automobile"
+msgstr ""
+
+#: functions.php:543
+msgid "Bars"
+msgstr ""
+
+#: functions.php:544
+msgid "Backward"
+msgstr ""
+
+#: functions.php:545
+msgid "Ban"
+msgstr ""
+
+#: functions.php:546
+msgid "Bar Code"
+msgstr ""
+
+#: functions.php:547
+msgid "Bank"
+msgstr ""
+
+#: functions.php:548
+msgid "Bell"
+msgstr ""
+
+#: functions.php:549
+msgid "Book"
+msgstr ""
+
+#: functions.php:550
+msgid "Bookmark"
+msgstr ""
+
+#: functions.php:552
+msgid "Bullhorn"
+msgstr ""
+
+#: functions.php:553
+msgid "Briefcase"
+msgstr ""
+
+#: functions.php:554
+msgid "Bolt"
+msgstr ""
+
+#: functions.php:555
+msgid "Beer"
+msgstr ""
+
+#: functions.php:556
+msgid "Behance"
+msgstr ""
+
+#: functions.php:557
+msgid "Behance Square"
+msgstr ""
+
+#: functions.php:558
+msgid "Bitcoin"
+msgstr ""
+
+#: functions.php:559
+msgid "Bitbucket"
+msgstr ""
+
+#: functions.php:560
+msgid "Bitbucket-square"
+msgstr ""
+
+#: functions.php:561
+msgid "Bomb"
+msgstr ""
+
+#: functions.php:562
+msgid "BTC"
+msgstr ""
+
+#: functions.php:563
+msgid "Bullseye"
+msgstr ""
+
+#: functions.php:564
+msgid "Bug"
+msgstr ""
+
+#: functions.php:565
+msgid "Building"
+msgstr ""
+
+#: functions.php:566
+msgid "Check"
+msgstr ""
+
+#: functions.php:567
+msgid "Cog"
+msgstr ""
+
+#: functions.php:568
+msgid "Camera"
+msgstr ""
+
+#: functions.php:569
+msgid "Chevron Left"
+msgstr ""
+
+#: functions.php:570
+msgid "Chevron Right"
+msgstr ""
+
+#: functions.php:571
+msgid "Check Circle"
+msgstr ""
+
+#: functions.php:572
+msgid "Cross Hairs"
+msgstr ""
+
+#: functions.php:573
+msgid "Compress"
+msgstr ""
+
+#: functions.php:574
+msgid "Calendar"
+msgstr ""
+
+#: functions.php:575
+msgid "Comment"
+msgstr ""
+
+#: functions.php:576
+msgid "Chevron Up"
+msgstr ""
+
+#: functions.php:577
+msgid "Chevron Down"
+msgstr ""
+
+#: functions.php:578
+msgid "Camera Retro"
+msgstr ""
+
+#: functions.php:579
+msgid "Cogs"
+msgstr ""
+
+#: functions.php:580 single.php:251
+msgid "Comments"
+msgstr ""
+
+#: functions.php:581
+msgid "Credit Card"
+msgstr ""
+
+#: functions.php:582
+msgid "Certificate"
+msgstr ""
+
+#: functions.php:583
+msgid "Chain"
+msgstr ""
+
+#: functions.php:584
+msgid "Cloud"
+msgstr ""
+
+#: functions.php:585
+msgid "Cut"
+msgstr ""
+
+#: functions.php:586
+msgid "Copy"
+msgstr ""
+
+#: functions.php:587
+msgid "Caret Down"
+msgstr ""
+
+#: functions.php:588
+msgid "Caret Up"
+msgstr ""
+
+#: functions.php:589
+msgid "Caret Left"
+msgstr ""
+
+#: functions.php:590
+msgid "Caret Right"
+msgstr ""
+
+#: functions.php:591
+msgid "Columns"
+msgstr ""
+
+#: functions.php:592
+msgid "Clipboard"
+msgstr ""
+
+#: functions.php:593
+msgid "Cloud Download"
+msgstr ""
+
+#: functions.php:594
+msgid "Cloud Upload"
+msgstr ""
+
+#: functions.php:595
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:596
+msgid "Cutlery"
+msgstr ""
+
+#: functions.php:597
+msgid "Car"
+msgstr ""
+
+#: functions.php:598
+msgid "Cab"
+msgstr ""
+
+#: functions.php:599
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: functions.php:600
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: functions.php:601
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: functions.php:602
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: functions.php:603
+msgid "Check Square"
+msgstr ""
+
+#: functions.php:604
+msgid "Child"
+msgstr ""
+
+#: functions.php:605
+msgid "Chain Broken"
+msgstr ""
+
+#: functions.php:606
+msgid "Circle"
+msgstr ""
+
+#: functions.php:607
+msgid "Circle Thin"
+msgstr ""
+
+#: functions.php:608
+msgid "CNY"
+msgstr ""
+
+#: functions.php:609
+msgid "Code"
+msgstr ""
+
+#: functions.php:610
+msgid "Compass"
+msgstr ""
+
+#: functions.php:611
+msgid "Code Pen"
+msgstr ""
+
+#: functions.php:612
+msgid "css3"
+msgstr ""
+
+#: functions.php:613
+msgid "Cube"
+msgstr ""
+
+#: functions.php:614
+msgid "Cubes"
+msgstr ""
+
+#: functions.php:615
+msgid "Download"
+msgstr ""
+
+#: functions.php:616
+msgid "Dedent"
+msgstr ""
+
+#: functions.php:617
+msgid "Dashboard"
+msgstr ""
+
+#: functions.php:618
+msgid "Database"
+msgstr ""
+
+#: functions.php:620
+msgid "Desktop"
+msgstr ""
+
+#: functions.php:621
+msgid "Delicious"
+msgstr ""
+
+#: functions.php:622
+msgid "Drupal"
+msgstr ""
+
+#: functions.php:624
+msgid "Dropbox"
+msgstr ""
+
+#: functions.php:625
+msgid "Dollar"
+msgstr ""
+
+#: functions.php:626
+msgid "Digg"
+msgstr ""
+
+#: functions.php:627
+msgid "Exchange"
+msgstr ""
+
+#: functions.php:628
+msgid "Eject"
+msgstr ""
+
+#: functions.php:629
+msgid "Expand"
+msgstr ""
+
+#: functions.php:630
+msgid "Exclamation Circle"
+msgstr ""
+
+#: functions.php:631
+msgid "Eye"
+msgstr ""
+
+#: functions.php:632
+msgid "Eye Slash"
+msgstr ""
+
+#: functions.php:633
+msgid "Exclamation Triangle"
+msgstr ""
+
+#: functions.php:634
+msgid "External Link"
+msgstr ""
+
+#: functions.php:635
+msgid "Envelope"
+msgstr ""
+
+#: functions.php:636
+msgid "Empire"
+msgstr ""
+
+#: functions.php:637
+msgid "Envelope Square"
+msgstr ""
+
+#: functions.php:638
+msgid "External Link Square"
+msgstr ""
+
+#: functions.php:639
+msgid "Eraser"
+msgstr ""
+
+#: functions.php:640
+msgid "Exclamation"
+msgstr ""
+
+#: functions.php:641
+msgid "Ellipsis Horizontal"
+msgstr ""
+
+#: functions.php:642
+msgid "Ellipsis Vertical"
+msgstr ""
+
+#: functions.php:643
+msgid "Euro"
+msgstr ""
+
+#: functions.php:644
+msgid "Eur"
+msgstr ""
+
+#: functions.php:645
+msgid "Flash"
+msgstr ""
+
+#: functions.php:646
+msgid "Fighter Jet"
+msgstr ""
+
+#: functions.php:647
+msgid "Film"
+msgstr ""
+
+#: functions.php:648
+msgid "Flag"
+msgstr ""
+
+#: functions.php:649
+msgid "Font"
+msgstr ""
+
+#: functions.php:650
+msgid "Fast Backward"
+msgstr ""
+
+#: functions.php:651
+msgid "Forward"
+msgstr ""
+
+#: functions.php:652
+msgid "Fast Forward"
+msgstr ""
+
+#: functions.php:653
+msgid "Fire"
+msgstr ""
+
+#: functions.php:654
+msgid "folder"
+msgstr ""
+
+#: functions.php:655 functions.php:665
+msgid "Folder Open"
+msgstr ""
+
+#: functions.php:656
+msgid "Facebook Square"
+msgstr ""
+
+#: functions.php:658
+msgid "Filter"
+msgstr ""
+
+#: functions.php:659
+msgid "Flask"
+msgstr ""
+
+#: functions.php:660
+msgid "Fax"
+msgstr ""
+
+#: functions.php:661
+msgid "Female"
+msgstr ""
+
+#: functions.php:662
+msgid "Foursquare"
+msgstr ""
+
+#: functions.php:663
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: functions.php:664
+msgid "Flag Checkered"
+msgstr ""
+
+#: functions.php:666
+msgid "File"
+msgstr ""
+
+#: functions.php:667
+msgid "File Text"
+msgstr ""
+
+#: functions.php:668
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:669
+msgid "Google Plus Square"
+msgstr ""
+
+#: functions.php:670
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:671
+msgid "Gavel"
+msgstr ""
+
+#: functions.php:672
+msgid "Glass"
+msgstr ""
+
+#: functions.php:673
+msgid "Gear"
+msgstr ""
+
+#: functions.php:674
+msgid "Gift"
+msgstr ""
+
+#: functions.php:675
+msgid "Gears"
+msgstr ""
+
+#: functions.php:676
+msgid "Github-Square"
+msgstr ""
+
+#: functions.php:677
+msgid "Github"
+msgstr ""
+
+#: functions.php:678
+msgid "Globe"
+msgstr ""
+
+#: functions.php:679
+msgid "Group"
+msgstr ""
+
+#: functions.php:680
+msgid "Git Square"
+msgstr ""
+
+#: functions.php:681
+msgid "GE"
+msgstr ""
+
+#: functions.php:682
+msgid "Google"
+msgstr ""
+
+#: functions.php:683
+msgid "Graduation Cap"
+msgstr ""
+
+#: functions.php:684
+msgid "Git Tip"
+msgstr ""
+
+#: functions.php:685
+msgid "GBP"
+msgstr ""
+
+#: functions.php:686
+msgid "Gamepad"
+msgstr ""
+
+#: functions.php:687
+msgid "Github Alt"
+msgstr ""
+
+#: functions.php:688
+msgid "Git"
+msgstr ""
+
+#: functions.php:689
+msgid "Heart"
+msgstr ""
+
+#: functions.php:690
+msgid "Home"
+msgstr ""
+
+#: functions.php:691
+msgid "Headphones"
+msgstr ""
+
+#: functions.php:692
+msgid "Header"
+msgstr ""
+
+#: functions.php:693
+msgid "History"
+msgstr ""
+
+#: functions.php:694
+msgid "hacker-news"
+msgstr ""
+
+#: functions.php:695
+msgid "html5"
+msgstr ""
+
+#: functions.php:696
+msgid "H Square"
+msgstr ""
+
+#: functions.php:698
+msgid "Indent"
+msgstr ""
+
+#: functions.php:699
+msgid "image"
+msgstr ""
+
+#: functions.php:700
+msgid "Info Circle"
+msgstr ""
+
+#: functions.php:701
+msgid "Inverse"
+msgstr ""
+
+#: functions.php:702
+msgid "Inbox"
+msgstr ""
+
+#: functions.php:703
+msgid "Institution"
+msgstr ""
+
+#: functions.php:705
+msgid "INR"
+msgstr ""
+
+#: functions.php:706
+msgid "Info"
+msgstr ""
+
+#: functions.php:707
+msgid "JS Fiddle"
+msgstr ""
+
+#: functions.php:708
+msgid "Joomla"
+msgstr ""
+
+#: functions.php:709
+msgid "JPY"
+msgstr ""
+
+#: functions.php:710
+msgid "Key"
+msgstr ""
+
+#: functions.php:711
+msgid "KRW"
+msgstr ""
+
+#: functions.php:712
+msgid "Linkedin Square"
+msgstr ""
+
+#: functions.php:713
+msgid "Link"
+msgstr ""
+
+#: functions.php:714
+msgid "List ul"
+msgstr ""
+
+#: functions.php:715
+msgid "List ol"
+msgstr ""
+
+#: functions.php:716
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:717
+msgid "Legal"
+msgstr ""
+
+#: functions.php:718 functions.php:720
+msgid "List"
+msgstr ""
+
+#: functions.php:719
+msgid "Lock"
+msgstr ""
+
+#: functions.php:721
+msgid "Leaf"
+msgstr ""
+
+#: functions.php:722
+msgid "Life Bouy"
+msgstr ""
+
+#: functions.php:723
+msgid "Life Saver"
+msgstr ""
+
+#: functions.php:724
+msgid "Language"
+msgstr ""
+
+#: functions.php:725
+msgid "Laptop"
+msgstr ""
+
+#: functions.php:726
+msgid "Level Up"
+msgstr ""
+
+#: functions.php:727
+msgid "Level Down"
+msgstr ""
+
+#: functions.php:728
+msgid "Long Arrow Down"
+msgstr ""
+
+#: functions.php:729
+msgid "Long Arrow Up"
+msgstr ""
+
+#: functions.php:730
+msgid "Long Arrow Left"
+msgstr ""
+
+#: functions.php:731
+msgid "Long Arrow Right"
+msgstr ""
+
+#: functions.php:732
+msgid "Linux"
+msgstr ""
+
+#: functions.php:733
+msgid "Life Ring"
+msgstr ""
+
+#: functions.php:734
+msgid "Magnet"
+msgstr ""
+
+#: functions.php:735
+msgid "Magic"
+msgstr ""
+
+#: functions.php:736
+msgid "Money"
+msgstr ""
+
+#: functions.php:737
+msgid "Medkit"
+msgstr ""
+
+#: functions.php:738
+msgid "Music"
+msgstr ""
+
+#: functions.php:739
+msgid "Minus Circle"
+msgstr ""
+
+#: functions.php:740
+msgid "Mail Forward"
+msgstr ""
+
+#: functions.php:741
+msgid "Minus"
+msgstr ""
+
+#: functions.php:742
+msgid "Mortar Board"
+msgstr ""
+
+#: functions.php:743
+msgid "Male"
+msgstr ""
+
+#: functions.php:744
+msgid "Minus Square"
+msgstr ""
+
+#: functions.php:745
+msgid "Maxcdn"
+msgstr ""
+
+#: functions.php:746
+msgid "Mobile Phone"
+msgstr ""
+
+#: functions.php:747
+msgid "mobile"
+msgstr ""
+
+#: functions.php:748
+msgid "Mail Reply"
+msgstr ""
+
+#: functions.php:749
+msgid "Microphone"
+msgstr ""
+
+#: functions.php:750
+msgid "Microphone Slash"
+msgstr ""
+
+#: functions.php:751
+msgid "Navicon"
+msgstr ""
+
+#: functions.php:752
+msgid "Open Comment"
+msgstr ""
+
+#: functions.php:753
+msgid "Open comments"
+msgstr ""
+
+#: functions.php:754
+msgid "Open Lightbulb"
+msgstr ""
+
+#: functions.php:755
+msgid "Open Bell"
+msgstr ""
+
+#: functions.php:756
+msgid "Open File Text"
+msgstr ""
+
+#: functions.php:757
+msgid "Open Building"
+msgstr ""
+
+#: functions.php:758
+msgid "Open Hospital"
+msgstr ""
+
+#: functions.php:759
+msgid "Open Envelope"
+msgstr ""
+
+#: functions.php:760
+msgid "Open Star"
+msgstr ""
+
+#: functions.php:761
+msgid "Open Trash"
+msgstr ""
+
+#: functions.php:762
+msgid "Open File"
+msgstr ""
+
+#: functions.php:763
+msgid "Open Clock"
+msgstr ""
+
+#: functions.php:764
+msgid "Open Arrow Circle Down"
+msgstr ""
+
+#: functions.php:765
+msgid "Open Arrow Circle Up"
+msgstr ""
+
+#: functions.php:766
+msgid "Open Play Circle"
+msgstr ""
+
+#: functions.php:767
+msgid "Outdent"
+msgstr ""
+
+#: functions.php:768
+msgid "Open Picture"
+msgstr ""
+
+#: functions.php:769
+msgid "Open Pencil Square"
+msgstr ""
+
+#: functions.php:770
+msgid "Open Share Square"
+msgstr ""
+
+#: functions.php:771
+msgid "Open Check Square"
+msgstr ""
+
+#: functions.php:772
+msgid "Open Times Circle"
+msgstr ""
+
+#: functions.php:773
+msgid "Open Check Circle"
+msgstr ""
+
+#: functions.php:774
+msgid "Open Bar Chart"
+msgstr ""
+
+#: functions.php:775
+msgid "Open Thumbs Up"
+msgstr ""
+
+#: functions.php:776
+msgid "Open Thumbs Down"
+msgstr ""
+
+#: functions.php:777
+msgid "Open Heart"
+msgstr ""
+
+#: functions.php:778
+msgid "Open Lemon"
+msgstr ""
+
+#: functions.php:779
+msgid "Open Square"
+msgstr ""
+
+#: functions.php:780
+msgid "Open Bookmark"
+msgstr ""
+
+#: functions.php:781
+msgid "Open hdd"
+msgstr ""
+
+#: functions.php:782
+msgid "Open Hand Right"
+msgstr ""
+
+#: functions.php:783
+msgid "Open Hand Left"
+msgstr ""
+
+#: functions.php:784
+msgid "Open Hand Up"
+msgstr ""
+
+#: functions.php:785
+msgid "Open Hand Down"
+msgstr ""
+
+#: functions.php:786
+msgid "Open Files"
+msgstr ""
+
+#: functions.php:787
+msgid "Open Floppy"
+msgstr ""
+
+#: functions.php:788
+msgid "Open Circle"
+msgstr ""
+
+#: functions.php:789
+msgid "Open Folder"
+msgstr ""
+
+#: functions.php:790
+msgid "Open Smile"
+msgstr ""
+
+#: functions.php:791
+msgid "Open Frown"
+msgstr ""
+
+#: functions.php:792
+msgid "Open Meh"
+msgstr ""
+
+#: functions.php:793
+msgid "Open Keyboard"
+msgstr ""
+
+#: functions.php:794
+msgid "Open Flag"
+msgstr ""
+
+#: functions.php:795
+msgid "Open Calendar"
+msgstr ""
+
+#: functions.php:796
+msgid "Open Minus Square"
+msgstr ""
+
+#: functions.php:797
+msgid "Open Caret Square Down"
+msgstr ""
+
+#: functions.php:798
+msgid "Open Caret Square Up"
+msgstr ""
+
+#: functions.php:799
+msgid "Open Caret Square Right"
+msgstr ""
+
+#: functions.php:800
+msgid "Open Sun"
+msgstr ""
+
+#: functions.php:801
+msgid "Open Moon"
+msgstr ""
+
+#: functions.php:802
+msgid "Open Arrow Circle Right"
+msgstr ""
+
+#: functions.php:803
+msgid "Open Arrow Circle Left"
+msgstr ""
+
+#: functions.php:804
+msgid "Open Caret Square Left"
+msgstr ""
+
+#: functions.php:805
+msgid "Open Dot Circle"
+msgstr ""
+
+#: functions.php:806
+msgid "Open Plus Square"
+msgstr ""
+
+#: functions.php:807
+msgid "Open ID"
+msgstr ""
+
+#: functions.php:808
+msgid "Open File pdf"
+msgstr ""
+
+#: functions.php:809
+msgid "Open File Word"
+msgstr ""
+
+#: functions.php:810
+msgid "Open File Eexcel"
+msgstr ""
+
+#: functions.php:811
+msgid "Open File Powerpoint"
+msgstr ""
+
+#: functions.php:812
+msgid "Open File Photo"
+msgstr ""
+
+#: functions.php:813
+msgid "Open File Picture"
+msgstr ""
+
+#: functions.php:814
+msgid "Open File Image"
+msgstr ""
+
+#: functions.php:815
+msgid "Open File Zip"
+msgstr ""
+
+#: functions.php:816
+msgid "Open File Archive"
+msgstr ""
+
+#: functions.php:817
+msgid "Open File Sound"
+msgstr ""
+
+#: functions.php:818
+msgid "Open File Audio"
+msgstr ""
+
+#: functions.php:819
+msgid "Open File Movie"
+msgstr ""
+
+#: functions.php:820
+msgid "Open File Video"
+msgstr ""
+
+#: functions.php:821
+msgid "Open File Code"
+msgstr ""
+
+#: functions.php:822
+msgid "Open Circle Notch"
+msgstr ""
+
+#: functions.php:823
+msgid "Open Send"
+msgstr ""
+
+#: functions.php:824
+msgid "Open Paper Plane"
+msgstr ""
+
+#: functions.php:826
+msgid "Pinterest Square"
+msgstr ""
+
+#: functions.php:827
+msgid "Paste"
+msgstr ""
+
+#: functions.php:828
+msgid "Power Off"
+msgstr ""
+
+#: functions.php:829
+msgid "Print"
+msgstr ""
+
+#: functions.php:830
+msgid "Photo"
+msgstr ""
+
+#: functions.php:831 options.php:259
+msgid "Play"
+msgstr ""
+
+#: functions.php:832
+msgid "Pause"
+msgstr ""
+
+#: functions.php:833
+msgid "Plus Circle"
+msgstr ""
+
+#: functions.php:834
+msgid "Plus"
+msgstr ""
+
+#: functions.php:835
+msgid "Plane"
+msgstr ""
+
+#: functions.php:836
+msgid "Phone"
+msgstr ""
+
+#: functions.php:837
+msgid "phone-square"
+msgstr ""
+
+#: functions.php:838
+msgid "Paper Clip"
+msgstr ""
+
+#: functions.php:839
+msgid "Puzzle Piece"
+msgstr ""
+
+#: functions.php:840
+msgid "Play Circle"
+msgstr ""
+
+#: functions.php:841
+msgid "Pencil Square"
+msgstr ""
+
+#: functions.php:842
+msgid "Page Lines"
+msgstr ""
+
+#: functions.php:843
+msgid "Pied Piper Square"
+msgstr ""
+
+#: functions.php:844
+msgid "Pied Piper"
+msgstr ""
+
+#: functions.php:845
+msgid "Pied Piper Alt"
+msgstr ""
+
+#: functions.php:846
+msgid "Paw"
+msgstr ""
+
+#: functions.php:847
+msgid "Paper Plane"
+msgstr ""
+
+#: functions.php:848
+msgid "Paragraph"
+msgstr ""
+
+#: functions.php:849
+msgid "Plus Square"
+msgstr ""
+
+#: functions.php:850
+msgid "QR Code"
+msgstr ""
+
+#: functions.php:851
+msgid "Question Circle"
+msgstr ""
+
+#: functions.php:852
+msgid "Question"
+msgstr ""
+
+#: functions.php:853
+msgid "QQ"
+msgstr ""
+
+#: functions.php:854
+msgid "Quote Left"
+msgstr ""
+
+#: functions.php:855
+msgid "Quote Right"
+msgstr ""
+
+#: functions.php:856
+msgid "Random"
+msgstr ""
+
+#: functions.php:857
+msgid "Retweet"
+msgstr ""
+
+#: functions.php:858
+msgid "Rss"
+msgstr ""
+
+#: functions.php:859
+msgid "Reorder"
+msgstr ""
+
+#: functions.php:860
+msgid "Rotate Left"
+msgstr ""
+
+#: functions.php:861
+msgid "Road"
+msgstr ""
+
+#: functions.php:862
+msgid "Rotate Right"
+msgstr ""
+
+#: functions.php:863
+msgid "Repeat"
+msgstr ""
+
+#: functions.php:864
+msgid "Refresh"
+msgstr ""
+
+#: functions.php:865
+msgid "Reply"
+msgstr ""
+
+#: functions.php:866
+msgid "Rocket"
+msgstr ""
+
+#: functions.php:867
+msgid "Rss Square"
+msgstr ""
+
+#: functions.php:868
+msgid "Rupee"
+msgstr ""
+
+#: functions.php:869
+msgid "RMB"
+msgstr ""
+
+#: functions.php:870
+msgid "Ruble"
+msgstr ""
+
+#: functions.php:871
+msgid "Rouble"
+msgstr ""
+
+#: functions.php:872
+msgid "Rub"
+msgstr ""
+
+#: functions.php:873
+msgid "Renren"
+msgstr ""
+
+#: functions.php:874
+msgid "Reddit"
+msgstr ""
+
+#: functions.php:875
+msgid "Reddit Square"
+msgstr ""
+
+#: functions.php:876
+msgid "Recycle"
+msgstr ""
+
+#: functions.php:877
+msgid "RA"
+msgstr ""
+
+#: functions.php:878
+msgid "Rebel"
+msgstr ""
+
+#: functions.php:879
+msgid "Step Backward"
+msgstr ""
+
+#: functions.php:880
+msgid "Stop"
+msgstr ""
+
+#: functions.php:881
+msgid "Step Forward"
+msgstr ""
+
+#: functions.php:882
+msgid "Share"
+msgstr ""
+
+#: functions.php:883
+msgid "Shopping Cart"
+msgstr ""
+
+#: functions.php:884
+msgid "Star Half"
+msgstr ""
+
+#: functions.php:885
+msgid "Sign Out"
+msgstr ""
+
+#: functions.php:886
+msgid "Sign In"
+msgstr ""
+
+#: functions.php:887
+msgid "Scissors"
+msgstr ""
+
+#: functions.php:888
+msgid "Save"
+msgstr ""
+
+#: functions.php:889
+msgid "Square"
+msgstr ""
+
+#: functions.php:890
+msgid "Strikethrough"
+msgstr ""
+
+#: functions.php:891
+msgid "Sort"
+msgstr ""
+
+#: functions.php:892
+msgid "Sort Down"
+msgstr ""
+
+#: functions.php:893
+msgid "Sort Desc"
+msgstr ""
+
+#: functions.php:894
+msgid "Sort Up"
+msgstr ""
+
+#: functions.php:895
+msgid "Sort Asc"
+msgstr ""
+
+#: functions.php:896
+msgid "Sitemap"
+msgstr ""
+
+#: functions.php:897
+msgid "Search"
+msgstr ""
+
+#: functions.php:898
+msgid "Star"
+msgstr ""
+
+#: functions.php:899
+msgid "Stethoscope"
+msgstr ""
+
+#: functions.php:900
+msgid "Suitcase"
+msgstr ""
+
+#: functions.php:901
+msgid "Search Plus"
+msgstr ""
+
+#: functions.php:902
+msgid "Search Minus"
+msgstr ""
+
+#: functions.php:903
+msgid "Signal"
+msgstr ""
+
+#: functions.php:904
+msgid "Spinner"
+msgstr ""
+
+#: functions.php:905
+msgid "Superscript"
+msgstr ""
+
+#: functions.php:906
+msgid "Subscript"
+msgstr ""
+
+#: functions.php:907
+msgid "Shield"
+msgstr ""
+
+#: functions.php:908
+msgid "Share Square"
+msgstr ""
+
+#: functions.php:909
+msgid "Sort Alpha Asc"
+msgstr ""
+
+#: functions.php:910
+msgid "Sort Alpha Desc"
+msgstr ""
+
+#: functions.php:911
+msgid "Sort Amount ASC"
+msgstr ""
+
+#: functions.php:912
+msgid "Sort Amount Desc"
+msgstr ""
+
+#: functions.php:913
+msgid "Sort Numeric Asc"
+msgstr ""
+
+#: functions.php:914
+msgid "Sort Numeric Desc"
+msgstr ""
+
+#: functions.php:915
+msgid "Stack Overflow"
+msgstr ""
+
+#: functions.php:917
+msgid "Stack Exchange"
+msgstr ""
+
+#: functions.php:918
+msgid "Space Shuttle"
+msgstr ""
+
+#: functions.php:919
+msgid "Slack"
+msgstr ""
+
+#: functions.php:920
+msgid "Stumbleupon Circle"
+msgstr ""
+
+#: functions.php:921
+msgid "Stumbleupon"
+msgstr ""
+
+#: functions.php:922
+msgid "Spoon"
+msgstr ""
+
+#: functions.php:923
+msgid "Steam"
+msgstr ""
+
+#: functions.php:924
+msgid "Steam Square"
+msgstr ""
+
+#: functions.php:925
+msgid "Spotify"
+msgstr ""
+
+#: functions.php:926
+msgid "Sound Cloud"
+msgstr ""
+
+#: functions.php:927
+msgid "Support"
+msgstr ""
+
+#: functions.php:928
+msgid "Send"
+msgstr ""
+
+#: functions.php:929
+msgid "Sliders"
+msgstr ""
+
+#: functions.php:930
+msgid "Share Alt"
+msgstr ""
+
+#: functions.php:931
+msgid "Share Alt Square"
+msgstr ""
+
+#: functions.php:932
+msgid "Tag"
+msgstr ""
+
+#: functions.php:933
+msgid "Tags"
+msgstr ""
+
+#: functions.php:934
+msgid "Text Height"
+msgstr ""
+
+#: functions.php:935
+msgid "Text Width"
+msgstr ""
+
+#: functions.php:936
+msgid "Times Circle"
+msgstr ""
+
+#: functions.php:937
+msgid "Twitter Square"
+msgstr ""
+
+#: functions.php:938
+msgid "Thumb Tack"
+msgstr ""
+
+#: functions.php:939
+msgid "Trophy"
+msgstr ""
+
+#: functions.php:941
+msgid "Tasks"
+msgstr ""
+
+#: functions.php:942
+msgid "Truck"
+msgstr ""
+
+#: functions.php:943
+msgid "Tachometer"
+msgstr ""
+
+#: functions.php:944
+msgid "Thumbnail Large"
+msgstr ""
+
+#: functions.php:945
+msgid "Thumbnail"
+msgstr ""
+
+#: functions.php:946
+msgid "Thumbnail List"
+msgstr ""
+
+#: functions.php:947
+msgid "Times"
+msgstr ""
+
+#: functions.php:948
+msgid "Ticket"
+msgstr ""
+
+#: functions.php:949
+msgid "Toggle Down"
+msgstr ""
+
+#: functions.php:950
+msgid "Toggle Up"
+msgstr ""
+
+#: functions.php:951
+msgid "Toggle Right"
+msgstr ""
+
+#: functions.php:952
+msgid "Thumbs Up"
+msgstr ""
+
+#: functions.php:953
+msgid "Thumbs Down"
+msgstr ""
+
+#: functions.php:954
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:955
+msgid "Tumblr Square"
+msgstr ""
+
+#: functions.php:956
+msgid "Trello"
+msgstr ""
+
+#: functions.php:957
+msgid "Toggle Left"
+msgstr ""
+
+#: functions.php:958
+msgid "Turkish Lira"
+msgstr ""
+
+#: functions.php:959
+msgid "Try"
+msgstr ""
+
+#: functions.php:960
+msgid "Taxi"
+msgstr ""
+
+#: functions.php:961
+msgid "Tree"
+msgstr ""
+
+#: functions.php:962
+msgid "Tencent Weibo"
+msgstr ""
+
+#: functions.php:963
+msgid "Tablet"
+msgstr ""
+
+#: functions.php:964
+msgid "Terminal"
+msgstr ""
+
+#: functions.php:966 options.php:331
+msgid "Unlock"
+msgstr ""
+
+#: functions.php:967
+msgid "Users"
+msgstr ""
+
+#: functions.php:968
+msgid "Underline"
+msgstr ""
+
+#: functions.php:969
+msgid "Unsorted"
+msgstr ""
+
+#: functions.php:970
+msgid "Undo"
+msgstr ""
+
+#: functions.php:971
+msgid "User md"
+msgstr ""
+
+#: functions.php:972
+msgid "Umbrella"
+msgstr ""
+
+#: functions.php:973
+msgid "User"
+msgstr ""
+
+#: functions.php:974
+msgid "Unlock Alt"
+msgstr ""
+
+#: functions.php:975
+msgid "USD"
+msgstr ""
+
+#: functions.php:976
+msgid "University"
+msgstr ""
+
+#: functions.php:977
+msgid "Unlink"
+msgstr ""
+
+#: functions.php:978
+msgid "Volume Off"
+msgstr ""
+
+#: functions.php:979
+msgid "Volume Down"
+msgstr ""
+
+#: functions.php:980
+msgid "Volume Up"
+msgstr ""
+
+#: functions.php:981
+msgid "Video Camera"
+msgstr ""
+
+#: functions.php:982
+msgid "VK"
+msgstr ""
+
+#: functions.php:983
+msgid "Vimeo Square"
+msgstr ""
+
+#: functions.php:984
+msgid "Vine"
+msgstr ""
+
+#: functions.php:985 functions.php:1044
+msgid "Warning"
+msgstr ""
+
+#: functions.php:986
+msgid "Wrench"
+msgstr ""
+
+#: functions.php:987
+msgid "Won"
+msgstr ""
+
+#: functions.php:988
+msgid "Windows"
+msgstr ""
+
+#: functions.php:989
+msgid "Weibo"
+msgstr ""
+
+#: functions.php:990
+msgid "Wheel Chair"
+msgstr ""
+
+#: functions.php:991
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:992
+msgid "We Chat"
+msgstr ""
+
+#: functions.php:993
+msgid "Weixin"
+msgstr ""
+
+#: functions.php:994
+msgid "Xing"
+msgstr ""
+
+#: functions.php:995
+msgid "Xing Square"
+msgstr ""
+
+#: functions.php:996
+msgid "YEN"
+msgstr ""
+
+#: functions.php:997
+msgid "Youtube Square"
+msgstr ""
+
+#: functions.php:998
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:999
+msgid "Youtube Play"
+msgstr ""
+
+#: functions.php:1000
+msgid "Yahoo"
+msgstr ""
+
+#: functions.php:1001
+msgid "Bed"
+msgstr ""
+
+#: functions.php:1002
+msgid "Buy Sell Ads"
+msgstr ""
+
+#: functions.php:1003
+msgid "Cart Arrow Down"
+msgstr ""
+
+#: functions.php:1004
+msgid "Cart Plus"
+msgstr ""
+
+#: functions.php:1005
+msgid "Connect Develop"
+msgstr ""
+
+#: functions.php:1006
+msgid "Dash Cube"
+msgstr ""
+
+#: functions.php:1007
+msgid "Diamond"
+msgstr ""
+
+#: functions.php:1008
+msgid "Facebook Official"
+msgstr ""
+
+#: functions.php:1009
+msgid "Forum Bee"
+msgstr ""
+
+#: functions.php:1010
+msgid "Heartbeat"
+msgstr ""
+
+#: functions.php:1011
+msgid "Hotel"
+msgstr ""
+
+#: functions.php:1012
+msgid "Lean Pub"
+msgstr ""
+
+#: functions.php:1013
+msgid "Mars"
+msgstr ""
+
+#: functions.php:1014
+msgid "Mars Double"
+msgstr ""
+
+#: functions.php:1015
+msgid "Mars Stroke"
+msgstr ""
+
+#: functions.php:1016
+msgid "Mars Stroke Horizontal"
+msgstr ""
+
+#: functions.php:1017
+msgid "Mars Stroke Vertical"
+msgstr ""
+
+#: functions.php:1018
+msgid "Medium"
+msgstr ""
+
+#: functions.php:1019
+msgid "Mercury"
+msgstr ""
+
+#: functions.php:1020
+msgid "Motorcycle"
+msgstr ""
+
+#: functions.php:1021
+msgid "Neuter"
+msgstr ""
+
+#: functions.php:1022
+msgid "Pinterest Character"
+msgstr ""
+
+#: functions.php:1023
+msgid "Sellsy"
+msgstr ""
+
+#: functions.php:1024
+msgid "Server"
+msgstr ""
+
+#: functions.php:1025
+msgid "Ship"
+msgstr ""
+
+#: functions.php:1026
+msgid "Shirt Sin Bulk"
+msgstr ""
+
+#: functions.php:1027
+msgid "Sky Atlas"
+msgstr ""
+
+#: functions.php:1028
+msgid "Street View"
+msgstr ""
+
+#: functions.php:1029
+msgid "Subway"
+msgstr ""
+
+#: functions.php:1030
+msgid "Train"
+msgstr ""
+
+#: functions.php:1031
+msgid "Trans Gender"
+msgstr ""
+
+#: functions.php:1032
+msgid "Trans Gender Alt"
+msgstr ""
+
+#: functions.php:1033
+msgid "User Plus"
+msgstr ""
+
+#: functions.php:1034
+msgid "User Secret"
+msgstr ""
+
+#: functions.php:1035
+msgid "User Times"
+msgstr ""
+
+#: functions.php:1036
+msgid "Venus"
+msgstr ""
+
+#: functions.php:1037
+msgid "Venus Double"
+msgstr ""
+
+#: functions.php:1038
+msgid "Venus Mars"
+msgstr ""
+
+#: functions.php:1039
+msgid "Via Coin"
+msgstr ""
+
+#: functions.php:1040
+msgid "Whatsapp"
+msgstr ""
+
+#: functions.php:1045
+msgid "Danger"
+msgstr ""
+
+#: functions.php:1046
+msgid "Success"
+msgstr ""
+
+#: functions.php:1047
+msgid "Information"
+msgstr ""
+
+#: functions.php:1168
+msgid "Insperia Row Begin"
+msgstr ""
+
+#: functions.php:1171 functions.php:1284 functions.php:1371 functions.php:1395
+#: functions.php:1445 functions.php:1530 functions.php:1554 functions.php:1613
+#: functions.php:1672 functions.php:1731 functions.php:1790 functions.php:1849
+#: functions.php:1908 functions.php:1965 functions.php:1986 functions.php:2089
+#: functions.php:2148 functions.php:2216 functions.php:2311 functions.php:2396
+#: functions.php:2427 functions.php:2476 functions.php:2499 functions.php:2558
+#: functions.php:2580 functions.php:2602 functions.php:2688 functions.php:2728
+#: functions.php:2777 functions.php:2808 functions.php:2839 functions.php:2870
+#: functions.php:2919 functions.php:2959 functions.php:2991 functions.php:3022
+#: functions.php:3053 functions.php:3084 functions.php:3115 functions.php:3164
+#: functions.php:3186 functions.php:3208
+msgid "Content"
+msgstr ""
+
+#: functions.php:1177 functions.php:1290
+msgid "Background Color?"
+msgstr ""
+
+#: functions.php:1180 functions.php:1293
+msgid "If you choose No it will put the background image."
+msgstr ""
+
+#: functions.php:1186 functions.php:1299
+msgid "Background color"
+msgstr ""
+
+#: functions.php:1189 functions.php:1302
+msgid "Please Choose Background color for your Row"
+msgstr ""
+
+#: functions.php:1195 functions.php:1308
+msgid "Font color"
+msgstr ""
+
+#: functions.php:1198 functions.php:1311
+msgid "Please Choose Font color for your Row"
+msgstr ""
+
+#: functions.php:1204 functions.php:1317
+msgid "Background Image"
+msgstr ""
+
+#: functions.php:1207 functions.php:1320
+msgid "Please Choose Background Image for your Row"
+msgstr ""
+
+#: functions.php:1213
+msgid "Background Position"
+msgstr ""
+
+#: functions.php:1216
+msgid ""
+"Background Position for your row background (e.g. 0 0 , center center , ..."
+"etc)"
+msgstr ""
+
+#: functions.php:1222
+msgid "Background Size"
+msgstr ""
+
+#: functions.php:1225
+msgid "Background Size for your row background (e.g. 100% , 50% , ...etc)"
+msgstr ""
+
+#: functions.php:1231
+msgid "Make it Parallax"
+msgstr ""
+
+#: functions.php:1234
+msgid "Do you want to make Background Image Parallax?"
+msgstr ""
+
+#: functions.php:1240 functions.php:1326
+msgid "Background Image Repeat"
+msgstr ""
+
+#: functions.php:1243 functions.php:1329
+msgid "Do you want to Repeat Background Image?"
+msgstr ""
+
+#: functions.php:1249 functions.php:1335
+msgid "Padding from Top"
+msgstr ""
+
+#: functions.php:1252 functions.php:1338
+msgid "Distance between row and content from top side"
+msgstr ""
+
+#: functions.php:1258 functions.php:1344
+msgid "Padding from Bottom"
+msgstr ""
+
+#: functions.php:1261 functions.php:1347
+msgid "Distance between row and content from bottom side"
+msgstr ""
+
+#: functions.php:1267 functions.php:1353
+msgid "Border Top"
+msgstr ""
+
+#: functions.php:1270 functions.php:1356
+msgid "Do you want to display border on the top of the row"
+msgstr ""
+
+#: functions.php:1281
+msgid "Insperia Row Wide Begin"
+msgstr ""
+
+#: functions.php:1367
+msgid "Insperia Row End"
+msgstr ""
+
+#: functions.php:1377
+msgid "Border Bottom"
+msgstr ""
+
+#: functions.php:1380
+msgid "Do you want to display border on the bottom of the row"
+msgstr ""
+
+#: functions.php:1392
+msgid "Insperia Text Block"
+msgstr ""
+
+#: functions.php:1401
+msgid "Text Block Content"
+msgstr ""
+
+#: functions.php:1404 functions.php:1454 functions.php:1563 functions.php:1622
+#: functions.php:1681 functions.php:1740 functions.php:1799 functions.php:1858
+#: functions.php:2098
+msgid "Enter Heading Title"
+msgstr ""
+
+#: functions.php:1410
+msgid "Text color"
+msgstr ""
+
+#: functions.php:1413
+msgid "Please Choose Font color for your Text Block"
+msgstr ""
+
+#: functions.php:1419
+msgid "Text Align"
+msgstr ""
+
+#: functions.php:1422
+msgid "Here you will choose the Text align"
+msgstr ""
+
+#: functions.php:1428
+msgid "Text Animation effect"
+msgstr ""
+
+#: functions.php:1431
+msgid "Here you will choose Text Animation effect"
+msgstr ""
+
+#: functions.php:1442
+msgid "Insperia Heading with Icon"
+msgstr ""
+
+#: functions.php:1451 functions.php:1560 functions.php:1619 functions.php:1678
+#: functions.php:1737 functions.php:1796 functions.php:1855 functions.php:2095
+msgid "Heading Title"
+msgstr ""
+
+#: functions.php:1460 functions.php:1923
+msgid "Icon"
+msgstr ""
+
+#: functions.php:1463
+msgid "Choose Icon for your heading"
+msgstr ""
+
+#: functions.php:1469
+msgid "Heading Text Size (Pixels)"
+msgstr ""
+
+#: functions.php:1472
+msgid "Enter Heading Text Size (Pixels)"
+msgstr ""
+
+#: functions.php:1478 functions.php:1569 functions.php:1628 functions.php:1687
+#: functions.php:1746 functions.php:1805 functions.php:1864 functions.php:2104
+msgid "Make it stronger?"
+msgstr ""
+
+#: functions.php:1481 functions.php:1572 functions.php:1631 functions.php:1690
+#: functions.php:1749 functions.php:1808 functions.php:1867 functions.php:2107
+msgid "If you choose Yes it will be add more font weight to the heading"
+msgstr ""
+
+#: functions.php:1487 functions.php:1578 functions.php:1637 functions.php:1696
+#: functions.php:1755 functions.php:1814 functions.php:1873 functions.php:2113
+msgid "Heading color"
+msgstr ""
+
+#: functions.php:1490 functions.php:1581 functions.php:1640 functions.php:1699
+#: functions.php:1758 functions.php:1817 functions.php:1876 functions.php:2116
+msgid "Please Choose Font color for your Heading"
+msgstr ""
+
+#: functions.php:1496
+msgid "Heading Icon Color"
+msgstr ""
+
+#: functions.php:1499
+msgid "Please Choose Icon color for your Heading"
+msgstr ""
+
+#: functions.php:1505 functions.php:1587 functions.php:1646 functions.php:1705
+#: functions.php:1764 functions.php:1823 functions.php:1882
+msgid "Heading Align"
+msgstr ""
+
+#: functions.php:1508 functions.php:1590 functions.php:1649 functions.php:1708
+#: functions.php:1767 functions.php:1826 functions.php:1885
+msgid "Here you will choose the heading align"
+msgstr ""
+
+#: functions.php:1514 functions.php:1596 functions.php:1655 functions.php:1714
+#: functions.php:1773 functions.php:1832 functions.php:1891 functions.php:2131
+#: functions.php:2380
+msgid "Heading Animation effect"
+msgstr ""
+
+#: functions.php:1517 functions.php:1599 functions.php:1658 functions.php:1717
+#: functions.php:1776 functions.php:1835 functions.php:1894 functions.php:2134
+#: functions.php:2383
+msgid "Here you will choose heading Animation effect"
+msgstr ""
+
+#: functions.php:1527
+msgid "Insperia Clients"
+msgstr ""
+
+#: functions.php:1536
+msgid "Clients Images"
+msgstr ""
+
+#: functions.php:1539
+msgid "Please Choose Clients Images for your Clients section"
+msgstr ""
+
+#: functions.php:1551
+msgid "Insperia H1"
+msgstr ""
+
+#: functions.php:1610
+msgid "Insperia H2"
+msgstr ""
+
+#: functions.php:1669
+msgid "Insperia H3"
+msgstr ""
+
+#: functions.php:1728
+msgid "Insperia H4"
+msgstr ""
+
+#: functions.php:1787
+msgid "Insperia H5"
+msgstr ""
+
+#: functions.php:1846
+msgid "Insperia H6"
+msgstr ""
+
+#: functions.php:1905
+msgid "Insperia List Item"
+msgstr ""
+
+#: functions.php:1914
+msgid "List Text"
+msgstr ""
+
+#: functions.php:1917
+msgid "Enter List Text"
+msgstr ""
+
+#: functions.php:1926
+msgid "Choose Icon for your List Item"
+msgstr ""
+
+#: functions.php:1932
+msgid "List Item color"
+msgstr ""
+
+#: functions.php:1935
+msgid "Please Choose Font color for your List Item"
+msgstr ""
+
+#: functions.php:1941
+msgid "List Item Icon Color"
+msgstr ""
+
+#: functions.php:1944
+msgid "Please Choose Icon color for your List Item"
+msgstr ""
+
+#: functions.php:1950
+msgid "Make it Rotate?"
+msgstr ""
+
+#: functions.php:1953
+msgid "Choose if you want your list item icon to rotate"
+msgstr ""
+
+#: functions.php:1962
+msgid "Insperia Page Section"
+msgstr ""
+
+#: functions.php:1971
+msgid "Please enter a unique ID"
+msgstr ""
+
+#: functions.php:1974
+msgid "This ID must be unique and should not be duplicated in this page"
+msgstr ""
+
+#: functions.php:1983
+msgid "Insperia Pricing Table"
+msgstr ""
+
+#: functions.php:1992
+msgid "Table Plan Name"
+msgstr ""
+
+#: functions.php:1995
+msgid "Enter Table Plan Name"
+msgstr ""
+
+#: functions.php:2001
+msgid "Table Ribbon Title"
+msgstr ""
+
+#: functions.php:2004
+msgid "Enter Table Ribbon Title or keep it empty to hide"
+msgstr ""
+
+#: functions.php:2010
+msgid "Table color"
+msgstr ""
+
+#: functions.php:2013
+msgid "Please Choose color for your Table"
+msgstr ""
+
+#: functions.php:2019
+msgid "Table Price Currency"
+msgstr ""
+
+#: functions.php:2022
+msgid "Enter Table Price Currency"
+msgstr ""
+
+#: functions.php:2028
+msgid "Table Price Amount"
+msgstr ""
+
+#: functions.php:2031
+msgid "Enter Table Price Amount"
+msgstr ""
+
+#: functions.php:2037
+msgid "Table period"
+msgstr ""
+
+#: functions.php:2040
+msgid "Enter Table period"
+msgstr ""
+
+#: functions.php:2046
+msgid "Table brief description"
+msgstr ""
+
+#: functions.php:2049
+msgid "Enter Table brief description"
+msgstr ""
+
+#: functions.php:2055
+msgid "Table content"
+msgstr ""
+
+#: functions.php:2058
+msgid ""
+"Enter Table content as list items and each item should be inside < li > < /"
+"li >, also if you want to use red X icon then use < span class='glyphicon "
+"glyphicon-remove no' >< /span > and for the green check icon then use < span "
+"class='glyphicon glyphicon-ok yes' >< /span >"
+msgstr ""
+
+#: functions.php:2064
+msgid "Table link URL"
+msgstr ""
+
+#: functions.php:2067
+msgid "Enter Table link URL"
+msgstr ""
+
+#: functions.php:2073
+msgid "Table link button Title"
+msgstr ""
+
+#: functions.php:2076
+msgid "Enter Table link button Title"
+msgstr ""
+
+#: functions.php:2086
+msgid "Insperia Underlined Title"
+msgstr ""
+
+#: functions.php:2122
+msgid "Heading Font Size"
+msgstr ""
+
+#: functions.php:2125
+msgid "Enter Heading Font Size in Pixels"
+msgstr ""
+
+#: functions.php:2145
+msgid "Insperia Services Icon"
+msgstr ""
+
+#: functions.php:2154
+msgid "Service Icon Style"
+msgstr ""
+
+#: functions.php:2157
+msgid "Choose icon style for your service layout"
+msgstr ""
+
+#: functions.php:2163
+msgid "Service Icon"
+msgstr ""
+
+#: functions.php:2166
+msgid "Choose icon for your service"
+msgstr ""
+
+#: functions.php:2172
+msgid "Service Title"
+msgstr ""
+
+#: functions.php:2175 functions.php:2347
+msgid "Enter Title"
+msgstr ""
+
+#: functions.php:2181
+msgid "Service Content"
+msgstr ""
+
+#: functions.php:2184
+msgid "Enter Content"
+msgstr ""
+
+#: functions.php:2190
+msgid "Service Link (For Style 4 only)"
+msgstr ""
+
+#: functions.php:2193
+msgid "Enter URL"
+msgstr ""
+
+#: functions.php:2199
+msgid "Service Link Text (For Style 4 only)"
+msgstr ""
+
+#: functions.php:2202
+msgid "Enter Link Text"
+msgstr ""
+
+#: functions.php:2213
+msgid "Insperia Contact Details"
+msgstr ""
+
+#: functions.php:2222
+msgid "Company Name"
+msgstr ""
+
+#: functions.php:2225
+msgid "Your Company Name"
+msgstr ""
+
+#: functions.php:2231
+msgid "Details Title"
+msgstr ""
+
+#: functions.php:2234
+msgid "Contact Details"
+msgstr ""
+
+#: functions.php:2240
+msgid "Address line 1"
+msgstr ""
+
+#: functions.php:2243
+msgid "Enter Company Address line 1"
+msgstr ""
+
+#: functions.php:2249
+msgid "Address line 2"
+msgstr ""
+
+#: functions.php:2252
+msgid "Enter Address line 2"
+msgstr ""
+
+#: functions.php:2258
+msgid "Address section Phone #"
+msgstr ""
+
+#: functions.php:2261
+msgid "Enter Address section Phone #"
+msgstr ""
+
+#: functions.php:2267
+msgid "Company Phone #"
+msgstr ""
+
+#: functions.php:2270
+msgid "Enter Company Phone #"
+msgstr ""
+
+#: functions.php:2276
+msgid "Company Phone #2"
+msgstr ""
+
+#: functions.php:2279
+msgid "Enter Company Phone #2 (If any)"
+msgstr ""
+
+#: functions.php:2285
+msgid "Company Email Address"
+msgstr ""
+
+#: functions.php:2288
+msgid "Enter Company Email Address"
+msgstr ""
+
+#: functions.php:2294
+msgid "Company Website"
+msgstr ""
+
+#: functions.php:2297
+msgid "Enter Company Website"
+msgstr ""
+
+#: functions.php:2308
+msgid "Insperia Animated Numbers"
+msgstr ""
+
+#: functions.php:2317
+msgid "Circle Background Color"
+msgstr ""
+
+#: functions.php:2320
+msgid "Please Choose Circle Background color for your Animated Number"
+msgstr ""
+
+#: functions.php:2326
+msgid "Numbers Icon"
+msgstr ""
+
+#: functions.php:2329
+msgid "Choose icon for your Animated Number"
+msgstr ""
+
+#: functions.php:2335
+msgid "Icon color"
+msgstr ""
+
+#: functions.php:2338
+msgid "Please Choose Icon color for your Animated Number"
+msgstr ""
+
+#: functions.php:2344
+msgid "Numbers Title"
+msgstr ""
+
+#: functions.php:2353
+msgid "Title color"
+msgstr ""
+
+#: functions.php:2356
+msgid "Please Choose Title color for your Animated Number"
+msgstr ""
+
+#: functions.php:2362
+msgid "Numbers Value"
+msgstr ""
+
+#: functions.php:2365
+msgid "Enter Number Value"
+msgstr ""
+
+#: functions.php:2371
+msgid "Number color"
+msgstr ""
+
+#: functions.php:2374
+msgid "Please Choose Number color for your Animated Number"
+msgstr ""
+
+#: functions.php:2393
+msgid "Insperia Testimonial"
+msgstr ""
+
+#: functions.php:2402
+msgid "Numbers of Testimonials"
+msgstr ""
+
+#: functions.php:2405
+msgid "Enter Number of Testimonials to display"
+msgstr ""
+
+#: functions.php:2411
+msgid "Choose Animation effect"
+msgstr ""
+
+#: functions.php:2414
+msgid "Choose animation effect for your Testimonials"
+msgstr ""
+
+#: functions.php:2424
+msgid "Insperia Portfolio"
+msgstr ""
+
+#: functions.php:2433 functions.php:2482 functions.php:2505 functions.php:2564
+msgid "Numbers of Portfolio Items"
+msgstr ""
+
+#: functions.php:2436 functions.php:2485 functions.php:2508 functions.php:2567
+msgid "Enter Number of Portfolio to display"
+msgstr ""
+
+#: functions.php:2442 functions.php:2523
+msgid "Portfolio Page URL"
+msgstr ""
+
+#: functions.php:2445 functions.php:2526
+msgid ""
+"Enter your Portfolio Page URL in order to insert a 'View Full Portfolio' "
+"button under your items, or keep it empty to hide"
+msgstr ""
+
+#: functions.php:2451 functions.php:2532 functions.php:2761
+msgid "Button Label"
+msgstr ""
+
+#: functions.php:2454 functions.php:2535
+msgid "If you want to show a button for Full Portfolio then enter Button Label"
+msgstr ""
+
+#: functions.php:2460 functions.php:2541
+msgid "Button Animation effect"
+msgstr ""
+
+#: functions.php:2463 functions.php:2544
+msgid "Here you will choose Button Animation effect"
+msgstr ""
+
+#: functions.php:2473
+msgid "Insperia Portfolio Style 2"
+msgstr ""
+
+#: functions.php:2496
+msgid "Insperia Portfolio Carousel Slider"
+msgstr ""
+
+#: functions.php:2514
+msgid "Section Title"
+msgstr ""
+
+#: functions.php:2517
+msgid "Enter Portfolio section Title here"
+msgstr ""
+
+#: functions.php:2555
+msgid "Insperia Portfolio Full Slider"
+msgstr ""
+
+#: functions.php:2577
+msgid "Insperia Products Four Columns"
+msgstr ""
+
+#: functions.php:2586
+msgid "Please enter No.# of products"
+msgstr ""
+
+#: functions.php:2589
+msgid "Number of products to display"
+msgstr ""
+
+#: functions.php:2599
+msgid "Insperia Button"
+msgstr ""
+
+#: functions.php:2608
+msgid "Button Background color"
+msgstr ""
+
+#: functions.php:2611
+msgid "Please Choose a Background color for your Button"
+msgstr ""
+
+#: functions.php:2617
+msgid "Button Font color"
+msgstr ""
+
+#: functions.php:2620
+msgid "Please Choose a Font color for your Button"
+msgstr ""
+
+#: functions.php:2626
+msgid "Button Border color"
+msgstr ""
+
+#: functions.php:2629
+msgid "Please Choose a Border color for your Button"
+msgstr ""
+
+#: functions.php:2635
+msgid "Button Text / Label"
+msgstr ""
+
+#: functions.php:2638
+msgid "Enter Button Text / Label"
+msgstr ""
+
+#: functions.php:2644
+msgid "Button URL"
+msgstr ""
+
+#: functions.php:2647
+msgid "Enter Button URL"
+msgstr ""
+
+#: functions.php:2653
+msgid "Button Size"
+msgstr ""
+
+#: functions.php:2656
+msgid "Choose Button Size"
+msgstr ""
+
+#: functions.php:2662
+msgid "Do you want to display icon inside your button?"
+msgstr ""
+
+#: functions.php:2665
+msgid "Enable/Disable button icon"
+msgstr ""
+
+#: functions.php:2671
+msgid "Button Icon"
+msgstr ""
+
+#: functions.php:2674
+msgid "Here you will choose Button Icon"
+msgstr ""
+
+#: functions.php:2685
+msgid "Insperia Services with Images"
+msgstr ""
+
+#: functions.php:2694
+msgid "Service Image"
+msgstr ""
+
+#: functions.php:2696
+msgid "Upload your image here"
+msgstr ""
+
+#: functions.php:2702
+msgid "Please enter Service Title here"
+msgstr ""
+
+#: functions.php:2705
+msgid "Services Title here"
+msgstr ""
+
+#: functions.php:2711
+msgid "Please enter Service Description here"
+msgstr ""
+
+#: functions.php:2714
+msgid "Services Description here"
+msgstr ""
+
+#: functions.php:2725
+msgid "Insperia Blog"
+msgstr ""
+
+#: functions.php:2734 functions.php:2783
+msgid "Please enter No.# of Blog items you want to display"
+msgstr ""
+
+#: functions.php:2737 functions.php:2786
+msgid "Number of Blog Items to display"
+msgstr ""
+
+#: functions.php:2743 functions.php:2792
+msgid "Animation effect"
+msgstr ""
+
+#: functions.php:2746 functions.php:2795
+msgid "Here you will choose Blog Animation effect"
+msgstr ""
+
+#: functions.php:2752
+msgid "Blog Page URL"
+msgstr ""
+
+#: functions.php:2755
+msgid ""
+"Enter your Blog Page URL in order to insert a 'View Full Blog' button under "
+"your items, or keep it empty to hide"
+msgstr ""
+
+#: functions.php:2764
+msgid "If you want to show a button for Full Blog then enter Button Label"
+msgstr ""
+
+#: functions.php:2774
+msgid "Insperia Blog Timeline"
+msgstr ""
+
+#: functions.php:2805
+msgid "Insperia Services"
+msgstr ""
+
+#: functions.php:2814
+msgid "Numbers of Services Items"
+msgstr ""
+
+#: functions.php:2817
+msgid "Enter Number of Services Items to display"
+msgstr ""
+
+#: functions.php:2823
+msgid "Services Tab effect"
+msgstr ""
+
+#: functions.php:2826
+msgid "Here you will choose Service Tab Animation effect"
+msgstr ""
+
+#: functions.php:2836
+msgid "Insperia Duties"
+msgstr ""
+
+#: functions.php:2845
+msgid "Numbers of Duties Items"
+msgstr ""
+
+#: functions.php:2848
+msgid "Enter Number of Duty Items to display"
+msgstr ""
+
+#: functions.php:2854
+msgid "Duties Section effect"
+msgstr ""
+
+#: functions.php:2857
+msgid "Here you will choose Duties Section Animation effect"
+msgstr ""
+
+#: functions.php:2867
+msgid "Insperia Popover"
+msgstr ""
+
+#: functions.php:2876
+msgid "Popover Title"
+msgstr ""
+
+#: functions.php:2879
+msgid "Enter Popover Title"
+msgstr ""
+
+#: functions.php:2885
+msgid "Popover Content"
+msgstr ""
+
+#: functions.php:2888
+msgid "Enter Popover Content"
+msgstr ""
+
+#: functions.php:2894 functions.php:2934
+msgid "Tooltip link"
+msgstr ""
+
+#: functions.php:2897 functions.php:2937
+msgid "Enter link URL"
+msgstr ""
+
+#: functions.php:2903 functions.php:2943
+msgid "Tooltip hover Position"
+msgstr ""
+
+#: functions.php:2906 functions.php:2946
+msgid "Here you will choose Tooltip hover Position"
+msgstr ""
+
+#: functions.php:2916
+msgid "Insperia Tooltip"
+msgstr ""
+
+#: functions.php:2925
+msgid "Tooltip text"
+msgstr ""
+
+#: functions.php:2928
+msgid "Enter Tooltip Text"
+msgstr ""
+
+#: functions.php:2956
+msgid "Insperia Skills"
+msgstr ""
+
+#: functions.php:2965
+msgid "Numbers of Skills Items"
+msgstr ""
+
+#: functions.php:2968
+msgid "Enter Number of Skill Items to display"
+msgstr ""
+
+#: functions.php:2974
+msgid "Skills Section effect"
+msgstr ""
+
+#: functions.php:2977
+msgid "Here you will choose Skills Section Animation effect"
+msgstr ""
+
+#: functions.php:2988
+msgid "Insperia Team Members"
+msgstr ""
+
+#: functions.php:2997 functions.php:3028 functions.php:3059
+msgid "Numbers of Team Members"
+msgstr ""
+
+#: functions.php:3000 functions.php:3031 functions.php:3062
+msgid "Enter Number of Team Members to display"
+msgstr ""
+
+#: functions.php:3006 functions.php:3037 functions.php:3068
+msgid "Team Members Section effect"
+msgstr ""
+
+#: functions.php:3009 functions.php:3040 functions.php:3071
+msgid "Here you will choose Team Members Section Animation effect"
+msgstr ""
+
+#: functions.php:3019
+msgid "Insperia Team Members With Details"
+msgstr ""
+
+#: functions.php:3050
+msgid "Insperia Team Members Style 2"
+msgstr ""
+
+#: functions.php:3081
+msgid "Insperia Alert Box"
+msgstr ""
+
+#: functions.php:3090
+msgid "Please a Type"
+msgstr ""
+
+#: functions.php:3093
+msgid "The Type of the Alert Box"
+msgstr ""
+
+#: functions.php:3099
+msgid "Alert Text"
+msgstr ""
+
+#: functions.php:3102
+msgid "Enter Alert Text"
+msgstr ""
+
+#: functions.php:3112
+msgid "Insperia Skill Bar"
+msgstr ""
+
+#: functions.php:3121
+msgid "Bar Text"
+msgstr ""
+
+#: functions.php:3124
+msgid "Enter Bar Text or keep it empty to hide text"
+msgstr ""
+
+#: functions.php:3130
+msgid "Bar Percentage"
+msgstr ""
+
+#: functions.php:3133
+msgid "Enter Bar Percentage and put % at the end of the number"
+msgstr ""
+
+#: functions.php:3139
+msgid "Bar color"
+msgstr ""
+
+#: functions.php:3142
+msgid "Please Choose a color for your Skill Bar"
+msgstr ""
+
+#: functions.php:3148
+msgid "Do you want to add striped lines?"
+msgstr ""
+
+#: functions.php:3151
+msgid "Enable/Disable striped lines"
+msgstr ""
+
+#: functions.php:3161
+msgid "Insperia Wells"
+msgstr ""
+
+#: functions.php:3170
+msgid "Well Text"
+msgstr ""
+
+#: functions.php:3173
+msgid "Enter Well Text"
+msgstr ""
+
+#: functions.php:3183
+msgid "Insperia Laptop Slider"
+msgstr ""
+
+#: functions.php:3192
+msgid "Slide Images"
+msgstr ""
+
+#: functions.php:3195
+msgid "Upload your images here"
+msgstr ""
+
+#: functions.php:3205
+msgid "Insperia Map"
+msgstr ""
+
+#: functions.php:3214
+msgid "Map Height"
+msgstr ""
+
+#: functions.php:3217
+msgid "Please Enter Map Height in Pixels"
+msgstr ""
+
+#: functions.php:3223
+msgid "Map Latitude"
+msgstr ""
+
+#: functions.php:3226
+msgid "Please Enter Map Latitude Value"
+msgstr ""
+
+#: functions.php:3232
+msgid "Map embed Longitude"
+msgstr ""
+
+#: functions.php:3235
+msgid "Please Enter Map Longitude Value"
+msgstr ""
+
+#: functions.php:3441 functions.php:3448 functions.php:3455
+msgid "Custom Sidebar"
+msgstr ""
+
+#: functions.php:3479
+msgid "Choose a sidebar to display"
+msgstr ""
+
+#: functions.php:3486
+msgid "default"
+msgstr ""
+
+#: functions.php:3550
+msgid "Search for : ' "
+msgstr ""
+
+#: functions.php:4600
+#, php-format
+msgid "<h6 class=\"media-heading stronger\">%s</h6>"
+msgstr ""
+
+#: functions.php:4601
+msgid " at "
+msgstr ""
+
+#: functions.php:4820
+msgid "Insperia Contact Widget"
+msgstr ""
+
+#: functions.php:4821
+msgid "Insert a Contact Information"
+msgstr ""
+
+#: functions.php:4850
+msgid "New title"
+msgstr ""
+
+#: functions.php:4853
+msgid "Title:"
+msgstr "Título:"
+
+#: functions.php:4908 header.php:175
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:4965 woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr "No hay productos."
+
+#: functions.php:4974
+msgid "Subtotal"
+msgstr ""
+
+#: functions.php:4975 woocommerce/cart/mini-cart.php:54
+msgid "View Cart"
+msgstr "Ir al Carrito"
+
+#: functions.php:4976 page.php:24 woocommerce/cart/mini-cart.php:55
+msgid "Checkout"
+msgstr "Ir a Pedido"
+
+#: gallery-template.php:47 gallery-template.php:63
+#: portfolio-four-columns.php:47 portfolio-four-columns.php:63
+#: portfolio-three-columns.php:47 portfolio-three-columns.php:63
+#: portfolio-two-columns.php:47 portfolio-two-columns.php:63
+msgid "All"
+msgstr "Todos"
+
+#: gallery-template.php:63 portfolio-four-columns.php:63
+#: portfolio-three-columns.php:63 portfolio-two-columns.php:63
+msgid "Currently Viewing:"
+msgstr ""
+
+#: header.php:61
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: importer/importer/parsers.php:42 importer/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/importer/parsers.php:67 importer/importer/parsers.php:72
+#: importer/importer/parsers.php:262 importer/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/importer/radium-importer.php:240
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: importer/importer/radium-importer.php:255
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+#: importer/importer/radium-importer.php:318
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: importer/importer/radium-importer.php:354
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: importer/importer/radium-importer.php:395
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: importer/importer/radium-importer.php:417
+msgid "Site does not support widget"
+msgstr ""
+
+#: importer/importer/radium-importer.php:440
+msgid "Widget already exists"
+msgstr ""
+
+#: importer/importer/radium-importer.php:489
+msgid "Imported"
+msgstr ""
+
+#: importer/importer/radium-importer.php:492
+msgid "Imported to Inactive"
+msgstr ""
+
+#: importer/importer/radium-importer.php:499
+msgid "No Title"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:134
+#: importer/importer/wordpress-importer.php:143
+#: importer/importer/wordpress-importer.php:194
+#: importer/importer/wordpress-importer.php:198
+#: importer/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:505
+#: importer/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: importer/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: options.php:25
+msgid "Abeezee"
+msgstr ""
+
+#: options.php:26
+msgid "Abel"
+msgstr ""
+
+#: options.php:27
+msgid "Abril Fatface"
+msgstr ""
+
+#: options.php:28
+msgid "Aclonica"
+msgstr ""
+
+#: options.php:29
+msgid "Actor"
+msgstr ""
+
+#: options.php:30
+msgid "Adamina"
+msgstr ""
+
+#: options.php:31
+msgid "Aguafina Script"
+msgstr ""
+
+#: options.php:32
+msgid "Aladin"
+msgstr ""
+
+#: options.php:33
+msgid "Aldrich"
+msgstr ""
+
+#: options.php:34
+msgid "Alice"
+msgstr ""
+
+#: options.php:35
+msgid "Alike Angular"
+msgstr ""
+
+#: options.php:36
+msgid "Alike"
+msgstr ""
+
+#: options.php:37
+msgid "Allan"
+msgstr ""
+
+#: options.php:38
+msgid "Allerta Stencil"
+msgstr ""
+
+#: options.php:39
+msgid "Allerta"
+msgstr ""
+
+#: options.php:40
+msgid "Amaranth"
+msgstr ""
+
+#: options.php:41
+msgid "Amatic SC"
+msgstr ""
+
+#: options.php:42
+msgid "Andada"
+msgstr ""
+
+#: options.php:43
+msgid "Andika"
+msgstr ""
+
+#: options.php:44
+msgid "Annie Use Your Telescope"
+msgstr ""
+
+#: options.php:45
+msgid "Anonymous Pro"
+msgstr ""
+
+#: options.php:46
+msgid "Antic"
+msgstr ""
+
+#: options.php:47
+msgid "Anton"
+msgstr ""
+
+#: options.php:48
+msgid "Arapey"
+msgstr ""
+
+#: options.php:49
+msgid "Architects Daughter"
+msgstr ""
+
+#: options.php:50
+msgid "Arimo"
+msgstr ""
+
+#: options.php:51
+msgid "Artifika"
+msgstr ""
+
+#: options.php:52
+msgid "Arvo"
+msgstr ""
+
+#: options.php:53
+msgid "Asset"
+msgstr ""
+
+#: options.php:54
+msgid "Astloch"
+msgstr ""
+
+#: options.php:55
+msgid "Atomic Age"
+msgstr ""
+
+#: options.php:56
+msgid "Aubrey"
+msgstr ""
+
+#: options.php:57
+msgid "Bangers"
+msgstr ""
+
+#: options.php:58
+msgid "Bentham"
+msgstr ""
+
+#: options.php:59
+msgid "Bevan"
+msgstr ""
+
+#: options.php:60
+msgid "Bigshot One"
+msgstr ""
+
+#: options.php:61
+msgid "Bitter"
+msgstr ""
+
+#: options.php:62
+msgid "Black Ops One"
+msgstr ""
+
+#: options.php:63
+msgid "Bowlby One SC"
+msgstr ""
+
+#: options.php:64
+msgid "Bowlby One"
+msgstr ""
+
+#: options.php:65
+msgid "Brawler"
+msgstr ""
+
+#: options.php:66
+msgid "Bubblegum Sans"
+msgstr ""
+
+#: options.php:67
+msgid "Buda"
+msgstr ""
+
+#: options.php:68
+msgid "Butcherman Caps"
+msgstr ""
+
+#: options.php:69
+msgid "Cabin Condensed"
+msgstr ""
+
+#: options.php:70
+msgid "Cabin Sketch"
+msgstr ""
+
+#: options.php:71
+msgid "Cabin"
+msgstr ""
+
+#: options.php:72
+msgid "Cagliostro"
+msgstr ""
+
+#: options.php:73
+msgid "Calligraffitti"
+msgstr ""
+
+#: options.php:74
+msgid "Candal"
+msgstr ""
+
+#: options.php:75
+msgid "Cantarell"
+msgstr ""
+
+#: options.php:76
+msgid "Cardo"
+msgstr ""
+
+#: options.php:77
+msgid "Carme"
+msgstr ""
+
+#: options.php:78
+msgid "Carter One"
+msgstr ""
+
+#: options.php:79
+msgid "Caudex"
+msgstr ""
+
+#: options.php:80
+msgid "Cedarville Cursive"
+msgstr ""
+
+#: options.php:81
+msgid "Changa One"
+msgstr ""
+
+#: options.php:82
+msgid "Cherry Cream Soda"
+msgstr ""
+
+#: options.php:83
+msgid "Chewy"
+msgstr ""
+
+#: options.php:84
+msgid "Chicle"
+msgstr ""
+
+#: options.php:85
+msgid "Chivo"
+msgstr ""
+
+#: options.php:86
+msgid "Coda Caption"
+msgstr ""
+
+#: options.php:87
+msgid "Coda"
+msgstr ""
+
+#: options.php:88
+msgid "Comfortaa"
+msgstr ""
+
+#: options.php:89
+msgid "Coming Soon"
+msgstr ""
+
+#: options.php:90
+msgid "Contrail One"
+msgstr ""
+
+#: options.php:91
+msgid "Convergence"
+msgstr ""
+
+#: options.php:92
+msgid "Cookie"
+msgstr ""
+
+#: options.php:93
+msgid "Copse"
+msgstr ""
+
+#: options.php:94
+msgid "Corben"
+msgstr ""
+
+#: options.php:95
+msgid "Cousine"
+msgstr ""
+
+#: options.php:96
+msgid "Coustard"
+msgstr ""
+
+#: options.php:97
+msgid "Covered By Your Grace"
+msgstr ""
+
+#: options.php:98
+msgid "Crafty Girls"
+msgstr ""
+
+#: options.php:99
+msgid "Creepster Caps"
+msgstr ""
+
+#: options.php:100
+msgid "Crimson Text"
+msgstr ""
+
+#: options.php:101
+msgid "Crushed"
+msgstr ""
+
+#: options.php:102
+msgid "Cuprum"
+msgstr ""
+
+#: options.php:103
+msgid "Damion"
+msgstr ""
+
+#: options.php:104
+msgid "Dancing Script"
+msgstr ""
+
+#: options.php:105
+msgid "Dawning of a New Day"
+msgstr ""
+
+#: options.php:106
+msgid "Days One"
+msgstr ""
+
+#: options.php:107
+msgid "Delius Swash Caps"
+msgstr ""
+
+#: options.php:108
+msgid "Delius Unicase"
+msgstr ""
+
+#: options.php:109
+msgid "Delius"
+msgstr ""
+
+#: options.php:110
+msgid "Devonshire"
+msgstr ""
+
+#: options.php:111
+msgid "Didact Gothic"
+msgstr ""
+
+#: options.php:112
+msgid "Dorsa"
+msgstr ""
+
+#: options.php:113
+msgid "Dr Sugiyama"
+msgstr ""
+
+#: options.php:114
+msgid "Droid Sans Mono"
+msgstr ""
+
+#: options.php:115
+msgid "Droid Sans"
+msgstr ""
+
+#: options.php:116
+msgid "Droid Serif"
+msgstr ""
+
+#: options.php:117
+msgid "EB Garamond"
+msgstr ""
+
+#: options.php:118
+msgid "Eater Caps"
+msgstr ""
+
+#: options.php:119
+msgid "Expletus Sans"
+msgstr ""
+
+#: options.php:120
+msgid "Fanwood Text"
+msgstr ""
+
+#: options.php:121
+msgid "Federant"
+msgstr ""
+
+#: options.php:122
+msgid "Federo"
+msgstr ""
+
+#: options.php:123
+msgid "Fjord One"
+msgstr ""
+
+#: options.php:124
+msgid "Fondamento"
+msgstr ""
+
+#: options.php:125
+msgid "Fontdiner Swanky"
+msgstr ""
+
+#: options.php:126
+msgid "Forum"
+msgstr ""
+
+#: options.php:127
+msgid "Francois One"
+msgstr ""
+
+#: options.php:128
+msgid "Gentium Basic"
+msgstr ""
+
+#: options.php:129
+msgid "Gentium Book Basic"
+msgstr ""
+
+#: options.php:130
+msgid "Geo"
+msgstr ""
+
+#: options.php:131
+msgid "Geostar Fill"
+msgstr ""
+
+#: options.php:132
+msgid "Geostar"
+msgstr ""
+
+#: options.php:133
+msgid "Give You Glory"
+msgstr ""
+
+#: options.php:134
+msgid "Gloria Hallelujah"
+msgstr ""
+
+#: options.php:135
+msgid "Goblin One"
+msgstr ""
+
+#: options.php:136
+msgid "Gochi Hand"
+msgstr ""
+
+#: options.php:137
+msgid "Goudy Bookletter 1911"
+msgstr ""
+
+#: options.php:138
+msgid "Gravitas One"
+msgstr ""
+
+#: options.php:139
+msgid "Gruppo"
+msgstr ""
+
+#: options.php:140
+msgid "Hammersmith One"
+msgstr ""
+
+#: options.php:141
+msgid "Herr Von Muellerhoff"
+msgstr ""
+
+#: options.php:142
+msgid "Holtwood One SC"
+msgstr ""
+
+#: options.php:143
+msgid "Homemade Apple"
+msgstr ""
+
+#: options.php:144
+msgid "IM Fell DW Pica SC"
+msgstr ""
+
+#: options.php:145
+msgid "IM Fell DW Pica"
+msgstr ""
+
+#: options.php:146
+msgid "IM Fell Double Pica SC"
+msgstr ""
+
+#: options.php:147
+msgid "IM Fell Double Pica"
+msgstr ""
+
+#: options.php:148
+msgid "IM Fell English SC"
+msgstr ""
+
+#: options.php:149
+msgid "IM Fell English"
+msgstr ""
+
+#: options.php:150
+msgid "IM Fell French Canon SC"
+msgstr ""
+
+#: options.php:151
+msgid "IM Fell French Canon"
+msgstr ""
+
+#: options.php:152
+msgid "IM Fell Great Primer SC"
+msgstr ""
+
+#: options.php:153
+msgid "IM Fell Great Primer"
+msgstr ""
+
+#: options.php:154
+msgid "Iceland"
+msgstr ""
+
+#: options.php:155
+msgid "Inconsolata"
+msgstr ""
+
+#: options.php:156
+msgid "Indie Flower"
+msgstr ""
+
+#: options.php:157
+msgid "Irish Grover"
+msgstr ""
+
+#: options.php:158
+msgid "Istok Web"
+msgstr ""
+
+#: options.php:159
+msgid "Jockey One"
+msgstr ""
+
+#: options.php:160
+msgid "Josefin Sans"
+msgstr ""
+
+#: options.php:161
+msgid "Josefin Slab"
+msgstr ""
+
+#: options.php:162
+msgid "Judson"
+msgstr ""
+
+#: options.php:163
+msgid "Julee"
+msgstr ""
+
+#: options.php:164
+msgid "Jura"
+msgstr ""
+
+#: options.php:165
+msgid "Just Another Hand"
+msgstr ""
+
+#: options.php:166
+msgid "Just Me Again Down Here"
+msgstr ""
+
+#: options.php:167
+msgid "Kameron"
+msgstr ""
+
+#: options.php:168
+msgid "Kelly Slab"
+msgstr ""
+
+#: options.php:169
+msgid "Kenia"
+msgstr ""
+
+#: options.php:170
+msgid "Knewave"
+msgstr ""
+
+#: options.php:171
+msgid "Kranky"
+msgstr ""
+
+#: options.php:172
+msgid "Kreon"
+msgstr ""
+
+#: options.php:173
+msgid "Kristi"
+msgstr ""
+
+#: options.php:174
+msgid "La Belle Aurore"
+msgstr ""
+
+#: options.php:175
+msgid "Lancelot"
+msgstr ""
+
+#: options.php:176
+msgid "Lato"
+msgstr ""
+
+#: options.php:177
+msgid "League Script"
+msgstr ""
+
+#: options.php:178
+msgid "Leckerli One"
+msgstr ""
+
+#: options.php:179
+msgid "Lekton"
+msgstr ""
+
+#: options.php:180
+msgid "Lemon"
+msgstr ""
+
+#: options.php:181
+msgid "Limelight"
+msgstr ""
+
+#: options.php:182
+msgid "Linden Hill"
+msgstr ""
+
+#: options.php:183
+msgid "Lobster Two"
+msgstr ""
+
+#: options.php:184
+msgid "Lobster"
+msgstr ""
+
+#: options.php:185
+msgid "Lora"
+msgstr ""
+
+#: options.php:186
+msgid "Love Ya Like A Sister"
+msgstr ""
+
+#: options.php:187
+msgid "Loved by the King"
+msgstr ""
+
+#: options.php:188
+msgid "Luckiest Guy"
+msgstr ""
+
+#: options.php:189
+msgid "Maiden Orange"
+msgstr ""
+
+#: options.php:190
+msgid "Mako"
+msgstr ""
+
+#: options.php:191
+msgid "Marck Script"
+msgstr ""
+
+#: options.php:192
+msgid "Marvel"
+msgstr ""
+
+#: options.php:193
+msgid "Mate SC"
+msgstr ""
+
+#: options.php:194
+msgid "Mate"
+msgstr ""
+
+#: options.php:195
+msgid "Maven Pro"
+msgstr ""
+
+#: options.php:196
+msgid "Meddon"
+msgstr ""
+
+#: options.php:197
+msgid "MedievalSharp"
+msgstr ""
+
+#: options.php:198
+msgid "Megrim"
+msgstr ""
+
+#: options.php:199
+msgid "Merienda One"
+msgstr ""
+
+#: options.php:200
+msgid "Merriweather"
+msgstr ""
+
+#: options.php:201
+msgid "Merriweather Sans"
+msgstr ""
+
+#: options.php:202
+msgid "Metrophobic"
+msgstr ""
+
+#: options.php:203
+msgid "Michroma"
+msgstr ""
+
+#: options.php:204
+msgid "Miltonian Tattoo"
+msgstr ""
+
+#: options.php:205
+msgid "Miltonian"
+msgstr ""
+
+#: options.php:206
+msgid "Miss Fajardose"
+msgstr ""
+
+#: options.php:207
+msgid "Miss Saint Delafield"
+msgstr ""
+
+#: options.php:208
+msgid "Modern Antiqua"
+msgstr ""
+
+#: options.php:209
+msgid "Molengo"
+msgstr ""
+
+#: options.php:210
+msgid "Monofett"
+msgstr ""
+
+#: options.php:211
+msgid "Monoton"
+msgstr ""
+
+#: options.php:212
+msgid "Monsieur La Doulaise"
+msgstr ""
+
+#: options.php:213
+msgid "Montez"
+msgstr ""
+
+#: options.php:214
+msgid "Mountains of Christmas"
+msgstr ""
+
+#: options.php:215
+msgid "Mr Bedford"
+msgstr ""
+
+#: options.php:216
+msgid "Mr Dafoe"
+msgstr ""
+
+#: options.php:217
+msgid "Mr De Haviland"
+msgstr ""
+
+#: options.php:218
+msgid "Mrs Sheppards"
+msgstr ""
+
+#: options.php:219
+msgid "Muli"
+msgstr ""
+
+#: options.php:220
+msgid "Neucha"
+msgstr ""
+
+#: options.php:221
+msgid "Neuton"
+msgstr ""
+
+#: options.php:222
+msgid "News Cycle"
+msgstr ""
+
+#: options.php:223
+msgid "Niconne"
+msgstr ""
+
+#: options.php:224
+msgid "Nixie One"
+msgstr ""
+
+#: options.php:225
+msgid "Nobile"
+msgstr ""
+
+#: options.php:226
+msgid "Nosifer Caps"
+msgstr ""
+
+#: options.php:227
+msgid "Nothing You Could Do"
+msgstr ""
+
+#: options.php:228
+msgid "Nova Cut"
+msgstr ""
+
+#: options.php:229
+msgid "Nova Flat"
+msgstr ""
+
+#: options.php:230
+msgid "Nova Mono"
+msgstr ""
+
+#: options.php:231
+msgid "Nova Oval"
+msgstr ""
+
+#: options.php:232
+msgid "Nova Round"
+msgstr ""
+
+#: options.php:233
+msgid "Nova Script"
+msgstr ""
+
+#: options.php:234
+msgid "Nova Slim"
+msgstr ""
+
+#: options.php:235
+msgid "Nova Square"
+msgstr ""
+
+#: options.php:236
+msgid "Numans"
+msgstr ""
+
+#: options.php:237
+msgid "Nunito"
+msgstr ""
+
+#: options.php:238
+msgid "Old Standard TT"
+msgstr ""
+
+#: options.php:239
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: options.php:240
+msgid "Open Sans"
+msgstr ""
+
+#: options.php:241
+msgid "Orbitron"
+msgstr ""
+
+#: options.php:242
+msgid "Oswald"
+msgstr ""
+
+#: options.php:243
+msgid "Over the Rainbow"
+msgstr ""
+
+#: options.php:244
+msgid "Ovo"
+msgstr ""
+
+#: options.php:245
+msgid "PT Sans Caption"
+msgstr ""
+
+#: options.php:246
+msgid "PT Sans+Narrow"
+msgstr ""
+
+#: options.php:247
+msgid "PT Sans"
+msgstr ""
+
+#: options.php:248
+msgid "PT Serif Caption"
+msgstr ""
+
+#: options.php:249
+msgid "PT Serif"
+msgstr ""
+
+#: options.php:250
+msgid "Pacifico"
+msgstr ""
+
+#: options.php:251
+msgid "Passero One"
+msgstr ""
+
+#: options.php:252
+msgid "Patrick Hand"
+msgstr ""
+
+#: options.php:253
+msgid "Paytone One"
+msgstr ""
+
+#: options.php:254
+msgid "Permanent Marker"
+msgstr ""
+
+#: options.php:255
+msgid "Petrona"
+msgstr ""
+
+#: options.php:256
+msgid "Philosopher"
+msgstr ""
+
+#: options.php:257
+msgid "Piedra"
+msgstr ""
+
+#: options.php:258
+msgid "Pinyon Script"
+msgstr ""
+
+#: options.php:260
+msgid "Playfair Display"
+msgstr ""
+
+#: options.php:261
+msgid "Podkova"
+msgstr ""
+
+#: options.php:262
+msgid "Poller One"
+msgstr ""
+
+#: options.php:263
+msgid "Poly"
+msgstr ""
+
+#: options.php:264
+msgid "Pompiere"
+msgstr ""
+
+#: options.php:265
+msgid "Prata"
+msgstr ""
+
+#: options.php:266
+msgid "Prociono"
+msgstr ""
+
+#: options.php:267
+msgid "Puritan"
+msgstr ""
+
+#: options.php:268
+msgid "Quattrocento Sans"
+msgstr ""
+
+#: options.php:269
+msgid "Quattrocento"
+msgstr ""
+
+#: options.php:270
+msgid "Questrial"
+msgstr ""
+
+#: options.php:271
+msgid "Quicksand"
+msgstr ""
+
+#: options.php:272
+msgid "Radley"
+msgstr ""
+
+#: options.php:273
+msgid "Raleway"
+msgstr ""
+
+#: options.php:274
+msgid "Rammetto One"
+msgstr ""
+
+#: options.php:275
+msgid "Rancho"
+msgstr ""
+
+#: options.php:276
+msgid "Rationale"
+msgstr ""
+
+#: options.php:277
+msgid "Redressed"
+msgstr ""
+
+#: options.php:278
+msgid "Reenie Beanie"
+msgstr ""
+
+#: options.php:279
+msgid "Ribeye Marrow"
+msgstr ""
+
+#: options.php:280
+msgid "Ribeye"
+msgstr ""
+
+#: options.php:281
+msgid "Righteous"
+msgstr ""
+
+#: options.php:282
+msgid "Rochester"
+msgstr ""
+
+#: options.php:283
+msgid "Rock Salt"
+msgstr ""
+
+#: options.php:284
+msgid "Rokkitt"
+msgstr ""
+
+#: options.php:285
+msgid "Rosario"
+msgstr ""
+
+#: options.php:286
+msgid "Ruslan Display"
+msgstr ""
+
+#: options.php:287
+msgid "Salsa"
+msgstr ""
+
+#: options.php:288
+msgid "Sancreek"
+msgstr ""
+
+#: options.php:289
+msgid "sans-serif"
+msgstr ""
+
+#: options.php:290
+msgid "Sansita One"
+msgstr ""
+
+#: options.php:291
+msgid "Satisfy"
+msgstr ""
+
+#: options.php:292
+msgid "Schoolbell"
+msgstr ""
+
+#: options.php:293
+msgid "serif"
+msgstr ""
+
+#: options.php:294
+msgid "Shadows Into Light"
+msgstr ""
+
+#: options.php:295
+msgid "Shanti"
+msgstr ""
+
+#: options.php:296
+msgid "Short Stack"
+msgstr ""
+
+#: options.php:297
+msgid "Sigmar One"
+msgstr ""
+
+#: options.php:298
+msgid "Signika Negative"
+msgstr ""
+
+#: options.php:299
+msgid "Signika"
+msgstr ""
+
+#: options.php:300
+msgid "Six Caps"
+msgstr ""
+
+#: options.php:301
+msgid "Slackey"
+msgstr ""
+
+#: options.php:302
+msgid "Smokum"
+msgstr ""
+
+#: options.php:303
+msgid "Smythe"
+msgstr ""
+
+#: options.php:304
+msgid "Sniglet"
+msgstr ""
+
+#: options.php:305
+msgid "Snippet"
+msgstr ""
+
+#: options.php:306
+msgid "Source Sans Pro"
+msgstr ""
+
+#: options.php:307
+msgid "Sorts Mill Goudy"
+msgstr ""
+
+#: options.php:308
+msgid "Special Elite"
+msgstr ""
+
+#: options.php:309
+msgid "Spinnaker"
+msgstr ""
+
+#: options.php:310
+msgid "Spirax"
+msgstr ""
+
+#: options.php:311
+msgid "Stardos Stencil"
+msgstr ""
+
+#: options.php:312
+msgid "Sue Ellen Francisco"
+msgstr ""
+
+#: options.php:313
+msgid "Sunshiney"
+msgstr ""
+
+#: options.php:314
+msgid "Supermercado One"
+msgstr ""
+
+#: options.php:315
+msgid "Swanky and Moo Moo"
+msgstr ""
+
+#: options.php:316
+msgid "Syncopate"
+msgstr ""
+
+#: options.php:317
+msgid "Tangerine"
+msgstr ""
+
+#: options.php:318
+msgid "Tenor Sans"
+msgstr ""
+
+#: options.php:319
+msgid "Terminal Dosis"
+msgstr ""
+
+#: options.php:320
+msgid "The Girl Next Door"
+msgstr ""
+
+#: options.php:321
+msgid "Tienne"
+msgstr ""
+
+#: options.php:322
+msgid "Tinos"
+msgstr ""
+
+#: options.php:323
+msgid "Tulpen One"
+msgstr ""
+
+#: options.php:324
+msgid "Ubuntu Condensed"
+msgstr ""
+
+#: options.php:325
+msgid "Ubuntu Mono"
+msgstr ""
+
+#: options.php:326
+msgid "Ubuntu"
+msgstr ""
+
+#: options.php:327
+msgid "Ultra"
+msgstr ""
+
+#: options.php:328
+msgid "UnifrakturCook"
+msgstr ""
+
+#: options.php:329
+msgid "UnifrakturMaguntia"
+msgstr ""
+
+#: options.php:330
+msgid "Unkempt"
+msgstr ""
+
+#: options.php:332
+msgid "Unna"
+msgstr ""
+
+#: options.php:333
+msgid "VT323"
+msgstr ""
+
+#: options.php:334
+msgid "Varela Round"
+msgstr ""
+
+#: options.php:335
+msgid "Varela"
+msgstr ""
+
+#: options.php:336
+msgid "Vast Shadow"
+msgstr ""
+
+#: options.php:337
+msgid "Vibur"
+msgstr ""
+
+#: options.php:338
+msgid "Vidaloka"
+msgstr ""
+
+#: options.php:339
+msgid "Volkhov"
+msgstr ""
+
+#: options.php:340
+msgid "Vollkorn"
+msgstr ""
+
+#: options.php:341
+msgid "Voltaire"
+msgstr ""
+
+#: options.php:342
+msgid "Waiting for the Sunrise"
+msgstr ""
+
+#: options.php:343
+msgid "Wallpoet"
+msgstr ""
+
+#: options.php:344
+msgid "Walter Turncoat"
+msgstr ""
+
+#: options.php:345
+msgid "Wire One"
+msgstr ""
+
+#: options.php:346
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: options.php:347
+msgid "Yellowtail"
+msgstr ""
+
+#: options.php:348
+msgid "Yeseva One"
+msgstr ""
+
+#: options.php:349
+msgid "Zeyada"
+msgstr ""
+
+#: options.php:359
+msgid "On"
+msgstr ""
+
+#: options.php:360
+msgid "Off"
+msgstr ""
+
+#: options.php:367
+msgid "Wide"
+msgstr ""
+
+#: options.php:368
+msgid "Boxed"
+msgstr ""
+
+#: options.php:376
+msgid "Opened"
+msgstr ""
+
+#: options.php:377
+msgid "Closed"
+msgstr ""
+
+#: options.php:385
+msgid "Image"
+msgstr ""
+
+#: options.php:386
+msgid "Video"
+msgstr ""
+
+#: options.php:393
+msgid "Slider First"
+msgstr ""
+
+#: options.php:394
+msgid "Menu First"
+msgstr ""
+
+#: options.php:395
+msgid "Menu shown while scrolling"
+msgstr ""
+
+#: options.php:404
+msgid "Full"
+msgstr ""
+
+#: options.php:405
+msgid "With Sidebar"
+msgstr ""
+
+#: options.php:467
+msgid "Site Options"
+msgstr ""
+
+#: options.php:471
+msgid "Header Style"
+msgstr ""
+
+#: options.php:472
+msgid "Choose a Header Style"
+msgstr ""
+
+#: options.php:479
+msgid "Please choose Site Font"
+msgstr ""
+
+#: options.php:480
+msgid "The font that will be displayed for the whole site."
+msgstr ""
+
+#: options.php:487
+msgid "Please choose a color for the Site"
+msgstr ""
+
+#: options.php:488
+msgid "This color will be your site color (Links, borders, ...etc)"
+msgstr ""
+
+#: options.php:494
+msgid "Display Back to Top link?"
+msgstr ""
+
+#: options.php:495
+msgid "On/Off Back to Top link"
+msgstr ""
+
+#: options.php:502
+msgid "Enable/Disable Ajax Loading while the site is loading?"
+msgstr ""
+
+#: options.php:503
+msgid "On/Off Ajax Loading"
+msgstr ""
+
+#: options.php:510
+msgid "Display Shopping Cart?"
+msgstr ""
+
+#: options.php:511
+msgid ""
+"On/Off Shopping Cart. If Off then it will be hidden even if the WooCommerce "
+"plugin is enabled"
+msgstr ""
+
+#: options.php:518
+msgid "Display Search Option in the Header?"
+msgstr ""
+
+#: options.php:519
+msgid "On/Off Header Search Option"
+msgstr ""
+
+#: options.php:526
+msgid "Please choose a background image for Page Title section"
+msgstr ""
+
+#: options.php:527
+msgid "Upload your own image here"
+msgstr ""
+
+#: options.php:544
+msgid "Homepage Slider Options"
+msgstr ""
+
+#: options.php:549
+msgid "Enable/Disable Slider in the Homepage Header"
+msgstr ""
+
+#: options.php:550
+msgid ""
+"If Enabled (On) then slider will be shown, else (Off) a static header will "
+"be shown"
+msgstr ""
+
+#: options.php:557
+msgid "Please enter Rev Slider ShortCode"
+msgstr ""
+
+#: options.php:558
+msgid "This will be used if the Slider option above is enabled"
+msgstr ""
+
+#: options.php:565
+msgid "Please Choose Static Header Background Option"
+msgstr ""
+
+#: options.php:566
+msgid ""
+"Image/Video Background Option which will be used with Static header if the "
+"Slider option above is disabled"
+msgstr ""
+
+#: options.php:574
+msgid "Please choose a Background image for the Static Header Option"
+msgstr ""
+
+#: options.php:575
+msgid ""
+"Upload your own Background Image here which will be used with Static header "
+"if the Slider option above is disabled"
+msgstr ""
+
+#: options.php:581
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option (MP4 "
+"format)"
+msgstr ""
+
+#: options.php:582
+msgid ""
+"Video URL (MP4 format) for iOS which will be used as background if the "
+"Slider option above is enabled"
+msgstr ""
+
+#: options.php:589
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option "
+"(webm format)"
+msgstr ""
+
+#: options.php:590
+msgid ""
+"Video URL (webm format) for Firefox 4 and Opera which will be used as "
+"background if the Slider option above is enabled"
+msgstr ""
+
+#: options.php:597
+msgid ""
+"Please enter Video URL as Background image for the Static Header Option (ogv "
+"format)"
+msgstr ""
+
+#: options.php:598
+msgid ""
+"Video URL (ogv format) for Firefox 3 which will be used as background if the "
+"Slider option above is enabled"
+msgstr ""
+
+#: options.php:605
+msgid "Please choose a Logo image for the Static Header Option"
+msgstr ""
+
+#: options.php:606
+msgid ""
+"Upload your own logo here which will be used with Static header if the "
+"Slider option above is disabled"
+msgstr ""
+
+#: options.php:612
+msgid "Please enter a Main Sentence for the Static Header Option"
+msgstr ""
+
+#: options.php:613 options.php:621
+msgid "This will be used if the Slider option above is disabled"
+msgstr ""
+
+#: options.php:620
+msgid ""
+"Please enter a Description Sentences for the Static Header Option, separated "
+"by coma"
+msgstr ""
+
+#: options.php:627
+msgid "Enable/Disable Static Header down arrow"
+msgstr ""
+
+#: options.php:628
+msgid ""
+"If Enabled (On) then down arrow will be shown, else (Off) the down arrow "
+"will be disabled"
+msgstr ""
+
+#: options.php:646
+msgid "Headings Options"
+msgstr ""
+
+#: options.php:650
+msgid "Please choose a font family for your H1 Headings"
+msgstr ""
+
+#: options.php:651
+msgid "This font family will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:658
+msgid "Please choose a color for your H1 Headings"
+msgstr ""
+
+#: options.php:659
+msgid "This color will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:665
+msgid "Please choose a font size for your H1 Headings"
+msgstr ""
+
+#: options.php:666
+msgid "This font size will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:673
+msgid "Please choose a line height for your H1 Headings"
+msgstr ""
+
+#: options.php:674
+msgid "This line height will be displayed for all H1 headings in your site."
+msgstr ""
+
+#: options.php:682
+msgid "Please choose a font family for your H2 Headings"
+msgstr ""
+
+#: options.php:683
+msgid "This font family will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:690
+msgid "Please choose a color for your H2 Headings"
+msgstr ""
+
+#: options.php:691
+msgid "This color will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:697
+msgid "Please choose a font size for your H2 Headings"
+msgstr ""
+
+#: options.php:698
+msgid "This font size will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:705
+msgid "Please choose a line height for your H2 Headings"
+msgstr ""
+
+#: options.php:706
+msgid "This line height will be displayed for all H2 headings in your site."
+msgstr ""
+
+#: options.php:716
+msgid "Please choose a font family for your H3 Headings"
+msgstr ""
+
+#: options.php:717
+msgid "This font family will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:724
+msgid "Please choose a color for your H3 Headings"
+msgstr ""
+
+#: options.php:725
+msgid "This color will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:731
+msgid "Please choose a font size for your H3 Headings"
+msgstr ""
+
+#: options.php:732
+msgid "This font size will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:739
+msgid "Please choose a line height for your H3 Headings"
+msgstr ""
+
+#: options.php:740
+msgid "This line height will be displayed for all H3 headings in your site."
+msgstr ""
+
+#: options.php:750
+msgid "Please choose a font family for your H4 Headings"
+msgstr ""
+
+#: options.php:751
+msgid "This font family will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:758
+msgid "Please choose a color for your H4 Headings"
+msgstr ""
+
+#: options.php:759
+msgid "This color will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:765
+msgid "Please choose a font size for your H4 Headings"
+msgstr ""
+
+#: options.php:766
+msgid "This font size will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:773
+msgid "Please choose a line height for your H4 Headings"
+msgstr ""
+
+#: options.php:774
+msgid "This line height will be displayed for all H4 headings in your site."
+msgstr ""
+
+#: options.php:782
+msgid "Please choose a font family for your H5 Headings"
+msgstr ""
+
+#: options.php:783
+msgid "This font family will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:790
+msgid "Please choose a color for your H5 Headings"
+msgstr ""
+
+#: options.php:791
+msgid "This color will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:797
+msgid "Please choose a font size for your H5 Headings"
+msgstr ""
+
+#: options.php:798
+msgid "This font size will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:805
+msgid "Please choose a line height for your H5 Headings"
+msgstr ""
+
+#: options.php:806
+msgid "This line height will be displayed for all H5 headings in your site."
+msgstr ""
+
+#: options.php:814
+msgid "Please choose a font family for your H6 Headings"
+msgstr ""
+
+#: options.php:815
+msgid "This font family will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:823
+msgid "Please choose a color for your H6 Headings"
+msgstr ""
+
+#: options.php:824
+msgid "This color will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:830
+msgid "Please choose a font size for your H6 Headings"
+msgstr ""
+
+#: options.php:831
+msgid "This font size will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:838
+msgid "Please choose a line height for your H6 Headings"
+msgstr ""
+
+#: options.php:839
+msgid "This line height will be displayed for all H6 headings in your site."
+msgstr ""
+
+#: options.php:854
+msgid "Logo & Favicon Options"
+msgstr ""
+
+#: options.php:858
+msgid "Do you want to display a Logo on your site?"
+msgstr ""
+
+#: options.php:859
+msgid "On/Off your Site Logo"
+msgstr ""
+
+#: options.php:867
+msgid "Please choose a logo for your Site"
+msgstr ""
+
+#: options.php:868
+msgid "Upload your own logo here (Suggest: 115 X 43 pixel)"
+msgstr ""
+
+#: options.php:874
+msgid "Please enter the padding top value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:875
+msgid ""
+"This is the Space between the logo container and the top of the container"
+msgstr ""
+
+#: options.php:882
+msgid "Please enter the padding bottom value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:883
+msgid ""
+"This is the Space between the logo container and the bottom of the container"
+msgstr ""
+
+#: options.php:890
+msgid "Please enter the padding left value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:891
+msgid ""
+"This is the Space between the logo container and the left of the container"
+msgstr ""
+
+#: options.php:898
+msgid "Please enter the padding right value for the Logo in PIXELS"
+msgstr ""
+
+#: options.php:899
+msgid ""
+"This is the Space between the logo container and the right of the container"
+msgstr ""
+
+#: options.php:906
+msgid ""
+"Please enter a text to display instead of the logo if you chosen not to "
+"display logo from the above options"
+msgstr ""
+
+#: options.php:907
+msgid ""
+"This text will be shown instead of logo there is no logo uploaded to the "
+"site or if you chosen not to display the logo from the above options."
+msgstr ""
+
+#: options.php:914
+msgid "Please enter your (16 X 16) Favicon"
+msgstr ""
+
+#: options.php:915
+msgid "This Favicon will be displayed within your browser"
+msgstr ""
+
+#: options.php:929
+msgid "Contact Information"
+msgstr ""
+
+#: options.php:933
+msgid "Please enter your Company name"
+msgstr ""
+
+#: options.php:934
+msgid "This will be shown in your contact widget as your Contact/Business name"
+msgstr ""
+
+#: options.php:941
+msgid "Please enter your Company Address Line 1"
+msgstr ""
+
+#: options.php:942
+msgid ""
+"This will be shown in your contact widget as your Company/Business Address "
+"Line 1"
+msgstr ""
+
+#: options.php:949
+msgid "Please enter your Company Address Line 2"
+msgstr ""
+
+#: options.php:950
+msgid ""
+"This will be shown in your contact widget as your Company/Business Address "
+"Line 2"
+msgstr ""
+
+#: options.php:957
+msgid "Please enter your company phone No.#"
+msgstr ""
+
+#: options.php:958
+msgid ""
+"This will be shown in your contact widget as your Contact/Business phone No.#"
+msgstr ""
+
+#: options.php:965
+msgid "Please enter your company mail"
+msgstr ""
+
+#: options.php:966
+msgid "This will be shown in your contact widget as your Contact/Business mail"
+msgstr ""
+
+#: options.php:973
+msgid "Please enter your company site URL"
+msgstr ""
+
+#: options.php:974
+msgid "This will be shown in your contact widget as your Contact/Business URL"
+msgstr ""
+
+#: options.php:990
+msgid "Shop Page"
+msgstr ""
+
+#: options.php:995
+msgid "Choose the layout of your Shop page"
+msgstr ""
+
+#: options.php:996
+msgid "Full/Sidebar Layout"
+msgstr ""
+
+#: options.php:1012
+msgid "Site Social Media"
+msgstr ""
+
+#: options.php:1016
+msgid "Please choose background for your Site Social Section"
+msgstr ""
+
+#: options.php:1017
+msgid ""
+"Upload your own background image/pattern here= and it will be displayed as a "
+"background of your social section"
+msgstr ""
+
+#: options.php:1023
+msgid "Enable Aniamtion for Social section?"
+msgstr ""
+
+#: options.php:1024
+msgid "Enable/Disable Social section animation"
+msgstr ""
+
+#: options.php:1031
+msgid "Please enter your FaceBook page URL"
+msgstr ""
+
+#: options.php:1032
+msgid ""
+"This link will be used by your users to navigate to your Facebook page from "
+"your site header."
+msgstr ""
+
+#: options.php:1039
+msgid "Please enter your Twitter page URL"
+msgstr ""
+
+#: options.php:1040
+msgid ""
+"This link will be used by your users to navigate to your Twitter page from "
+"your site header."
+msgstr ""
+
+#: options.php:1047
+msgid "Please enter your Dribbble page URL"
+msgstr ""
+
+#: options.php:1048
+msgid ""
+"This link will be used by your users to navigate to your Dribbble page from "
+"your site header."
+msgstr ""
+
+#: options.php:1055
+msgid "Please enter your Pinterest page URL"
+msgstr ""
+
+#: options.php:1056
+msgid ""
+"This link will be used by your users to navigate to your Pinterest page from "
+"your site header."
+msgstr ""
+
+#: options.php:1064
+msgid "Please enter your LinkedIn page URL"
+msgstr ""
+
+#: options.php:1065
+msgid ""
+"This link will be used by your users to navigate to your LinkedIn page from "
+"your site header."
+msgstr ""
+
+#: options.php:1072
+msgid "Please enter your RSS page URL"
+msgstr ""
+
+#: options.php:1073
+msgid ""
+"This link will be used by your users to navigate to your RSS page from your "
+"site header."
+msgstr ""
+
+#: options.php:1080
+msgid "Please enter your Skype ID"
+msgstr ""
+
+#: options.php:1081
+msgid "This link will be used by your users to know your Skype ID."
+msgstr ""
+
+#: options.php:1088
+msgid "Please enter your Google+ page URL"
+msgstr ""
+
+#: options.php:1089
+msgid ""
+"This link will be used by your users to navigate to your Google+ page from "
+"your site header."
+msgstr ""
+
+#: options.php:1096
+msgid "Please enter your Deviantart page URL"
+msgstr ""
+
+#: options.php:1097
+msgid ""
+"This link will be used by your users to navigate to your Deviantart page "
+"from your site header."
+msgstr ""
+
+#: options.php:1104
+msgid "Please enter your Instagram page URL"
+msgstr ""
+
+#: options.php:1105
+msgid ""
+"This link will be used by your users to navigate to your Instagram page from "
+"your site header."
+msgstr ""
+
+#: options.php:1112
+msgid "Please enter your YouTube page URL"
+msgstr ""
+
+#: options.php:1113
+msgid ""
+"This link will be used by your users to navigate to your YouTube page from "
+"your site header."
+msgstr ""
+
+#: options.php:1128
+msgid "Footer Options"
+msgstr ""
+
+#: options.php:1132
+msgid "Please choose a color for your Footer section"
+msgstr ""
+
+#: options.php:1133
+msgid "This color will be used as a background color on your footer section"
+msgstr ""
+
+#: options.php:1139
+msgid "Do you want to display the Copyrights Section in the footer?"
+msgstr ""
+
+#: options.php:1140
+msgid "On/Off Copyrights Section"
+msgstr ""
+
+#: options.php:1148
+msgid "Please enter your Copyrights Text"
+msgstr ""
+
+#: options.php:1149
+msgid "This text will be shown as a Copyrights text in your footer section."
+msgstr ""
+
+#: options.php:1155
+msgid "Do you want to display a Menu in your Footer?"
+msgstr ""
+
+#: options.php:1156
+msgid "On/Off Menu in Footer Section"
+msgstr ""
+
+#: options.php:1163
+msgid "Footer Menu replacement text"
+msgstr ""
+
+#: options.php:1164
+msgid ""
+"This text will be displayed in your footer if you disabled the menu in the "
+"above option."
+msgstr ""
+
+#: options.php:1181
+msgid "Portfolio Settings - Options"
+msgstr ""
+
+#: options.php:1185
+msgid "Please enter your Portfolio Page URL"
+msgstr ""
+
+#: options.php:1186
+msgid ""
+"This URL will be used in your Portfolio single page, and keep it empty to "
+"hide it"
+msgstr ""
+
+#: options.php:1201
+msgid "Blog - Options"
+msgstr ""
+
+#: options.php:1205
+msgid "Do you want to show (About Author) section in the Single Post Page?"
+msgstr ""
+
+#: options.php:1206
+msgid "On/Off (About Author) Section"
+msgstr ""
+
+#: options.php:1220
+msgid "Index Page - Options"
+msgstr ""
+
+#: options.php:1224
+msgid "Please enter Index page Title"
+msgstr ""
+
+#: options.php:1225
+msgid "This title will be used for your index page"
+msgstr ""
+
+#: options.php:1232
+msgid "Please enter Index page Sub Title"
+msgstr ""
+
+#: options.php:1233
+msgid "This Sub Title will be used for your index page"
+msgstr ""
+
+#: options.php:1247
+msgid "WooCommerce - Options"
+msgstr ""
+
+#: options.php:1251
+msgid "Please a color to merge it with theme color for WooCommerce elements"
+msgstr ""
+
+#: options.php:1252
+msgid "This color will be used as a merged color for some WooCommerce elements"
+msgstr ""
+
+#: options.php:1268
+msgid "Coming Soon - Options"
+msgstr ""
+
+#: options.php:1272
+msgid "Please enter the end day in DD format"
+msgstr ""
+
+#: options.php:1273
+msgid "This day will be the day of end date for the count down"
+msgstr ""
+
+#: options.php:1280
+msgid "Please enter the end month in MM format"
+msgstr ""
+
+#: options.php:1281
+msgid "This Month will be the month of end date for the count down"
+msgstr ""
+
+#: options.php:1289
+msgid "Please enter the end year in YYYY format"
+msgstr ""
+
+#: options.php:1290
+msgid "This Year will be the year of end date for the count down"
+msgstr ""
+
+#: options.php:1305
+msgid "404 Page - Options"
+msgstr ""
+
+#: options.php:1309
+msgid "Please enter a page title for your 404"
+msgstr ""
+
+#: options.php:1310
+msgid "This Title will be displayed for any 404/incorrect page."
+msgstr ""
+
+#: options.php:1317
+msgid "Please enter a brief description for your customers"
+msgstr ""
+
+#: options.php:1318
+msgid "This description will be displayed at the middle of the page."
+msgstr ""
+
+#: options.php:1333
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:1337
+msgid "Please feel free to add any custom CSS code for your site"
+msgstr ""
+
+#: options.php:1338
+msgid ""
+"Here you can enter any type of a valid CSS code in order to manage your site "
+"style."
+msgstr ""
+
+#: page.php:22
+msgid "Your Cart"
+msgstr "Tu Carrito"
+
+#: page.php:26
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: search.php:35
+msgid " Comments"
+msgstr " Comentarios"
+
+#: search.php:36
+msgid " Comment"
+msgstr " Comentario"
+
+#: search.php:49 search.php:52
+msgid "Search for "
+msgstr "Buscar "
+
+#: search.php:110
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Lo sentimos, no hay resultados."
+
+#: single.php:53
+msgid "Currently Viewing: "
+msgstr "Vistos: "
+
+#: single.php:74
+msgid "Client"
+msgstr ""
+
+#: single.php:76
+msgid "Project Summary"
+msgstr ""
+
+#: single.php:78
+msgid "Date"
+msgstr ""
+
+#: single.php:82
+msgid "Launch Website"
+msgstr ""
+
+#: single.php:132
+msgid "Tags: "
+msgstr ""
+
+#: single.php:227
+msgid "About Author"
+msgstr ""
+
+#: single.php:238
+msgid "View all contributions by:"
+msgstr ""
+
+#: single.php:259
+msgid "Pages: "
+msgstr "Páginas: "
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+msgid "Coupon"
+msgstr "Cupón"
+
+#: woocommerce/cart/cart.php:118
+msgid "Coupon code"
+msgstr "Código"
+
+#: woocommerce/cart/cart.php:118
+msgid "Apply Coupon"
+msgstr "Aplicar Cupón"
+
+#: woocommerce/cart/cart.php:125
+msgid "Update Cart"
+msgstr "Actualizar Carrito"
+
+#: woocommerce/cart/cart.php:125
+msgid "Proceed to Checkout"
+msgstr "Ia r Pedido"
+
+#: woocommerce/cart/mini-cart.php:49
+msgid "Sub Total"
+msgstr ""
+
+#: woocommerce/content-product.php:53
+msgid "Sale!"
+msgstr "Venta!"
+
+#: woocommerce/content-product.php:69
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: woocommerce/content-product.php:81
+msgid "From: "
+msgstr "Desde: "
+
+#: woocommerce/single-product.php:26
+msgid "You are here:  "
+msgstr "Estas aquí:  "
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.profteamsolutions.com/insperia/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Multi-Purpose Wordpress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProfTeam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.profteamsolutions.com"
+msgstr ""

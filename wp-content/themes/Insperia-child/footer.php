@@ -94,17 +94,19 @@
 		<div class="copyright-info">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-6">
+					<div class="col-sm-5">
 						<?php if (of_get_option('select_copyrights_columns',$prof_default) == 'On') { ?>
 							<p><?php echo of_get_option('footer_text',$prof_default); ?></p>
 						<?php } ?>						
 					</div>
-					<div class="col-sm-6 leagles">
+					<div class="col-sm-7">
 						<?php
 							if (of_get_option('select_menu_footer',$prof_default) == 'On') {
 									wp_nav_menu( array( 'theme_location' => 'extra-menu' ) );
 							} else {
-									echo of_get_option('select_menu_text',$prof_default);
+								 if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('footer_credits_sidebar')) {
+								 dynamic_sidebar('footer_credits_sidebar');
+								}
 							}
 						?>				
 					</div>

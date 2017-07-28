@@ -174,7 +174,7 @@
 										<a href="<?php echo esc_url($woocommerce->cart->get_cart_url()); ?>" class="dropdown-toggle insperia-cart-contents" data-toggle="dropdown">
 											<i class="fa fa-shopping-cart"></i> <span class="label label-primary"><?php echo sprintf(_n('%d', '%d', $woocommerce->cart->cart_contents_count, 'woothemes'), $woocommerce->cart->cart_contents_count);?></span>
 										</a>
-										<div class="widget_shopping_cart_content dropdown cart-nav"><?php echo insperia_get_header_cart(); ?></div>                               
+										<div class="widget_shopping_cart_content dropdown cart-nav"><?php echo insperia_get_header_cart(); ?></div>
 									</li>
 							<?php } ?>
 						</ul>

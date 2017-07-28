@@ -133,9 +133,10 @@ function ic_format_color( $color ='' ) {
     return '';
 }
 function theme_enqueue_styles() {
-    wp_dequeue_script('insperia-custom');
-    wp_enqueue_style('insperia-custom', get_template_directory_uri().'/insperia-styles.css');
-    wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( 'insperia-custom' ) );
+    wp_dequeue_style('insperia-custom');
+   // wp_enqueue_style('insperia-custom', get_template_directory_uri().'/insperia-styles.css');
+    wp_enqueue_style( 'custom-style', get_stylesheet_directory_uri() . '/custom-style.css', array( ) );
+    wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( ) );
 }
 function theme_enqueue_script() {
     wp_enqueue_script( 'custom-nav', get_stylesheet_directory_uri() . '/assets/custom_nav.js', array( 'jquery' ),'1.0',true);
@@ -209,6 +210,7 @@ function __call_filter_testimonial_terms () {
 }
 function vc_before_init_actions() {
     require( dirname(__FILE__).'/vc-elements/wc_testimonial_box.php' );
+    require( dirname(__FILE__).'/vc-elements/wc_blog_box.php' );
 }
 function hide_stock () {
     return '';
@@ -222,7 +224,89 @@ function product_widgets_init() {
         'before_title' => '<h2 class="widget-title">',
         'after_title' => '</h2>',
     ) );
+    register_sidebar( array(
+        'name' => 'Footer Credit Sidebar',
+        'id' => 'footer_credits_sidebar',
+        'before_widget' => '<aside class="widget %2$s">',
+        'after_widget' => '</aside>',
+        'before_title' => '<h2 class="widget-title">',
+        'after_title' => '</h2>',
+    ) );
 
+}
+function Custom_Import_CSS(){
+
+    $file = get_stylesheet_directory(). '/custom-style.css';
+
+    /* Append a new person to the file */
+    $current = Insperia_Generate_CSS();
+
+    /* Write the contents back to the file */
+    file_put_contents($file, $current);
+}
+function custom_get_header_cart(){
+    $output = '';
+    if (class_exists('Woocommerce')) {
+        global $woocommerce;
+
+        do_action( 'woocommerce_before_mini_cart' );
+
+        $output .= '<ul class="cart_list product_list_widget ">';
+
+         if ( ! WC()->cart->is_empty() ) :
+             foreach ( WC()->cart->get_cart() as $cart_item_key => $cart_item ) {
+                $_product     = apply_filters( 'woocommerce_cart_item_product', $cart_item['data'], $cart_item, $cart_item_key );
+                $product_id   = apply_filters( 'woocommerce_cart_item_product_id', $cart_item['product_id'], $cart_item, $cart_item_key );
+
+                if ( $_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters( 'woocommerce_widget_cart_item_visible', true, $cart_item, $cart_item_key ) ) {
+                    $product_name      = apply_filters( 'woocommerce_cart_item_name', $_product->get_name(), $cart_item, $cart_item_key );
+                    $thumbnail         = apply_filters( 'woocommerce_cart_item_thumbnail', $_product->get_image(), $cart_item, $cart_item_key );
+                    $product_price     = apply_filters( 'woocommerce_cart_item_price', WC()->cart->get_product_price( $_product ), $cart_item, $cart_item_key );
+                    $product_permalink = apply_filters( 'woocommerce_cart_item_permalink', $_product->is_visible() ? $_product->get_permalink( $cart_item ) : '', $cart_item, $cart_item_key );
+
+                    $output .= '<li>
+								<a href="'. esc_url(get_permalink( $product_id )) .'">
+									'. $thumbnail . $product_name .'
+								</a>
+
+								'. WC()->cart->get_item_data( $cart_item ) .'
+
+								'. apply_filters( 'woocommerce_widget_cart_item_quantity', '<span class="quantity">' . sprintf( '%s &times; %s', $cart_item['quantity'], $product_price ) . '</span>', $cart_item, $cart_item_key ) .'
+							</li>';
+                    $output .= '<li class="'. esc_attr( apply_filters( 'woocommerce_mini_cart_item_class', 'mini_cart_item', $cart_item, $cart_item_key ) ).'">
+						';
+                            if ( ! $_product->is_visible() ) :
+                                $output .= str_replace( array( 'http:', 'https:' ), '', $thumbnail ) . $product_name . '&nbsp;';
+                            else :
+                                $output .='<a href="'. esc_url( $product_permalink ).'">';
+                                $output .=str_replace( array( 'http:', 'https:' ), '', $thumbnail ) . $product_name . '&nbsp;';
+                                $output .='</a>';
+                            endif;
+                    $output .= WC()->cart->get_item_data( $cart_item );
+                    $output .= apply_filters( 'woocommerce_widget_cart_item_quantity', '<span class="quantity">' . sprintf( '%s &times; %s', $cart_item['quantity'], $product_price ) . '</span>', $cart_item, $cart_item_key );
+                    $output .='</li>';
+                }
+            }
+            $output .='<li class="sub-total">'._e( 'Sub Total','woocommerce' ).': <span>'. WC()->cart->get_cart_subtotal().'</span></li>';
+            do_action( 'woocommerce_widget_shopping_cart_before_buttons' );
+            $output .= '<li class="btns">
+					<div class="form-inline text-center">
+                <a href="'. esc_url(wc_get_cart_url()) .'" class="btn btn-primary button wc-forward">'. __( 'View Cart', 'insperia' ) .'</a>
+			    <a href="'. esc_url(wc_get_checkout_url()) .'" class="btn btn-primary button checkout wc-forward">' . __( 'Checkout', 'insperia' ) . '</a>
+             </div></li>';
+
+        else:
+            $cart_title = __('No products in the cart.', 'insperia' );
+            $output .= '<li class="empty">'. $cart_title .'</li>';
+        endif;
+
+        $output .= '</ul>';
+
+        do_action( 'woocommerce_after_mini_cart' );
+
+    }
+
+    return $output;
 }
 /******************************************/ 
 /* Add your functions before this */
@@ -233,6 +317,7 @@ add_action('after_setup_theme', 'insperia_child_setup' , 99);
 
 function insperia_child_setup()
 {
+    Custom_Import_CSS();
     add_action('wp_enqueue_scripts', 'theme_enqueue_styles', PHP_INT_MAX);
     add_action('wp_enqueue_scripts', 'theme_enqueue_script');
 
@@ -245,8 +330,7 @@ function insperia_child_setup()
 
     remove_action('save_post', 'insperia_save_testimonial_post_format_person_company', 10);
     remove_action('admin_menu', 'insperia_testimonial_post_format_person_company', 10);
-    /*remove_meta_box('insperia-test-position-box','testimonial','normal');
-    remove_meta_box('insperia-test-company-box','testimonial','normal');*/
+
     add_action('admin_menu', 'testimonial_meta_box');
     add_action('save_post', 'testimonial_meta_box', 10, 2);
 
@@ -268,6 +352,9 @@ function insperia_child_setup()
     add_theme_support( 'wc-product-gallery-slider' );
 
     add_action( 'widgets_init', 'product_widgets_init' );
+
+    remove_action('woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart',10);
+    add_action('woocommerce_before_shop_loop_item_title','woocommerce_template_loop_add_to_cart',30);
 }
 
 ?>
