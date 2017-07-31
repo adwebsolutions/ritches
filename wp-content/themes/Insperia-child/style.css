@@ -215,6 +215,9 @@ footer .ft-heading {
 .insperia-footer-col-handler ul{
 	padding-left: 0;
 }
+.insperia-footer-col-handler img {
+	margin-top:55px;
+}
 .copyright-info {
 	border-top: 1px solid #3a3a3a;
 	padding: 30px 0;
@@ -633,11 +636,25 @@ div.wpsf-slider-section .wpsf-product .wpsf-product-price span{
 	.insperia-footer-col-handler ul {
 		margin-bottom: 0;
 	}
+	.insperia-footer-col-handler img {
+		margin-top:35px;
+	}
 	#menu-footer-direct-links-2 {
+		margin-top: 70px;
+	}
+	aside {
 		margin-top: 0;
+		border-left:0;
+		padding-left: 0;
 	}
 }
 @media screen and (max-width: 767px) {
+	.insperia-footer-col-handler img {
+		margin-top:0;
+	}
+	#menu-footer-direct-links-2 {
+		margin-top: 0;
+	}
 	.testimonials-wrapper .col-2 {
 		width: 100%;
 	}

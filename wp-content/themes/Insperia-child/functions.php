@@ -216,6 +216,13 @@ function hide_stock () {
     return '';
 }
 function product_widgets_init() {
+    register_sidebar(array('name'=>'Footer-Col-V',
+        'id' => 'Footer-Col-V',
+        'before_widget' => '<div id="%1$s" class="widget %2$s">' ,
+        'after_widget' =>  '</div>',
+        'before_title' => '<h4 class="ft-heading">',
+        'after_title' => '</h4>',
+    ));
     register_sidebar( array(
         'name' => 'Product Detail Sidebar',
         'id' => 'product_detail_sidebar',

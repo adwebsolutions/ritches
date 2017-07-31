@@ -69,7 +69,7 @@
 	<footer>
 		<div class="container">
 			<div class="row">
-				<div class="insperia-footer-col-handler col-md-3 col-sm-6 ft-col wow fadeInLeft ">
+				<div class="insperia-footer-col-handler col-md-2 col-sm-6 ft-col wow fadeInLeft ">
 					<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer-Col-I')) { ?> 
 							<?php dynamic_sidebar('Footer-Col-I'); ?>
 					<?php } ?>
@@ -79,27 +79,32 @@
 							<?php dynamic_sidebar('Footer-Col-II'); ?>
 					<?php } ?>
 				</div>										
-				<div class="insperia-footer-col-handler col-md-3 col-sm-6 ft-col wow fadeInRight ">					
+				<div class="insperia-footer-col-handler col-md-2 col-sm-3 ft-col wow fadeInRight ">
 					<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer-Col-III')) { ?>   			
 							<?php dynamic_sidebar('Footer-Col-III'); ?>
 					<?php } ?>
 				</div>										
-				<div class="insperia-footer-col-handler col-md-3 col-sm-6 ft-col wow fadeInRight ">						
+				<div class="insperia-footer-col-handler col-md-2 col-sm-4 ft-col wow fadeInRight ">
 					<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer-Col-IV')) { ?>  		
 							<?php dynamic_sidebar('Footer-Col-IV'); ?>
 					<?php } ?>				
-				</div>										
+				</div>
+				<div class="insperia-footer-col-handler col-md-3 col-sm-5 ft-col wow fadeInRight ">
+					<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer-Col-V')) { ?>
+						<?php dynamic_sidebar('Footer-Col-V'); ?>
+					<?php } ?>
+				</div>
 			</div>
 		</div>
 		<div class="copyright-info">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-5">
+					<div class="col-md-5">
 						<?php if (of_get_option('select_copyrights_columns',$prof_default) == 'On') { ?>
 							<p><?php echo of_get_option('footer_text',$prof_default); ?></p>
 						<?php } ?>						
 					</div>
-					<div class="col-sm-7">
+					<div class="col-md-7">
 						<?php
 							if (of_get_option('select_menu_footer',$prof_default) == 'On') {
 									wp_nav_menu( array( 'theme_location' => 'extra-menu' ) );
