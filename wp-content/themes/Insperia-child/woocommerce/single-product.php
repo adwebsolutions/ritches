@@ -65,7 +65,7 @@ $sentient_breadcrumb_text = __("You are here:  ","insperia");
 			<div class="sentient-portfolio-related-items-main-container">
 				<div class="sentient-portfolio-related-items-main-container-internal">
 					<h2 class="text-center styled-header wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
-						<?php echo __('Related Products','woocommerce')?>
+						<?php echo __('Related Products','insperia-child')?>
 							<span class="header-style">
 								<i class="fa fa-shopping-cart"></i>
 							</span>

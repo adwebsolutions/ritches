@@ -1,0 +1,38 @@
+@Plugin Name: Price and discounts based on Custom Roles in WooCommerce
+
+# Version Release: 3.0 - 04-12-2015
+
+Compatibility Test :
+- Plugin Compatibility tested with Wordpress 4.3.1
+- Plugin Compatibility tested with WooCommerce 2.4.10
+- Feature are completely working with Latest Version of Wordpress and WooCommerce
+
+# Version 2.0 – 20-08-2015
+
+Improvements :
+
+- Plugin Make Compatible with Woocommerce 2.4 and Wordpress 4.3
+
+Percentage Discounts for users Roles :
+
+- Now plugin support both price and percentage discounts<br />
+- Admin can enable/disable feature for percentage and price discount.
+
+# Version 1.2 – 14-08-2015
+
+New Feature :
+
+- We have add a new feature of mapping contact form 7 fields. This feature allows users to create any number of fields in Contact 7 form and save the complete information like billing and shipping information. All these are also saved in the WooCommerce Orders Sections.
+
+# Version 1.1 – 13-05-2015
+
+New Feature :
+
+- New functionality "Ask a Question" on product added
+- New functionality of "Share with Friend" added
+- Request a quote with Contact Form 7 Feature created
+- Compatibility created with Wordpress: 4.2 and Woocommerce version 2.3.8
+
+# Version 1.0 – 06-07-2015
+
+- Initial Release

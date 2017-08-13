@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Insperia\n"
-"POT-Creation-Date: 2017-07-28 10:01-0400\n"
-"PO-Revision-Date: 2017-07-28 10:05-0400\n"
+"POT-Creation-Date: 2017-08-13 07:36-0400\n"
+"PO-Revision-Date: 2017-08-13 07:39-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -182,19 +182,19 @@ msgstr ""
 msgid "Image after treatment"
 msgstr ""
 
-#: functions.php:290 woocommerce/cart/mini-cart.php:62
+#: functions.php:300 woocommerce/cart/mini-cart.php:62
 msgid "Sub Total"
 msgstr ""
 
-#: functions.php:294 woocommerce/cart/mini-cart.php:68
+#: functions.php:304 woocommerce/cart/mini-cart.php:68
 msgid "View Cart"
 msgstr "Ir al Carrito"
 
-#: functions.php:295 woocommerce/cart/mini-cart.php:69
+#: functions.php:305 woocommerce/cart/mini-cart.php:69
 msgid "Checkout"
 msgstr "Ir a Pedido"
 
-#: functions.php:299 woocommerce/cart/mini-cart.php:77
+#: functions.php:309 woocommerce/cart/mini-cart.php:77
 msgid "No products in the cart."
 msgstr "No hay productos."
 
@@ -208,6 +208,10 @@ msgid "%d"
 msgid_plural "%d"
 msgstr[0] ""
 msgstr[1] ""
+
+#: header.php:196
+msgid "Type your text here"
+msgstr "Inserte el texto aquí"
 
 #: meta-box-class/my-meta-box-class.php:789
 msgid "Select a color"
@@ -2490,7 +2494,7 @@ msgstr ""
 
 #: vc-elements/wc_testimonial_box.php:65
 msgid "Show Filters"
-msgstr ""
+msgstr "Mostrar Filtros"
 
 #: vc-elements/wc_testimonial_box.php:67 vc-elements/wc_testimonial_box.php:73
 msgid "Yes,please"
@@ -2539,10 +2543,8 @@ msgstr ""
 
 #: wc-brand/includes/wc-brand-admin.php:36
 #: wc-brand/includes/wc-brand-admin.php:111
-#, fuzzy
-#| msgid "Remove this item"
 msgid "Remove image"
-msgstr "Eliminar este elemento"
+msgstr "Eliminar imagen"
 
 #: wc-brand/includes/wc-brand-admin.php:59
 #: wc-brand/includes/wc-brand-admin.php:136
@@ -2605,16 +2607,12 @@ msgid "DHWOO Product Brands"
 msgstr ""
 
 #: wc-brand/includes/wc-widget-brands.php:23
-#, fuzzy
-#| msgid "Product"
 msgid "Product brands"
-msgstr "Producto"
+msgstr "Líneas de productos"
 
 #: wc-brand/includes/wc-widget-brands.php:161
-#, fuzzy
-#| msgid "No products in the cart."
 msgid "No product brands exist."
-msgstr "No hay productos."
+msgstr "No hay líneas de productos."
 
 #: wc-brand/includes/wc-widget-brands.php:190
 #: wc-brand/includes/wc-widget-layered-nav.php:306
@@ -2696,21 +2694,17 @@ msgid "Hide empty brands"
 msgstr ""
 
 #: wc-brand/wc-brand.php:50 wc-brand/wc-brand.php:52
-#, fuzzy
-#| msgid "Product"
 msgid "Product Brands"
-msgstr "Producto"
+msgstr "Líneas de Productos"
 
 #: wc-brand/wc-brand.php:53
-#, fuzzy
-#| msgid "Product"
 msgid "Product Brand"
-msgstr "Producto"
+msgstr "Línea de Productos"
 
 #: wc-brand/wc-brand.php:54
 msgctxt "Admin menu name"
 msgid "Brands"
-msgstr ""
+msgstr "Líneas"
 
 #: wc-brand/wc-brand.php:55
 msgid "Search Product Brands"
@@ -2791,14 +2785,10 @@ msgid "Coupon code"
 msgstr "Código"
 
 #: woocommerce/cart/cart.php:137
-#, fuzzy
-#| msgid "Apply Coupon"
 msgid "Apply coupon"
 msgstr "Aplicar Cupón"
 
 #: woocommerce/cart/cart.php:142
-#, fuzzy
-#| msgid "Update Cart"
 msgid "Update cart"
 msgstr "Actualizar Carrito"
 
@@ -2807,22 +2797,20 @@ msgid "You are here:  "
 msgstr "Estas aquí:  "
 
 #: woocommerce/single-product.php:68
-#, fuzzy
-#| msgid "Product"
 msgid "Related Products"
-msgstr "Producto"
+msgstr "Productos Relacionados"
 
 #: woocommerce/single-product/meta.php:35
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
 
 #: woocommerce/single-product/meta.php:37
 msgid "Tag:"
 msgid_plural "Tags:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Etiqueta:"
+msgstr[1] "Etiquetas:"
 
 #: woocommerce/single-product/tabs/additional-information.php:25
 msgid "Ficha Técnica"

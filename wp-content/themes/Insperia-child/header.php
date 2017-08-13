@@ -193,7 +193,7 @@
 						if (of_get_option('select_sheadersearch',$prof_default) == 'On') {	
 					?>						
 						<form action="<?php echo esc_url(get_site_url()); ?>" class="search-form" id="searchform" method="get" role="search">						
-							<input type="search" id="s" name="s" value=""  class="form-control search-field" placeholder="Type your text here">
+							<input type="search" id="s" name="s" value=""  class="form-control search-field" placeholder="<?php _e("Type your text here","insperia-child");?>">
 							<button type="button" class="btn btn-default btn-line"><i class="fa fa-times"></i></button>
 						</form>
 					<?php } ?>					

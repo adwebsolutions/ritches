@@ -250,6 +250,9 @@ footer .ft-heading {
 #menu-footer-direct-links-2 {
 	margin-top: 50px;
 }
+.cat-toggle::before {
+	content: 'Filtrar:';
+}
 	/*woocommerce*/
 .woocommerce .products li, .shop .products li {
 	border: 0 !important;

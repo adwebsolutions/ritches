@@ -16,7 +16,6 @@
 	<?php if (of_get_option('facebook_user_account',$prof_default) != '' || of_get_option('linkedin_user_account',$prof_default) != '' || of_get_option('twitter_user_account',$prof_default) != '' || of_get_option('dribbble_user_account',$prof_default) != '' || of_get_option('pinterest_user_account',$prof_default) != '' || of_get_option('deviantart_user_account',$prof_default) != '' || of_get_option('skype_user_account',$prof_default) != '' || of_get_option('rss_user_account',$prof_default) != '') { ?>
 		<hr class="xsmall">
 		<section class="section footer-social-links social-links <?php echo esc_attr($animation); ?>">
-			<span>SÍGUENOS: </span>
 
 			<?php if (of_get_option('facebook_user_account',$prof_default) != '') { ?>
 				<a target="_blank" title="<?php _e("Facebook" , "insperia"); ?>" href="<?php echo esc_url(of_get_option('facebook_user_account',$prof_default)); ?>"> <i class="fa fa-facebook"></i> </a>

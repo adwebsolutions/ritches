@@ -3434,7 +3434,7 @@ Insperia, Add Portfolio Thumbnail URL option - End
 /*------------------------------------------------------
 Insperia, Adds a box to the side column on the Post and Page edit screens - Started
 -------------------------------------------------------*/
-function insperia_add_sidebar_metabox()
+function insperia_add_sidebar_metabox()  
 {  
     add_meta_box(  
         'custom_sidebar',  

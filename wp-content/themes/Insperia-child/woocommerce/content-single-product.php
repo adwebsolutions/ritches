@@ -38,7 +38,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div id="product-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<div class="row">
-		<div class="col-lg-5 col-sm-4">
+		<div class="col-md-5 col-sm-4">
 	<?php
 		/**
 		 * woocommerce_before_single_product_summary hook.
@@ -50,7 +50,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	?>
 			<hr class="visible-xs">
 		</div>
-		<div class="col-lg-4 col-sm-8">
+		<div class="col-md-4 col-sm-8">
 			<div class="product-summary entry-summary">
 
 				<?php
@@ -71,10 +71,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 			</div>
 		</div>
-	<div class="col-lg-3 hidden-xs"></div>
-		<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('product_detail_sidebar') ) :
-
-		endif; ?>
+	<div class="col-md-3 hidden-sm">
+		<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('product_detail_sidebar')) { ?>
+			<?php dynamic_sidebar('product_detail_sidebar'); ?>
+		<?php } ?>
+	</div>
 	</div><!-- .summary -->
 
 	<div class="">

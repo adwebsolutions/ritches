@@ -139,6 +139,9 @@ function theme_enqueue_styles() {
     wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( ) );
 }
 function theme_enqueue_script() {
+    if(is_page_template( 'gallery-template.php' ) ){
+        wp_enqueue_script('nivo-lightbox', get_template_directory_uri().'/js/insperia/nivo-lightbox.min.js', '', '', true);
+    }
     wp_enqueue_script( 'custom-nav', get_stylesheet_directory_uri() . '/assets/custom_nav.js', array( 'jquery' ),'1.0',true);
     wp_enqueue_script( 'custom-ajax', get_stylesheet_directory_uri() . '/assets/custom_ajax.js', array( 'jquery' ),'1.0',true);
 }
@@ -353,10 +356,8 @@ function insperia_child_setup()
 
     add_filter('woocommerce_get_stock_html', 'hide_stock');
 
-    //remove_action( 'woocommerce_product_thumbnails', 'woocommerce_show_product_thumbnails', 20 );
     add_theme_support( 'wc-product-gallery-zoom' );
     add_theme_support( 'wc-product-gallery-lightbox' );
-    add_theme_support( 'wc-product-gallery-slider' );
 
     add_action( 'widgets_init', 'product_widgets_init' );
 

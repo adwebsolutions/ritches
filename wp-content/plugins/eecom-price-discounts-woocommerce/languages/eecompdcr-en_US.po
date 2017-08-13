@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eeecom Woocommerce Price and Discounts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-07 12:52+0530\n"
+"PO-Revision-Date: 2015-09-07 12:52+0530\n"
+"Last-Translator: Envision <magento@envisionecommerce.com>\n"
+"Language-Team: 1 <magento@envisionecommerce.com>\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-eecom-pdcr-discounts-settings.php:21
+msgid "Custom User Roles For Discounts"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:89
+msgid "Plugin Version"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:99
+msgid "Settings"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:125
+#: ../class-eecom-pdcr-discounts.php:94
+msgid "Regularly"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:126
+#: ../class-eecom-pdcr-discounts.php:95
+msgid "You Save"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:147
+msgid "An error occurred. Try again."
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:156
+msgid "Enter a role name"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:182
+msgid "Display Regular Price of Products"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:188
+msgid "Check this to display the regular price."
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:194
+#, php-format
+msgid "Display %s Savings/Discounts"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:200
+msgid "Check this to display the amount being saved."
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:206
+msgid "Enable Discounts in Percentage"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:211
+#, php-format
+msgid ""
+"Option allows to add Discount price in percent. if we add 10 in the discount "
+"field for a user role. 10% discount on regular price will be enable for user "
+"role (Leave the field unchecked for default price discount)"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:217
+msgid "Pricing Roles"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:224
+msgid "Role Name"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:226
+msgid "Action"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:227
+msgid ""
+"When you delete a role then any users with that role will have their role "
+"changed to customer"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts-settings.php:261
+msgid "Add New Role"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts.php:184 ../class-eecom-pdcr-discounts.php:193
+#: ../class-eecom-pdcr-discounts.php:199 ../class-eecom-pdcr-discounts.php:208
+#: ../class-eecom-pdcr-discounts.php:214 ../class-eecom-pdcr-discounts.php:453
+msgid "From:"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts.php:232 ../class-eecom-pdcr-discounts.php:347
+#: ../class-eecom-pdcr-discounts.php:522
+msgid "Free!"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts.php:646
+msgid " Price"
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts.php:673 ../class-eecom-pdcr-discounts.php:783
+msgid "Enter the price for "
+msgstr ""
+
+#: ../class-eecom-pdcr-discounts.php:674 ../class-eecom-pdcr-discounts.php:784
+#: ../class-eecom-pdcr-discounts.php:785
+msgid "Set price ( optional )"
+msgstr ""
+
+#: ../eecom-price-discounts-woocommerce.php:48
+msgid ""
+"\"Price and discounts Plugin\" could not be activated because WooCommerce is "
+"not installed and active."
+msgstr ""
+
+#: ../eecom-price-discounts-woocommerce.php:49
+msgid "Please install and activate "
+msgstr ""
+
+#: ../eecom-price-discounts-woocommerce.php:51
+msgid " before activating the plugin."
+msgstr ""
+
+#~ msgid "Request a Quote"
+#~ msgstr "Request a Quote"
